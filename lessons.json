@@ -50,5 +50,27 @@
         }
       ]
     }
+    {
+      "id": 3,
+      "title": "Составь предложение",
+      "description": "Собери слова в правильном порядке",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "words": ["I", "am", "a", "student"],
+          "correctAnswer": "I am a student",
+          "translation": "Я студент"
+        },
+        {
+          "id": 2,
+          "words": ["She", "is", "my", "friend"],
+          "correctAnswer": "She is my friend",
+          "translation": "Она моя подруга"
+        }
+      ]
+    }
   ]
 }
