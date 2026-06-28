@@ -30,45 +30,2773 @@
     },
     {
       "id": 2,
-      "title": "Составь предложение",
-      "description": "Собери слова в правильном порядке",
-      "difficulty": 2,
-      "type": "SentenceBuilding",
+      "title": "Цвета",
+      "description": "Изучаем названия цветов на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
       "language": "English",
       "tasks": [
         {
           "id": 1,
-          "words": ["I", "am", "a", "student"],
-          "correctAnswer": "I am a student",
-          "translation": "Я студент"
+          "question": "Как переводится 'Red'?",
+          "correctAnswer": "Красный",
+          "wrongAnswers": ["Синий", "Зеленый", "Желтый"]
         },
         {
           "id": 2,
-          "words": ["She", "is", "my", "friend"],
-          "correctAnswer": "She is my friend",
-          "translation": "Она моя подруга"
+          "question": "Как переводится 'Blue'?",
+          "correctAnswer": "Синий",
+          "wrongAnswers": ["Красный", "Фиолетовый", "Оранжевый"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Yellow'?",
+          "correctAnswer": "Желтый",
+          "wrongAnswers": ["Зеленый", "Коричневый", "Серый"]
         }
       ]
     },
     {
       "id": 3,
-      "title": "Составь предложение",
-      "description": "Собери слова в правильном порядке",
-      "difficulty": 2,
-      "type": "SentenceBuilding",
+      "title": "Животные",
+      "description": "Названия животных на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
       "language": "English",
       "tasks": [
         {
           "id": 1,
-          "words": ["I", "am", "a", "student"],
-          "correctAnswer": "I am a student",
-          "translation": "Я студент"
+          "question": "Как переводится 'Cat'?",
+          "correctAnswer": "Кошка",
+          "wrongAnswers": ["Собака", "Лиса", "Волк"]
         },
         {
           "id": 2,
-          "words": ["She", "is", "my", "friend"],
-          "correctAnswer": "She is my friend",
-          "translation": "Она моя подруга"
+          "question": "Как переводится 'Bird'?",
+          "correctAnswer": "Птица",
+          "wrongAnswers": ["Рыба", "Змея", "Медведь"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Fish'?",
+          "correctAnswer": "Рыба",
+          "wrongAnswers": ["Птица", "Кит", "Дельфин"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Еда",
+      "description": "Продукты питания на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Bread'?",
+          "correctAnswer": "Хлеб",
+          "wrongAnswers": ["Масло", "Сыр", "Молоко"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Milk'?",
+          "correctAnswer": "Молоко",
+          "wrongAnswers": ["Вода", "Сок", "Чай"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Egg'?",
+          "correctAnswer": "Яйцо",
+          "wrongAnswers": ["Мясо", "Рис", "Сахар"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Семья",
+      "description": "Члены семьи на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Mother'?",
+          "correctAnswer": "Мама",
+          "wrongAnswers": ["Папа", "Брат", "Сестра"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Father'?",
+          "correctAnswer": "Папа",
+          "wrongAnswers": ["Мама", "Дед", "Бабушка"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Brother'?",
+          "correctAnswer": "Брат",
+          "wrongAnswers": ["Сестра", "Сын", "Дочь"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Одежда",
+      "description": "Названия одежды на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Shirt'?",
+          "correctAnswer": "Рубашка",
+          "wrongAnswers": ["Штаны", "Обувь", "Платье"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Shoes'?",
+          "correctAnswer": "Обувь",
+          "wrongAnswers": ["Носки", "Штаны", "Футболка"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Hat'?",
+          "correctAnswer": "Шляпа",
+          "wrongAnswers": ["Шарф", "Перчатки", "Куртка"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Погода",
+      "description": "Описание погоды на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Sunny'?",
+          "correctAnswer": "Солнечный",
+          "wrongAnswers": ["Дождливый", "Облачный", "Ветреный"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Rainy'?",
+          "correctAnswer": "Дождливый",
+          "wrongAnswers": ["Солнечный", "Снежный", "Теплый"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Cloudy'?",
+          "correctAnswer": "Облачный",
+          "wrongAnswers": ["Ясный", "Туманный", "Холодный"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Транспорт",
+      "description": "Виды транспорта на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Car'?",
+          "correctAnswer": "Машина",
+          "wrongAnswers": ["Автобус", "Поезд", "Самолет"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Plane'?",
+          "correctAnswer": "Самолет",
+          "wrongAnswers": ["Вертолет", "Корабль", "Машина"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Ship'?",
+          "correctAnswer": "Корабль",
+          "wrongAnswers": ["Лодка", "Яхта", "Паром"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Профессии",
+      "description": "Названия профессий на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Doctor'?",
+          "correctAnswer": "Доктор",
+          "wrongAnswers": ["Учитель", "Инженер", "Полицейский"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Teacher'?",
+          "correctAnswer": "Учитель",
+          "wrongAnswers": ["Студент", "Директор", "Врач"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Engineer'?",
+          "correctAnswer": "Инженер",
+          "wrongAnswers": ["Архитектор", "Строитель", "Механик"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Числа",
+      "description": "Изучаем числа на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'One'?",
+          "correctAnswer": "Один",
+          "wrongAnswers": ["Два", "Три", "Четыре"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Five'?",
+          "correctAnswer": "Пять",
+          "wrongAnswers": ["Четыре", "Шесть", "Семь"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Ten'?",
+          "correctAnswer": "Десять",
+          "wrongAnswers": ["Девять", "Одиннадцать", "Двенадцать"]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Дни недели",
+      "description": "Изучаем дни недели на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Monday'?",
+          "correctAnswer": "Понедельник",
+          "wrongAnswers": ["Вторник", "Среда", "Четверг"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Friday'?",
+          "correctAnswer": "Пятница",
+          "wrongAnswers": ["Суббота", "Воскресенье", "Четверг"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Sunday'?",
+          "correctAnswer": "Воскресенье",
+          "wrongAnswers": ["Понедельник", "Суббота", "Пятница"]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Месяцы",
+      "description": "Изучаем месяцы на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'January'?",
+          "correctAnswer": "Январь",
+          "wrongAnswers": ["Февраль", "Март", "Апрель"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'June'?",
+          "correctAnswer": "Июнь",
+          "wrongAnswers": ["Июль", "Август", "Май"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'December'?",
+          "correctAnswer": "Декабрь",
+          "wrongAnswers": ["Ноябрь", "Октябрь", "Сентябрь"]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Время",
+      "description": "Учимся спрашивать время на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Hour'?",
+          "correctAnswer": "Час",
+          "wrongAnswers": ["Минута", "Секунда", "День"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Minute'?",
+          "correctAnswer": "Минута",
+          "wrongAnswers": ["Секунда", "Час", "Неделя"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'O'clock'?",
+          "correctAnswer": "Ровно (час)",
+          "wrongAnswers": ["Половина", "Четверть", "Без"]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Вопросы",
+      "description": "Учим вопросительные слова на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'What'?",
+          "correctAnswer": "Что",
+          "wrongAnswers": ["Кто", "Где", "Когда"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Who'?",
+          "correctAnswer": "Кто",
+          "wrongAnswers": ["Что", "Где", "Почему"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Where'?",
+          "correctAnswer": "Где",
+          "wrongAnswers": ["Куда", "Откуда", "Когда"]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Прилагательные",
+      "description": "Изучаем прилагательные на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Big'?",
+          "correctAnswer": "Большой",
+          "wrongAnswers": ["Маленький", "Высокий", "Низкий"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Small'?",
+          "correctAnswer": "Маленький",
+          "wrongAnswers": ["Большой", "Тонкий", "Толстый"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Happy'?",
+          "correctAnswer": "Счастливый",
+          "wrongAnswers": ["Грустный", "Злой", "Уставший"]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Глаголы",
+      "description": "Изучаем основные глаголы на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'To be'?",
+          "correctAnswer": "Быть",
+          "wrongAnswers": ["Иметь", "Делать", "Говорить"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'To do'?",
+          "correctAnswer": "Делать",
+          "wrongAnswers": ["Брать", "Давать", "Идти"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'To go'?",
+          "correctAnswer": "Идти",
+          "wrongAnswers": ["Бежать", "Плыть", "Лететь"]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Мебель",
+      "description": "Названия мебели на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Table'?",
+          "correctAnswer": "Стол",
+          "wrongAnswers": ["Стул", "Диван", "Кровать"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Chair'?",
+          "correctAnswer": "Стул",
+          "wrongAnswers": ["Стол", "Кресло", "Шкаф"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Bed'?",
+          "correctAnswer": "Кровать",
+          "wrongAnswers": ["Диван", "Полка", "Тумбочка"]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Предлоги",
+      "description": "Изучаем предлоги места на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'In'?",
+          "correctAnswer": "В",
+          "wrongAnswers": ["На", "Под", "Около"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'On'?",
+          "correctAnswer": "На",
+          "wrongAnswers": ["В", "Под", "За"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Under'?",
+          "correctAnswer": "Под",
+          "wrongAnswers": ["Над", "Между", "Рядом"]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Природа",
+      "description": "Слова о природе на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Tree'?",
+          "correctAnswer": "Дерево",
+          "wrongAnswers": ["Цветок", "Трава", "Куст"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Flower'?",
+          "correctAnswer": "Цветок",
+          "wrongAnswers": ["Дерево", "Трава", "Лист"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'River'?",
+          "correctAnswer": "Река",
+          "wrongAnswers": ["Озеро", "Море", "Океан"]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Здания",
+      "description": "Типы зданий на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'School'?",
+          "correctAnswer": "Школа",
+          "wrongAnswers": ["Университет", "Колледж", "Библиотека"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Hospital'?",
+          "correctAnswer": "Больница",
+          "wrongAnswers": ["Клиника", "Аптека", "Поликлиника"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Bank'?",
+          "correctAnswer": "Банк",
+          "wrongAnswers": ["Офис", "Магазин", "Ресторан"]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Спорт",
+      "description": "Виды спорта на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Football'?",
+          "correctAnswer": "Футбол",
+          "wrongAnswers": ["Баскетбол", "Теннис", "Волейбол"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Tennis'?",
+          "correctAnswer": "Теннис",
+          "wrongAnswers": ["Пинг-понг", "Сквош", "Бадминтон"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Swimming'?",
+          "correctAnswer": "Плавание",
+          "wrongAnswers": ["Бег", "Прыжки", "Велоспорт"]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Хобби",
+      "description": "Названия хобби на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Reading'?",
+          "correctAnswer": "Чтение",
+          "wrongAnswers": ["Письмо", "Рисование", "Пение"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Drawing'?",
+          "correctAnswer": "Рисование",
+          "wrongAnswers": ["Лепка", "Вышивание", "Вязание"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Music'?",
+          "correctAnswer": "Музыка",
+          "wrongAnswers": ["Танцы", "Пение", "Актерство"]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Еда 2",
+      "description": "Вкусная еда на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Pizza'?",
+          "correctAnswer": "Пицца",
+          "wrongAnswers": ["Паста", "Рис", "Суп"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Burger'?",
+          "correctAnswer": "Бургер",
+          "wrongAnswers": ["Хот-дог", "Сэндвич", "Пирог"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Sushi'?",
+          "correctAnswer": "Суши",
+          "wrongAnswers": ["Роллы", "Сашими", "Темпура"]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Город",
+      "description": "Городские места на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Street'?",
+          "correctAnswer": "Улица",
+          "wrongAnswers": ["Дорога", "Тропинка", "Площадь"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Park'?",
+          "correctAnswer": "Парк",
+          "wrongAnswers": ["Сад", "Лес", "Сквер"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Shop'?",
+          "correctAnswer": "Магазин",
+          "wrongAnswers": ["Рынок", "Супермаркет", "Ларёк"]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Ощущения",
+      "description": "Опиши свои чувства на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Cold'?",
+          "correctAnswer": "Холодный",
+          "wrongAnswers": ["Теплый", "Горячий", "Морозный"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Hot'?",
+          "correctAnswer": "Горячий",
+          "wrongAnswers": ["Тёплый", "Холодный", "Жаркий"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Hungry'?",
+          "correctAnswer": "Голодный",
+          "wrongAnswers": ["Жаждущий", "Сытый", "Уставший"]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Наречия",
+      "description": "Изучаем наречия на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Always'?",
+          "correctAnswer": "Всегда",
+          "wrongAnswers": ["Иногда", "Никогда", "Часто"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Never'?",
+          "correctAnswer": "Никогда",
+          "wrongAnswers": ["Всегда", "Редко", "Иногда"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Often'?",
+          "correctAnswer": "Часто",
+          "wrongAnswers": ["Редко", "Всегда", "Иногда"]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Космос",
+      "description": "Слова о космосе на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Star'?",
+          "correctAnswer": "Звезда",
+          "wrongAnswers": ["Планета", "Солнце", "Луна"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Sun'?",
+          "correctAnswer": "Солнце",
+          "wrongAnswers": ["Луна", "Планета", "Звезда"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Moon'?",
+          "correctAnswer": "Луна",
+          "wrongAnswers": ["Солнце", "Планета", "Комета"]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Технологии",
+      "description": "Слова о технологиях на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Computer'?",
+          "correctAnswer": "Компьютер",
+          "wrongAnswers": ["Ноутбук", "Телефон", "Планшет"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Phone'?",
+          "correctAnswer": "Телефон",
+          "wrongAnswers": ["Компьютер", "Планшет", "Телевизор"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Internet'?",
+          "correctAnswer": "Интернет",
+          "wrongAnswers": ["Сайт", "Почта", "Соцсеть"]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Искусство",
+      "description": "Слова об искусстве на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Painting'?",
+          "correctAnswer": "Живопись",
+          "wrongAnswers": ["Скульптура", "Рисунок", "Фото"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Music'?",
+          "correctAnswer": "Музыка",
+          "wrongAnswers": ["Песня", "Инструмент", "Концерт"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Theatre'?",
+          "correctAnswer": "Театр",
+          "wrongAnswers": ["Кино", "Цирк", "Музей"]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Праздники",
+      "description": "Названия праздников на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Birthday'?",
+          "correctAnswer": "День рождения",
+          "wrongAnswers": ["Новый год", "Свадьба", "Юбилей"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Christmas'?",
+          "correctAnswer": "Рождество",
+          "wrongAnswers": ["Пасха", "Хэллоуин", "День благодарения"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Easter'?",
+          "correctAnswer": "Пасха",
+          "wrongAnswers": ["Рождество", "День святого Валентина", "Масленица"]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Животные 2",
+      "description": "Дикие животные на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Wolf'?",
+          "correctAnswer": "Волк",
+          "wrongAnswers": ["Лиса", "Медведь", "Лось"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Fox'?",
+          "correctAnswer": "Лиса",
+          "wrongAnswers": ["Волк", "Заяц", "Енот"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Bear'?",
+          "correctAnswer": "Медведь",
+          "wrongAnswers": ["Волк", "Лиса", "Рысь"]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Фрукты",
+      "description": "Названия фруктов на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Banana'?",
+          "correctAnswer": "Банан",
+          "wrongAnswers": ["Яблоко", "Груша", "Апельсин"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Orange'?",
+          "correctAnswer": "Апельсин",
+          "wrongAnswers": ["Лимон", "Мандарин", "Грейпфрут"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Apple'?",
+          "correctAnswer": "Яблоко",
+          "wrongAnswers": ["Груша", "Слива", "Абрикос"]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Овощи",
+      "description": "Названия овощей на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Potato'?",
+          "correctAnswer": "Картофель",
+          "wrongAnswers": ["Морковь", "Капуста", "Лук"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Tomato'?",
+          "correctAnswer": "Помидор",
+          "wrongAnswers": ["Огурец", "Перец", "Баклажан"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Onion'?",
+          "correctAnswer": "Лук",
+          "wrongAnswers": ["Чеснок", "Свекла", "Редис"]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Напитки",
+      "description": "Названия напитков на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Water'?",
+          "correctAnswer": "Вода",
+          "wrongAnswers": ["Сок", "Молоко", "Чай"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Tea'?",
+          "correctAnswer": "Чай",
+          "wrongAnswers": ["Кофе", "Сок", "Лимонад"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Coffee'?",
+          "correctAnswer": "Кофе",
+          "wrongAnswers": ["Какао", "Сок", "Молоко"]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Путешествия",
+      "description": "Слова о путешествиях на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Travel'?",
+          "correctAnswer": "Путешествовать",
+          "wrongAnswers": ["Путешествие", "Поездка", "Туризм"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Hotel'?",
+          "correctAnswer": "Отель",
+          "wrongAnswers": ["Хостел", "Гостиница", "Мотель"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Ticket'?",
+          "correctAnswer": "Билет",
+          "wrongAnswers": ["Паспорт", "Виза", "Карта"]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Книги",
+      "description": "Слова о книгах на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Book'?",
+          "correctAnswer": "Книга",
+          "wrongAnswers": ["Журнал", "Газета", "Брошюра"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Story'?",
+          "correctAnswer": "Рассказ",
+          "wrongAnswers": ["Роман", "Поэма", "Сказка"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Page'?",
+          "correctAnswer": "Страница",
+          "wrongAnswers": ["Глава", "Строка", "Обложка"]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Учеба",
+      "description": "Школьные слова на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Class'?",
+          "correctAnswer": "Класс",
+          "wrongAnswers": ["Урок", "Школа", "Университет"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Homework'?",
+          "correctAnswer": "Домашняя работа",
+          "wrongAnswers": ["Упражнение", "Контрольная", "Экзамен"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Teacher'?",
+          "correctAnswer": "Учитель",
+          "wrongAnswers": ["Студент", "Директор", "Преподаватель"]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Строительство",
+      "description": "Строительные термины на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Building'?",
+          "correctAnswer": "Здание",
+          "wrongAnswers": ["Строительство", "Стена", "Крыша"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Wall'?",
+          "correctAnswer": "Стена",
+          "wrongAnswers": ["Потолок", "Пол", "Окно"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Window'?",
+          "correctAnswer": "Окно",
+          "wrongAnswers": ["Дверь", "Крыша", "Потолок"]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Кухня",
+      "description": "Кухонные предметы на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Fork'?",
+          "correctAnswer": "Вилка",
+          "wrongAnswers": ["Ложка", "Нож", "Тарелка"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Spoon'?",
+          "correctAnswer": "Ложка",
+          "wrongAnswers": ["Вилка", "Нож", "Лопатка"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Knife'?",
+          "correctAnswer": "Нож",
+          "wrongAnswers": ["Вилка", "Ложка", "Половник"]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Медицина",
+      "description": "Медицинские термины на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Medicine'?",
+          "correctAnswer": "Лекарство",
+          "wrongAnswers": ["Болезнь", "Здоровье", "Врач"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Doctor'?",
+          "correctAnswer": "Доктор",
+          "wrongAnswers": ["Медсестра", "Врач", "Хирург"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Hospital'?",
+          "correctAnswer": "Больница",
+          "wrongAnswers": ["Клиника", "Аптека", "Поликлиника"]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Музыка",
+      "description": "Слова о музыке на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Song'?",
+          "correctAnswer": "Песня",
+          "wrongAnswers": ["Мелодия", "Музыка", "Симфония"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Guitar'?",
+          "correctAnswer": "Гитара",
+          "wrongAnswers": ["Фортепиано", "Скрипка", "Барабан"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Concert'?",
+          "correctAnswer": "Концерт",
+          "wrongAnswers": ["Фестиваль", "Выступление", "Тур"]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Кино",
+      "description": "Слова о кино на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Movie'?",
+          "correctAnswer": "Фильм",
+          "wrongAnswers": ["Мультфильм", "Сериал", "Клип"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Actor'?",
+          "correctAnswer": "Актер",
+          "wrongAnswers": ["Режиссер", "Сценарист", "Продюсер"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Cinema'?",
+          "correctAnswer": "Кинотеатр",
+          "wrongAnswers": ["Телевизор", "Компьютер", "Планшет"]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Интернет",
+      "description": "Интернет-термины на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Website'?",
+          "correctAnswer": "Веб-сайт",
+          "wrongAnswers": ["Страница", "Браузер", "Поисковик"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Email'?",
+          "correctAnswer": "Электронная почта",
+          "wrongAnswers": ["Сообщение", "Чат", "Письмо"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Password'?",
+          "correctAnswer": "Пароль",
+          "wrongAnswers": ["Логин", "Пин-код", "Ключ"]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Работа",
+      "description": "Слова о работе на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Job'?",
+          "correctAnswer": "Работа",
+          "wrongAnswers": ["Карьера", "Должность", "Зарплата"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Office'?",
+          "correctAnswer": "Офис",
+          "wrongAnswers": ["Здание", "Комната", "Кабинет"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Boss'?",
+          "correctAnswer": "Начальник",
+          "wrongAnswers": ["Коллега", "Подчиненный", "Директор"]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "В магазине",
+      "description": "Слова для покупок на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Buy'?",
+          "correctAnswer": "Покупать",
+          "wrongAnswers": ["Продавать", "Платить", "Заказывать"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Price'?",
+          "correctAnswer": "Цена",
+          "wrongAnswers": ["Скидка", "Стоимость", "Деньги"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Receipt'?",
+          "correctAnswer": "Чек",
+          "wrongAnswers": ["Купон", "Счет", "Квитанция"]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Эмоции",
+      "description": "Слова о чувствах на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Angry'?",
+          "correctAnswer": "Злой",
+          "wrongAnswers": ["Грустный", "Веселый", "Испуганный"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Sad'?",
+          "correctAnswer": "Грустный",
+          "wrongAnswers": ["Злой", "Счастливый", "Уставший"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Surprised'?",
+          "correctAnswer": "Удивленный",
+          "wrongAnswers": ["Расстроенный", "Взволнованный", "Испуганный"]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Части тела",
+      "description": "Части тела на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Head'?",
+          "correctAnswer": "Голова",
+          "wrongAnswers": ["Лицо", "Шея", "Плечо"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Hand'?",
+          "correctAnswer": "Рука",
+          "wrongAnswers": ["Нога", "Палец", "Локоть"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Leg'?",
+          "correctAnswer": "Нога",
+          "wrongAnswers": ["Рука", "Колено", "Стопа"]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Время года",
+      "description": "Названия времен года на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Summer'?",
+          "correctAnswer": "Лето",
+          "wrongAnswers": ["Весна", "Осень", "Зима"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Winter'?",
+          "correctAnswer": "Зима",
+          "wrongAnswers": ["Лето", "Осень", "Весна"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Spring'?",
+          "correctAnswer": "Весна",
+          "wrongAnswers": ["Осень", "Лето", "Зима"]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Направления",
+      "description": "Стороны света на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'North'?",
+          "correctAnswer": "Север",
+          "wrongAnswers": ["Юг", "Запад", "Восток"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'South'?",
+          "correctAnswer": "Юг",
+          "wrongAnswers": ["Север", "Восток", "Запад"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'East'?",
+          "correctAnswer": "Восток",
+          "wrongAnswers": ["Запад", "Север", "Юг"]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Глаголы 2",
+      "description": "Новые глаголы на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'To eat'?",
+          "correctAnswer": "Есть",
+          "wrongAnswers": ["Пить", "Спать", "Бежать"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'To drink'?",
+          "correctAnswer": "Пить",
+          "wrongAnswers": ["Есть", "Дышать", "Разговаривать"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'To sleep'?",
+          "correctAnswer": "Спать",
+          "wrongAnswers": ["Бодрствовать", "Отдыхать", "Работать"]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Испанский - Приветствия",
+      "description": "Учим испанские приветствия",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Hola'?",
+          "correctAnswer": "Привет",
+          "wrongAnswers": ["Пока", "Спасибо", "Доброе утро"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Adiós'?",
+          "correctAnswer": "Пока",
+          "wrongAnswers": ["Привет", "Добрый день", "Спокойной ночи"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Gracias'?",
+          "correctAnswer": "Спасибо",
+          "wrongAnswers": ["Пожалуйста", "Извините", "Да"]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Испанский - Числа",
+      "description": "Числа на испанском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Uno'?",
+          "correctAnswer": "Один",
+          "wrongAnswers": ["Два", "Три", "Четыре"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Dos'?",
+          "correctAnswer": "Два",
+          "wrongAnswers": ["Один", "Три", "Пять"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Tres'?",
+          "correctAnswer": "Три",
+          "wrongAnswers": ["Четыре", "Пять", "Шесть"]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Французский - Приветствия",
+      "description": "Учим французские приветствия",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Bonjour'?",
+          "correctAnswer": "Здравствуйте",
+          "wrongAnswers": ["До свидания", "Спасибо", "Пожалуйста"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Au revoir'?",
+          "correctAnswer": "До свидания",
+          "wrongAnswers": ["Привет", "Добрый день", "Спокойной ночи"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Merci'?",
+          "correctAnswer": "Спасибо",
+          "wrongAnswers": ["Пожалуйста", "Извините", "Да"]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Немецкий - Приветствия",
+      "description": "Учим немецкие приветствия",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "German",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Hallo'?",
+          "correctAnswer": "Привет",
+          "wrongAnswers": ["Пока", "Спасибо", "Доброе утро"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Auf Wiedersehen'?",
+          "correctAnswer": "До свидания",
+          "wrongAnswers": ["Привет", "Добрый день", "Спасибо"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Danke'?",
+          "correctAnswer": "Спасибо",
+          "wrongAnswers": ["Пожалуйста", "Извините", "Да"]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Итальянский - Приветствия",
+      "description": "Учим итальянские приветствия",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Italian",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Ciao'?",
+          "correctAnswer": "Привет",
+          "wrongAnswers": ["Пока", "Спасибо", "Доброе утро"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Grazie'?",
+          "correctAnswer": "Спасибо",
+          "wrongAnswers": ["Пожалуйста", "Извините", "Да"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Arrivederci'?",
+          "correctAnswer": "До свидания",
+          "wrongAnswers": ["Привет", "Добрый день", "Спокойной ночи"]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Японский - Приветствия",
+      "description": "Учим японские приветствия",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'こんにちは (Konnichiwa)'?",
+          "correctAnswer": "Здравствуйте",
+          "wrongAnswers": ["До свидания", "Спасибо", "Доброе утро"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'ありがとう (Arigatou)'?",
+          "correctAnswer": "Спасибо",
+          "wrongAnswers": ["Пожалуйста", "Извините", "Да"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'さようなら (Sayounara)'?",
+          "correctAnswer": "До свидания",
+          "wrongAnswers": ["Привет", "Добрый день", "Спокойной ночи"]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Китайский - Приветствия",
+      "description": "Учим китайские приветствия",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Chinese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится '你好 (Nǐ hǎo)'?",
+          "correctAnswer": "Здравствуйте",
+          "wrongAnswers": ["До свидания", "Спасибо", "Доброе утро"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится '谢谢 (Xièxiè)'?",
+          "correctAnswer": "Спасибо",
+          "wrongAnswers": ["Пожалуйста", "Извините", "Да"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится '再见 (Zàijiàn)'?",
+          "correctAnswer": "До свидания",
+          "wrongAnswers": ["Привет", "Добрый день", "Спокойной ночи"]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Английский - Семья",
+      "description": "Учим слова о семье на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Sister'?",
+          "correctAnswer": "Сестра",
+          "wrongAnswers": ["Брат", "Мама", "Папа"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Grandma'?",
+          "correctAnswer": "Бабушка",
+          "wrongAnswers": ["Дедушка", "Тетя", "Дядя"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Aunt'?",
+          "correctAnswer": "Тетя",
+          "wrongAnswers": ["Дядя", "Сестра", "Кузен"]
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Английский - Дом",
+      "description": "Слова о доме на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Room'?",
+          "correctAnswer": "Комната",
+          "wrongAnswers": ["Кухня", "Ванная", "Гостиная"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Door'?",
+          "correctAnswer": "Дверь",
+          "wrongAnswers": ["Окно", "Стена", "Потолок"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Floor'?",
+          "correctAnswer": "Пол",
+          "wrongAnswers": ["Потолок", "Стена", "Лестница"]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Английский - Город 2",
+      "description": "Больше слов о городе",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Square'?",
+          "correctAnswer": "Площадь",
+          "wrongAnswers": ["Улица", "Парк", "Здание"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Bridge'?",
+          "correctAnswer": "Мост",
+          "wrongAnswers": ["Тоннель", "Дорога", "Река"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Station'?",
+          "correctAnswer": "Станция",
+          "wrongAnswers": ["Вокзал", "Аэропорт", "Порт"]
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Английский - Еда 3",
+      "description": "Разная еда на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Cake'?",
+          "correctAnswer": "Торт",
+          "wrongAnswers": ["Пирог", "Печенье", "Конфета"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Bread'?",
+          "correctAnswer": "Хлеб",
+          "wrongAnswers": ["Булка", "Батон", "Лаваш"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Cheese'?",
+          "correctAnswer": "Сыр",
+          "wrongAnswers": ["Масло", "Молоко", "Йогурт"]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Английский - Спорт 2",
+      "description": "Еще виды спорта",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Basketball'?",
+          "correctAnswer": "Баскетбол",
+          "wrongAnswers": ["Футбол", "Теннис", "Волейбол"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Volleyball'?",
+          "correctAnswer": "Волейбол",
+          "wrongAnswers": ["Баскетбол", "Теннис", "Футбол"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Swimming'?",
+          "correctAnswer": "Плавание",
+          "wrongAnswers": ["Бег", "Прыжки", "Велоспорт"]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Английский - Хобби 2",
+      "description": "Больше хобби на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Cooking'?",
+          "correctAnswer": "Готовка",
+          "wrongAnswers": ["Уборка", "Стирка", "Мытье"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Singing'?",
+          "correctAnswer": "Пение",
+          "wrongAnswers": ["Танцы", "Игра", "Рисование"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Photography'?",
+          "correctAnswer": "Фотография",
+          "wrongAnswers": ["Видеосъемка", "Рисование", "Лепка"]
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Английский - Профессии 2",
+      "description": "Больше профессий на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Lawyer'?",
+          "correctAnswer": "Юрист",
+          "wrongAnswers": ["Судья", "Прокурор", "Адвокат"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Architect'?",
+          "correctAnswer": "Архитектор",
+          "wrongAnswers": ["Дизайнер", "Строитель", "Инженер"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Journalist'?",
+          "correctAnswer": "Журналист",
+          "wrongAnswers": ["Писатель", "Редактор", "Корреспондент"]
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Английский - Транспорт 2",
+      "description": "Разный транспорт на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Bus'?",
+          "correctAnswer": "Автобус",
+          "wrongAnswers": ["Троллейбус", "Трамвай", "Маршрутка"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Train'?",
+          "correctAnswer": "Поезд",
+          "wrongAnswers": ["Электричка", "Метро", "Трамвай"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Bicycle'?",
+          "correctAnswer": "Велосипед",
+          "wrongAnswers": ["Мотоцикл", "Самокат", "Ролики"]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Английский - Погода 2",
+      "description": "Разная погода на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Windy'?",
+          "correctAnswer": "Ветреный",
+          "wrongAnswers": ["Тихий", "Штормовой", "Холодный"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Snowy'?",
+          "correctAnswer": "Снежный",
+          "wrongAnswers": ["Дождливый", "Облачный", "Морозный"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Foggy'?",
+          "correctAnswer": "Туманный",
+          "wrongAnswers": ["Ясный", "Пасмурный", "Солнечный"]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Английский - Одежда 2",
+      "description": "Больше одежды на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Jacket'?",
+          "correctAnswer": "Куртка",
+          "wrongAnswers": ["Пальто", "Плащ", "Пиджак"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Skirt'?",
+          "correctAnswer": "Юбка",
+          "wrongAnswers": ["Платье", "Шорты", "Брюки"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Scarf'?",
+          "correctAnswer": "Шарф",
+          "wrongAnswers": ["Платок", "Шапка", "Перчатки"]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Английский - Природа 2",
+      "description": "Больше о природе на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Forest'?",
+          "correctAnswer": "Лес",
+          "wrongAnswers": ["Парк", "Сад", "Роща"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Mountain'?",
+          "correctAnswer": "Гора",
+          "wrongAnswers": ["Холм", "Скала", "Вулкан"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Ocean'?",
+          "correctAnswer": "Океан",
+          "wrongAnswers": ["Море", "Река", "Озеро"]
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Английский - Цвета 2",
+      "description": "Больше цветов на английском",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Purple'?",
+          "correctAnswer": "Фиолетовый",
+          "wrongAnswers": ["Сиреневый", "Лиловый", "Бордовый"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Pink'?",
+          "correctAnswer": "Розовый",
+          "wrongAnswers": ["Красный", "Оранжевый", "Бежевый"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Brown'?",
+          "correctAnswer": "Коричневый",
+          "wrongAnswers": ["Серый", "Черный", "Бежевый"]
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Английский - Животные 3",
+      "description": "Больше животных на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Elephant'?",
+          "correctAnswer": "Слон",
+          "wrongAnswers": ["Жираф", "Зебра", "Бегемот"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Giraffe'?",
+          "correctAnswer": "Жираф",
+          "wrongAnswers": ["Слон", "Зебра", "Лев"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Lion'?",
+          "correctAnswer": "Лев",
+          "wrongAnswers": ["Тигр", "Пантера", "Ягуар"]
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Английский - Праздники 2",
+      "description": "Больше праздников на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Halloween'?",
+          "correctAnswer": "Хэллоуин",
+          "wrongAnswers": ["День всех святых", "Карнавал", "Фестиваль"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Valentine's Day'?",
+          "correctAnswer": "День святого Валентина",
+          "wrongAnswers": ["День влюбленных", "День друзей", "День семьи"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Thanksgiving'?",
+          "correctAnswer": "День благодарения",
+          "wrongAnswers": ["Пасха", "Рождество", "Новый год"]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Английский - Музыка 2",
+      "description": "Больше о музыке на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Singer'?",
+          "correctAnswer": "Певец",
+          "wrongAnswers": ["Музыкант", "Композитор", "Дирижер"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Band'?",
+          "correctAnswer": "Группа",
+          "wrongAnswers": ["Оркестр", "Хор", "Ансамбль"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Piano'?",
+          "correctAnswer": "Пианино",
+          "wrongAnswers": ["Синтезатор", "Орган", "Клавишные"]
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Английский - Кино 2",
+      "description": "Больше о кино на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Director'?",
+          "correctAnswer": "Режиссер",
+          "wrongAnswers": ["Продюсер", "Сценарист", "Оператор"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Role'?",
+          "correctAnswer": "Роль",
+          "wrongAnswers": ["Персонаж", "Актер", "Игра"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Scene'?",
+          "correctAnswer": "Сцена",
+          "wrongAnswers": ["Кадр", "Эпизод", "Дубль"]
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Английский - Путешествия 2",
+      "description": "Больше о путешествиях на английском",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Luggage'?",
+          "correctAnswer": "Багаж",
+          "wrongAnswers": ["Рюкзак", "Чемодан", "Сумка"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Tourist'?",
+          "correctAnswer": "Турист",
+          "wrongAnswers": ["Путешественник", "Экскурсант", "Гость"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Map'?",
+          "correctAnswer": "Карта",
+          "wrongAnswers": ["План", "Схема", "Путеводитель"]
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Английский - Здоровье",
+      "description": "Слова о здоровье на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Pain'?",
+          "correctAnswer": "Боль",
+          "wrongAnswers": ["Лечение", "Болезнь", "Симптом"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Health'?",
+          "correctAnswer": "Здоровье",
+          "wrongAnswers": ["Болезнь", "Лечение", "Спорт"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Disease'?",
+          "correctAnswer": "Болезнь",
+          "wrongAnswers": ["Здоровье", "Симптом", "Лечение"]
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Английский - Учеба 2",
+      "description": "Больше школьных слов",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Lesson'?",
+          "correctAnswer": "Урок",
+          "wrongAnswers": ["Класс", "Школа", "Университет"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Exam'?",
+          "correctAnswer": "Экзамен",
+          "wrongAnswers": ["Тест", "Контрольная", "Зачет"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Grade'?",
+          "correctAnswer": "Оценка",
+          "wrongAnswers": ["Класс", "Уровень", "Ступень"]
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Английский - Искусство 2",
+      "description": "Больше об искусстве",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Sculpture'?",
+          "correctAnswer": "Скульптура",
+          "wrongAnswers": ["Статуя", "Памятник", "Барельеф"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Gallery'?",
+          "correctAnswer": "Галерея",
+          "wrongAnswers": ["Музей", "Выставка", "Салон"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Artist'?",
+          "correctAnswer": "Художник",
+          "wrongAnswers": ["Скульптор", "Архитектор", "Дизайнер"]
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Английский - Технологии 2",
+      "description": "Больше технических терминов",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'App'?",
+          "correctAnswer": "Приложение",
+          "wrongAnswers": ["Программа", "Игра", "Сайт"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Download'?",
+          "correctAnswer": "Скачать",
+          "wrongAnswers": ["Загрузить", "Открыть", "Сохранить"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Upload'?",
+          "correctAnswer": "Загрузить",
+          "wrongAnswers": ["Скачать", "Отправить", "Получить"]
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Английский - Время 2",
+      "description": "Временные термины",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Day'?",
+          "correctAnswer": "День",
+          "wrongAnswers": ["Ночь", "Утро", "Вечер"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Week'?",
+          "correctAnswer": "Неделя",
+          "wrongAnswers": ["Месяц", "Год", "День"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Month'?",
+          "correctAnswer": "Месяц",
+          "wrongAnswers": ["Год", "Неделя", "День"]
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Английский - Погода 3",
+      "description": "Разная погода продолжение",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Stormy'?",
+          "correctAnswer": "Штормовой",
+          "wrongAnswers": ["Грозовой", "Ветреный", "Дождливый"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Mild'?",
+          "correctAnswer": "Мягкий (о погоде)",
+          "wrongAnswers": ["Теплый", "Прохладный", "Солнечный"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Freezing'?",
+          "correctAnswer": "Морозный",
+          "wrongAnswers": ["Холодный", "Ледяной", "Зимний"]
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Английский - Спорт 3",
+      "description": "Еще виды спорта",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Chess'?",
+          "correctAnswer": "Шахматы",
+          "wrongAnswers": ["Шашки", "Домино", "Карты"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Fishing'?",
+          "correctAnswer": "Рыбалка",
+          "wrongAnswers": ["Охота", "Плавание", "Катание на лодке"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Hiking'?",
+          "correctAnswer": "Поход",
+          "wrongAnswers": ["Прогулка", "Пикник", "Путешествие"]
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Английский - Еда 4",
+      "description": "Разная еда продолжение",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Steak'?",
+          "correctAnswer": "Стейк",
+          "wrongAnswers": ["Мясо", "Гриль", "Шашлык"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Salad'?",
+          "correctAnswer": "Салат",
+          "wrongAnswers": ["Закуска", "Гарнир", "Суп"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Rice'?",
+          "correctAnswer": "Рис",
+          "wrongAnswers": ["Гречка", "Макароны", "Картофель"]
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Английский - Семья 2",
+      "description": "Больше о семье",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Nephew'?",
+          "correctAnswer": "Племянник",
+          "wrongAnswers": ["Племянница", "Двоюродный брат", "Кузен"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Grandfather'?",
+          "correctAnswer": "Дедушка",
+          "wrongAnswers": ["Бабушка", "Дядя", "Тетя"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Relative'?",
+          "correctAnswer": "Родственник",
+          "wrongAnswers": ["Родитель", "Ребенок", "Друг"]
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Английский - Работа 2",
+      "description": "Больше о работе",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Salary'?",
+          "correctAnswer": "Зарплата",
+          "wrongAnswers": ["Доход", "Прибыль", "Вознаграждение"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Colleague'?",
+          "correctAnswer": "Коллега",
+          "wrongAnswers": ["Начальник", "Партнер", "Друг"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Business'?",
+          "correctAnswer": "Бизнес",
+          "wrongAnswers": ["Работа", "Карьера", "Предприятие"]
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Английский - Интернет 2",
+      "description": "Больше интернет-терминов",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Search'?",
+          "correctAnswer": "Поиск",
+          "wrongAnswers": ["Найти", "Искать", "Просмотр"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Share'?",
+          "correctAnswer": "Поделиться",
+          "wrongAnswers": ["Отправить", "Опубликовать", "Дать"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Privacy'?",
+          "correctAnswer": "Конфиденциальность",
+          "wrongAnswers": ["Безопасность", "Защита", "Секретность"]
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Английский - Культура",
+      "description": "Слова о культуре на английском",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Tradition'?",
+          "correctAnswer": "Традиция",
+          "wrongAnswers": ["Обычай", "Ритуал", "Обряд"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Language'?",
+          "correctAnswer": "Язык",
+          "wrongAnswers": ["Диалект", "Говор", "Наречие"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'History'?",
+          "correctAnswer": "История",
+          "wrongAnswers": ["Легенда", "Миф", "Сказание"]
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Английский - Путешествия 3",
+      "description": "Больше о путешествиях",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Flight'?",
+          "correctAnswer": "Рейс",
+          "wrongAnswers": ["Полёт", "Перелет", "Тур"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Passport'?",
+          "correctAnswer": "Паспорт",
+          "wrongAnswers": ["Виза", "Удостоверение", "Документ"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Reservation'?",
+          "correctAnswer": "Бронирование",
+          "wrongAnswers": ["Заказ", "Покупка", "Регистрация"]
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Английский - Природа 3",
+      "description": "Природа продолжение",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Island'?",
+          "correctAnswer": "Остров",
+          "wrongAnswers": ["Полуостров", "Архипелаг", "Пляж"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Waterfall'?",
+          "correctAnswer": "Водопад",
+          "wrongAnswers": ["Озеро", "Река", "Ручей"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Desert'?",
+          "correctAnswer": "Пустыня",
+          "wrongAnswers": ["Степь", "Тундра", "Саванна"]
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Английский - Здоровье 2",
+      "description": "Больше о здоровье",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Fever'?",
+          "correctAnswer": "Жар",
+          "wrongAnswers": ["Температура", "Озноб", "Грипп"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Cough'?",
+          "correctAnswer": "Кашель",
+          "wrongAnswers": ["Насморк", "Чихание", "Головная боль"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Pharmacy'?",
+          "correctAnswer": "Аптека",
+          "wrongAnswers": ["Больница", "Клиника", "Кабинет врача"]
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Английский - Дом 2",
+      "description": "Больше о доме",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Garden'?",
+          "correctAnswer": "Сад",
+          "wrongAnswers": ["Огород", "Парк", "Клумба"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Garage'?",
+          "correctAnswer": "Гараж",
+          "wrongAnswers": ["Стоянка", "Парковка", "Мастерская"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Fence'?",
+          "correctAnswer": "Забор",
+          "wrongAnswers": ["Стена", "Ворота", "Ограждение"]
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Английский - Одежда 3",
+      "description": "Еще одежда",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Belt'?",
+          "correctAnswer": "Ремень",
+          "wrongAnswers": ["Пояс", "Ремешок", "Портупея"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Gloves'?",
+          "correctAnswer": "Перчатки",
+          "wrongAnswers": ["Варежки", "Митенки", "Рукавицы"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Socks'?",
+          "correctAnswer": "Носки",
+          "wrongAnswers": ["Гольфы", "Чулки", "Колготки"]
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Английский - Еда 5",
+      "description": "Еда завершение",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Dessert'?",
+          "correctAnswer": "Десерт",
+          "wrongAnswers": ["Сладость", "Пирожное", "Мороженое"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Drink'?",
+          "correctAnswer": "Напиток",
+          "wrongAnswers": ["Вода", "Сок", "Лимонад"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Breakfast'?",
+          "correctAnswer": "Завтрак",
+          "wrongAnswers": ["Обед", "Ужин", "Полдник"]
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Английский - Хобби 3",
+      "description": "Хобби завершение",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Dancing'?",
+          "correctAnswer": "Танцы",
+          "wrongAnswers": ["Балет", "Спорт", "Фитнес"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Gardening'?",
+          "correctAnswer": "Садоводство",
+          "wrongAnswers": ["Огородничество", "Флористика", "Растениеводство"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Cooking'?",
+          "correctAnswer": "Готовка",
+          "wrongAnswers": ["Выпечка", "Кулинария", "Гастрономия"]
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Английский - Технологии 3",
+      "description": "Технологии завершение",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Wireless'?",
+          "correctAnswer": "Беспроводной",
+          "wrongAnswers": ["Wi-Fi", "Bluetooth", "Интернет"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Device'?",
+          "correctAnswer": "Устройство",
+          "wrongAnswers": ["Гаджет", "Электроника", "Техника"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Update'?",
+          "correctAnswer": "Обновление",
+          "wrongAnswers": ["Загрузка", "Установка", "Синхронизация"]
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Английский - Профессии 3",
+      "description": "Профессии завершение",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Pilot'?",
+          "correctAnswer": "Пилот",
+          "wrongAnswers": ["Летчик", "Штурман", "Командир"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Nurse'?",
+          "correctAnswer": "Медсестра",
+          "wrongAnswers": ["Санитарка", "Врач", "Фельдшер"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Chef'?",
+          "correctAnswer": "Шеф-повар",
+          "wrongAnswers": ["Повар", "Кондитер", "Бармен"]
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Английский - Транспорт 3",
+      "description": "Транспорт завершение",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Truck'?",
+          "correctAnswer": "Грузовик",
+          "wrongAnswers": ["Фура", "Тягач", "Прицеп"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Van'?",
+          "correctAnswer": "Фургон",
+          "wrongAnswers": ["Микроавтобус", "Бус", "Автофургон"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Helicopter'?",
+          "correctAnswer": "Вертолет",
+          "wrongAnswers": ["Самолет", "Дрон", "Авиетка"]
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Английский - Животные 4",
+      "description": "Животные завершение",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Monkey'?",
+          "correctAnswer": "Обезьяна",
+          "wrongAnswers": ["Горилла", "Шимпанзе", "Лемур"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Snake'?",
+          "correctAnswer": "Змея",
+          "wrongAnswers": ["Уж", "Гадюка", "Питон"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Horse'?",
+          "correctAnswer": "Лошадь",
+          "wrongAnswers": ["Пончик", "Кобыла", "Жеребец"]
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Английский - Мебель 2",
+      "description": "Мебель завершение",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Wardrobe'?",
+          "correctAnswer": "Шкаф",
+          "wrongAnswers": ["Комод", "Тумбочка", "Стол"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Sofa'?",
+          "correctAnswer": "Диван",
+          "wrongAnswers": ["Кресло", "Кровать", "Табурет"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Mirror'?",
+          "correctAnswer": "Зеркало",
+          "wrongAnswers": ["Стекло", "Панно", "Картина"]
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "title": "Английский - Праздники 3",
+      "description": "Праздники завершение",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Festival'?",
+          "correctAnswer": "Фестиваль",
+          "wrongAnswers": ["Карнавал", "Праздник", "Гулянье"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Ceremony'?",
+          "correctAnswer": "Церемония",
+          "wrongAnswers": ["Обряд", "Торжество", "Ритуал"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Wedding'?",
+          "correctAnswer": "Свадьба",
+          "wrongAnswers": ["Юбилей", "Помолвка", "Венчание"]
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Английский - Итоговый урок",
+      "description": "Повторение всех основных слов",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'World'?",
+          "correctAnswer": "Мир",
+          "wrongAnswers": ["Земля", "Планета", "Вселенная"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Future'?",
+          "correctAnswer": "Будущее",
+          "wrongAnswers": ["Прошлое", "Настоящее", "Время"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Success'?",
+          "correctAnswer": "Успех",
+          "wrongAnswers": ["Победа", "Достижение", "Прогресс"]
         }
       ]
     }
