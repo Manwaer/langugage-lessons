@@ -1,0 +1,54 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Простые предложения",
+      "description": "Собери предложение из слов",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я студент",
+          "correctAnswer": "I am a student",
+          "words": ["I", "am", "a", "student"]
+        },
+        {
+          "id": 2,
+          "translation": "Она моя подруга",
+          "correctAnswer": "She is my friend",
+          "words": ["She", "is", "my", "friend"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы любим музыку",
+          "correctAnswer": "We love music",
+          "words": ["We", "love", "music"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Прошедшее время",
+      "description": "Собери предложение в прошедшем времени",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Он пошёл в школу",
+          "correctAnswer": "He went to school",
+          "words": ["He", "went", "to", "school"]
+        },
+        {
+          "id": 2,
+          "translation": "Они видели фильм",
+          "correctAnswer": "They watched a movie",
+          "words": ["They", "watched", "a", "movie"]
+        }
+      ]
+    }
+  ]
+}
