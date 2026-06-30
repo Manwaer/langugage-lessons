@@ -2,8 +2,8 @@
   "lessons": [
     {
       "id": 1,
-      "title": "Простые предложения",
-      "description": "Собери предложение из слов",
+      "title": "Представление",
+      "description": "Собери простые предложения о себе",
       "difficulty": 1,
       "type": "SentenceBuilding",
       "language": "English",
@@ -16,9 +16,373 @@
         },
         {
           "id": 2,
-          "translation": "Она моя подруга",
-          "correctAnswer": "She is my friend",
-          "words": ["She", "is", "my", "friend"]
+          "translation": "Она учитель",
+          "correctAnswer": "She is a teacher",
+          "words": ["She", "is", "a", "teacher"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы друзья",
+          "correctAnswer": "We are friends",
+          "words": ["We", "are", "friends"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Семья",
+      "description": "Собери предложения о членах семьи",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Это моя мама",
+          "correctAnswer": "This is my mother",
+          "words": ["This", "is", "my", "mother"]
+        },
+        {
+          "id": 2,
+          "translation": "Это мой отец",
+          "correctAnswer": "This is my father",
+          "words": ["This", "is", "my", "father"]
+        },
+        {
+          "id": 3,
+          "translation": "У меня есть брат",
+          "correctAnswer": "I have a brother",
+          "words": ["I", "have", "a", "brother"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Еда",
+      "description": "Собери предложения о еде",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я люблю пиццу",
+          "correctAnswer": "I like pizza",
+          "words": ["I", "like", "pizza"]
+        },
+        {
+          "id": 2,
+          "translation": "Он ест яблоко",
+          "correctAnswer": "He eats an apple",
+          "words": ["He", "eats", "an", "apple"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы пьём сок",
+          "correctAnswer": "We drink juice",
+          "words": ["We", "drink", "juice"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Цвета",
+      "description": "Собери предложения о цветах",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Небо синее",
+          "correctAnswer": "The sky is blue",
+          "words": ["The", "sky", "is", "blue"]
+        },
+        {
+          "id": 2,
+          "translation": "Трава зелёная",
+          "correctAnswer": "The grass is green",
+          "words": ["The", "grass", "is", "green"]
+        },
+        {
+          "id": 3,
+          "translation": "Солнце жёлтое",
+          "correctAnswer": "The sun is yellow",
+          "words": ["The", "sun", "is", "yellow"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Животные",
+      "description": "Собери предложения о животных",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Кошка спит",
+          "correctAnswer": "The cat sleeps",
+          "words": ["The", "cat", "sleeps"]
+        },
+        {
+          "id": 2,
+          "translation": "Собака бежит",
+          "correctAnswer": "The dog runs",
+          "words": ["The", "dog", "runs"]
+        },
+        {
+          "id": 3,
+          "translation": "Птицы поют",
+          "correctAnswer": "Birds sing",
+          "words": ["Birds", "sing"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Дом",
+      "description": "Собери предложения о доме",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Это дом",
+          "correctAnswer": "This is a house",
+          "words": ["This", "is", "a", "house"]
+        },
+        {
+          "id": 2,
+          "translation": "Окно открыто",
+          "correctAnswer": "The window is open",
+          "words": ["The", "window", "is", "open"]
+        },
+        {
+          "id": 3,
+          "translation": "Дверь закрыта",
+          "correctAnswer": "The door is closed",
+          "words": ["The", "door", "is", "closed"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Одежда",
+      "description": "Собери предложения об одежде",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я ношу рубашку",
+          "correctAnswer": "I wear a shirt",
+          "words": ["I", "wear", "a", "shirt"]
+        },
+        {
+          "id": 2,
+          "translation": "Она носит юбку",
+          "correctAnswer": "She wears a skirt",
+          "words": ["She", "wears", "a", "skirt"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы носим обувь",
+          "correctAnswer": "We wear shoes",
+          "words": ["We", "wear", "shoes"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Транспорт",
+      "description": "Собери предложения о транспорте",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Машина едет",
+          "correctAnswer": "The car is moving",
+          "words": ["The", "car", "is", "moving"]
+        },
+        {
+          "id": 2,
+          "translation": "Автобус приехал",
+          "correctAnswer": "The bus has arrived",
+          "words": ["The", "bus", "has", "arrived"]
+        },
+        {
+          "id": 3,
+          "translation": "Самолёт летит",
+          "correctAnswer": "The plane is flying",
+          "words": ["The", "plane", "is", "flying"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Погода",
+      "description": "Собери предложения о погоде",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Сегодня солнечно",
+          "correctAnswer": "It is sunny today",
+          "words": ["It", "is", "sunny", "today"]
+        },
+        {
+          "id": 2,
+          "translation": "Идёт дождь",
+          "correctAnswer": "It is raining",
+          "words": ["It", "is", "raining"]
+        },
+        {
+          "id": 3,
+          "translation": "Ветрено на улице",
+          "correctAnswer": "It is windy outside",
+          "words": ["It", "is", "windy", "outside"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Числа",
+      "description": "Собери предложения с числами",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "У меня одна сестра",
+          "correctAnswer": "I have one sister",
+          "words": ["I", "have", "one", "sister"]
+        },
+        {
+          "id": 2,
+          "translation": "У них две машины",
+          "correctAnswer": "They have two cars",
+          "words": ["They", "have", "two", "cars"]
+        },
+        {
+          "id": 3,
+          "translation": "На столе три книги",
+          "correctAnswer": "There are three books on the table",
+          "words": ["There", "are", "three", "books", "on", "the", "table"]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Дни недели",
+      "description": "Собери предложения о днях недели",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Сегодня понедельник",
+          "correctAnswer": "Today is Monday",
+          "words": ["Today", "is", "Monday"]
+        },
+        {
+          "id": 2,
+          "translation": "Завтра вторник",
+          "correctAnswer": "Tomorrow is Tuesday",
+          "words": ["Tomorrow", "is", "Tuesday"]
+        },
+        {
+          "id": 3,
+          "translation": "Вчера было воскресенье",
+          "correctAnswer": "Yesterday was Sunday",
+          "words": ["Yesterday", "was", "Sunday"]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Месяцы",
+      "description": "Собери предложения о месяцах",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Январь - первый месяц года",
+          "correctAnswer": "January is the first month of the year",
+          "words": ["January", "is", "the", "first", "month", "of", "the", "year"]
+        },
+        {
+          "id": 2,
+          "translation": "Мой день рождения в мае",
+          "correctAnswer": "My birthday is in May",
+          "words": ["My", "birthday", "is", "in", "May"]
+        },
+        {
+          "id": 3,
+          "translation": "Декабрь - холодный месяц",
+          "correctAnswer": "December is a cold month",
+          "words": ["December", "is", "a", "cold", "month"]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Время",
+      "description": "Собери предложения о времени",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Сейчас шесть часов",
+          "correctAnswer": "It is six o'clock now",
+          "words": ["It", "is", "six", "o'clock", "now"]
+        },
+        {
+          "id": 2,
+          "translation": "Я просыпаюсь в семь",
+          "correctAnswer": "I wake up at seven",
+          "words": ["I", "wake", "up", "at", "seven"]
+        },
+        {
+          "id": 3,
+          "translation": "Урок начинается в девять",
+          "correctAnswer": "The lesson starts at nine",
+          "words": ["The", "lesson", "starts", "at", "nine"]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Хобби",
+      "description": "Собери предложения о хобби",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я люблю читать",
+          "correctAnswer": "I like reading",
+          "words": ["I", "like", "reading"]
+        },
+        {
+          "id": 2,
+          "translation": "Она любит рисовать",
+          "correctAnswer": "She likes drawing",
+          "words": ["She", "likes", "drawing"]
         },
         {
           "id": 3,
@@ -29,24 +393,1850 @@
       ]
     },
     {
-      "id": 2,
-      "title": "Прошедшее время",
-      "description": "Собери предложение в прошедшем времени",
+      "id": 15,
+      "title": "Спорт",
+      "description": "Собери предложения о спорте",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я играю в футбол",
+          "correctAnswer": "I play football",
+          "words": ["I", "play", "football"]
+        },
+        {
+          "id": 2,
+          "translation": "Он плавает в бассейне",
+          "correctAnswer": "He swims in the pool",
+          "words": ["He", "swims", "in", "the", "pool"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы бегаем по утрам",
+          "correctAnswer": "We run in the morning",
+          "words": ["We", "run", "in", "the", "morning"]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Школа",
+      "description": "Собери предложения о школе",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я иду в школу",
+          "correctAnswer": "I go to school",
+          "words": ["I", "go", "to", "school"]
+        },
+        {
+          "id": 2,
+          "translation": "Учитель объясняет урок",
+          "correctAnswer": "The teacher explains the lesson",
+          "words": ["The", "teacher", "explains", "the", "lesson"]
+        },
+        {
+          "id": 3,
+          "translation": "Ученики читают книги",
+          "correctAnswer": "The students read books",
+          "words": ["The", "students", "read", "books"]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Город",
+      "description": "Собери предложения о городе",
       "difficulty": 2,
       "type": "SentenceBuilding",
       "language": "English",
       "tasks": [
         {
           "id": 1,
-          "translation": "Он пошёл в школу",
-          "correctAnswer": "He went to school",
-          "words": ["He", "went", "to", "school"]
+          "translation": "Где ты живёшь?",
+          "correctAnswer": "Where do you live?",
+          "words": ["Where", "do", "you", "live?"]
         },
         {
           "id": 2,
-          "translation": "Они видели фильм",
-          "correctAnswer": "They watched a movie",
-          "words": ["They", "watched", "a", "movie"]
+          "translation": "Магазин открыт",
+          "correctAnswer": "The shop is open",
+          "words": ["The", "shop", "is", "open"]
+        },
+        {
+          "id": 3,
+          "translation": "Парк находится рядом",
+          "correctAnswer": "The park is nearby",
+          "words": ["The", "park", "is", "nearby"]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Профессии",
+      "description": "Собери предложения о профессиях",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Моя мама - врач",
+          "correctAnswer": "My mother is a doctor",
+          "words": ["My", "mother", "is", "a", "doctor"]
+        },
+        {
+          "id": 2,
+          "translation": "Я хочу стать инженером",
+          "correctAnswer": "I want to become an engineer",
+          "words": ["I", "want", "to", "become", "an", "engineer"]
+        },
+        {
+          "id": 3,
+          "translation": "Он работает в банке",
+          "correctAnswer": "He works in a bank",
+          "words": ["He", "works", "in", "a", "bank"]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Прилагательные - описание",
+      "description": "Собери предложения с прилагательными",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Этот дом большой",
+          "correctAnswer": "This house is big",
+          "words": ["This", "house", "is", "big"]
+        },
+        {
+          "id": 2,
+          "translation": "Она выглядит счастливой",
+          "correctAnswer": "She looks happy",
+          "words": ["She", "looks", "happy"]
+        },
+        {
+          "id": 3,
+          "translation": "Погода сегодня хорошая",
+          "correctAnswer": "The weather is nice today",
+          "words": ["The", "weather", "is", "nice", "today"]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Глаголы в настоящем времени",
+      "description": "Собери предложения с глаголами в настоящем",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Она делает домашнее задание",
+          "correctAnswer": "She does her homework",
+          "words": ["She", "does", "her", "homework"]
+        },
+        {
+          "id": 2,
+          "translation": "Мы смотрим телевизор",
+          "correctAnswer": "We watch TV",
+          "words": ["We", "watch", "TV"]
+        },
+        {
+          "id": 3,
+          "translation": "Они едят обед",
+          "correctAnswer": "They eat lunch",
+          "words": ["They", "eat", "lunch"]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Отрицательные предложения",
+      "description": "Собери отрицательные предложения",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я не студент",
+          "correctAnswer": "I am not a student",
+          "words": ["I", "am", "not", "a", "student"]
+        },
+        {
+          "id": 2,
+          "translation": "Она не любит кошек",
+          "correctAnswer": "She does not like cats",
+          "words": ["She", "does", "not", "like", "cats"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы не пьём кофе",
+          "correctAnswer": "We do not drink coffee",
+          "words": ["We", "do", "not", "drink", "coffee"]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Вопросительные предложения",
+      "description": "Собери вопросы",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Ты любишь музыку?",
+          "correctAnswer": "Do you like music?",
+          "words": ["Do", "you", "like", "music?"]
+        },
+        {
+          "id": 2,
+          "translation": "Он учится в школе?",
+          "correctAnswer": "Does he study at school?",
+          "words": ["Does", "he", "study", "at", "school?"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы можем пойти в парк?",
+          "correctAnswer": "Can we go to the park?",
+          "words": ["Can", "we", "go", "to", "the", "park?"]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Прошедшее время (было/стало)",
+      "description": "Собери предложения в Past Simple",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Вчера я был в музее",
+          "correctAnswer": "Yesterday I was at the museum",
+          "words": ["Yesterday", "I", "was", "at", "the", "museum"]
+        },
+        {
+          "id": 2,
+          "translation": "Она купила новое платье",
+          "correctAnswer": "She bought a new dress",
+          "words": ["She", "bought", "a", "new", "dress"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы посмотрели фильм",
+          "correctAnswer": "We watched a movie",
+          "words": ["We", "watched", "a", "movie"]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Прошедшее время (регулярные глаголы)",
+      "description": "Собери предложения с правильными глаголами в прошлом",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Он играл в футбол вчера",
+          "correctAnswer": "He played football yesterday",
+          "words": ["He", "played", "football", "yesterday"]
+        },
+        {
+          "id": 2,
+          "translation": "Мы слушали музыку",
+          "correctAnswer": "We listened to music",
+          "words": ["We", "listened", "to", "music"]
+        },
+        {
+          "id": 3,
+          "translation": "Она работала в магазине",
+          "correctAnswer": "She worked in a shop",
+          "words": ["She", "worked", "in", "a", "shop"]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Будущее время",
+      "description": "Собери предложения в будущем времени",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Завтра я пойду в школу",
+          "correctAnswer": "Tomorrow I will go to school",
+          "words": ["Tomorrow", "I", "will", "go", "to", "school"]
+        },
+        {
+          "id": 2,
+          "translation": "Она купит машину",
+          "correctAnswer": "She will buy a car",
+          "words": ["She", "will", "buy", "a", "car"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы будем ужинать в семь",
+          "correctAnswer": "We will have dinner at seven",
+          "words": ["We", "will", "have", "dinner", "at", "seven"]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Модальные глаголы (can, may)",
+      "description": "Собери предложения с can, may",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я умею плавать",
+          "correctAnswer": "I can swim",
+          "words": ["I", "can", "swim"]
+        },
+        {
+          "id": 2,
+          "translation": "Можно мне войти?",
+          "correctAnswer": "May I come in?",
+          "words": ["May", "I", "come", "in?"]
+        },
+        {
+          "id": 3,
+          "translation": "Она не умеет играть на гитаре",
+          "correctAnswer": "She cannot play the guitar",
+          "words": ["She", "cannot", "play", "the", "guitar"]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Модальные глаголы (must, should)",
+      "description": "Собери предложения с must, should",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Ты должен помочь мне",
+          "correctAnswer": "You must help me",
+          "words": ["You", "must", "help", "me"]
+        },
+        {
+          "id": 2,
+          "translation": "Нам следует позвонить",
+          "correctAnswer": "We should call",
+          "words": ["We", "should", "call"]
+        },
+        {
+          "id": 3,
+          "translation": "Он не должен опаздывать",
+          "correctAnswer": "He must not be late",
+          "words": ["He", "must", "not", "be", "late"]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Предлоги места",
+      "description": "Собери предложения с предлогами",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Книга на столе",
+          "correctAnswer": "The book is on the table",
+          "words": ["The", "book", "is", "on", "the", "table"]
+        },
+        {
+          "id": 2,
+          "translation": "Я живу в Москве",
+          "correctAnswer": "I live in Moscow",
+          "words": ["I", "live", "in", "Moscow"]
+        },
+        {
+          "id": 3,
+          "translation": "Кошка под кроватью",
+          "correctAnswer": "The cat is under the bed",
+          "words": ["The", "cat", "is", "under", "the", "bed"]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Сравнительная степень",
+      "description": "Собери предложения со сравнениями",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Мой дом больше твоего",
+          "correctAnswer": "My house is bigger than yours",
+          "words": ["My", "house", "is", "bigger", "than", "yours"]
+        },
+        {
+          "id": 2,
+          "translation": "Этот фильм интереснее",
+          "correctAnswer": "This movie is more interesting",
+          "words": ["This", "movie", "is", "more", "interesting"]
+        },
+        {
+          "id": 3,
+          "translation": "Она самая умная в классе",
+          "correctAnswer": "She is the smartest in the class",
+          "words": ["She", "is", "the", "smartest", "in", "the", "class"]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Настоящее продолженное",
+      "description": "Собери предложения в Present Continuous",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я сейчас читаю",
+          "correctAnswer": "I am reading now",
+          "words": ["I", "am", "reading", "now"]
+        },
+        {
+          "id": 2,
+          "translation": "Она смотрит телевизор",
+          "correctAnswer": "She is watching TV",
+          "words": ["She", "is", "watching", "TV"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы обедаем",
+          "correctAnswer": "We are having lunch",
+          "words": ["We", "are", "having", "lunch"]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Настоящее совершенное (Present Perfect)",
+      "description": "Собери предложения в Present Perfect",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я уже поел",
+          "correctAnswer": "I have already eaten",
+          "words": ["I", "have", "already", "eaten"]
+        },
+        {
+          "id": 2,
+          "translation": "Она никогда не была в Лондоне",
+          "correctAnswer": "She has never been to London",
+          "words": ["She", "has", "never", "been", "to", "London"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы только что пришли",
+          "correctAnswer": "We have just arrived",
+          "words": ["We", "have", "just", "arrived"]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Пассивный залог",
+      "description": "Собери предложения в Passive Voice",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Стол сделан из дерева",
+          "correctAnswer": "The table is made of wood",
+          "words": ["The", "table", "is", "made", "of", "wood"]
+        },
+        {
+          "id": 2,
+          "translation": "Книга была написана в 2000 году",
+          "correctAnswer": "The book was written in 2000",
+          "words": ["The", "book", "was", "written", "in", "2000"]
+        },
+        {
+          "id": 3,
+          "translation": "Дом будет построен в следующем году",
+          "correctAnswer": "The house will be built next year",
+          "words": ["The", "house", "will", "be", "built", "next", "year"]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Условные предложения (тип 1)",
+      "description": "Собери предложения условия",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Если я выиграю, я куплю машину",
+          "correctAnswer": "If I win, I will buy a car",
+          "words": ["If", "I", "win,", "I", "will", "buy", "a", "car"]
+        },
+        {
+          "id": 2,
+          "translation": "Если ты позвонишь, я приду",
+          "correctAnswer": "If you call, I will come",
+          "words": ["If", "you", "call,", "I", "will", "come"]
+        },
+        {
+          "id": 3,
+          "translation": "Если будет дождь, мы останемся дома",
+          "correctAnswer": "If it rains, we will stay at home",
+          "words": ["If", "it", "rains,", "we", "will", "stay", "at", "home"]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Косвенная речь",
+      "description": "Собери предложения в косвенной речи",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Он сказал, что устал",
+          "correctAnswer": "He said that he was tired",
+          "words": ["He", "said", "that", "he", "was", "tired"]
+        },
+        {
+          "id": 2,
+          "translation": "Она спросила, где я живу",
+          "correctAnswer": "She asked where I live",
+          "words": ["She", "asked", "where", "I", "live"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы решили, что пойдём завтра",
+          "correctAnswer": "We decided that we would go tomorrow",
+          "words": ["We", "decided", "that", "we", "would", "go", "tomorrow"]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Вопросы с вопросительными словами",
+      "description": "Собери специальные вопросы",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Где ты живёшь?",
+          "correctAnswer": "Where do you live?",
+          "words": ["Where", "do", "you", "live?"]
+        },
+        {
+          "id": 2,
+          "translation": "Что ты делаешь?",
+          "correctAnswer": "What are you doing?",
+          "words": ["What", "are", "you", "doing?"]
+        },
+        {
+          "id": 3,
+          "translation": "Почему она грустная?",
+          "correctAnswer": "Why is she sad?",
+          "words": ["Why", "is", "she", "sad?"]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Отрицания в разных временах",
+      "description": "Собери отрицательные предложения в разных временах",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я не знаю ответа",
+          "correctAnswer": "I do not know the answer",
+          "words": ["I", "do", "not", "know", "the", "answer"]
+        },
+        {
+          "id": 2,
+          "translation": "Она не приходила вчера",
+          "correctAnswer": "She did not come yesterday",
+          "words": ["She", "did", "not", "come", "yesterday"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы не будем опаздывать",
+          "correctAnswer": "We will not be late",
+          "words": ["We", "will", "not", "be", "late"]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Местоимения (личные)",
+      "description": "Собери предложения с местоимениями",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я люблю свою маму",
+          "correctAnswer": "I love my mother",
+          "words": ["I", "love", "my", "mother"]
+        },
+        {
+          "id": 2,
+          "translation": "Ты видишь нас?",
+          "correctAnswer": "Do you see us?",
+          "words": ["Do", "you", "see", "us?"]
+        },
+        {
+          "id": 3,
+          "translation": "Она дала ему книгу",
+          "correctAnswer": "She gave him a book",
+          "words": ["She", "gave", "him", "a", "book"]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Притяжательные местоимения",
+      "description": "Собери предложения с притяжательными местоимениями",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Это моя комната",
+          "correctAnswer": "This is my room",
+          "words": ["This", "is", "my", "room"]
+        },
+        {
+          "id": 2,
+          "translation": "Твоя машина новая?",
+          "correctAnswer": "Is your car new?",
+          "words": ["Is", "your", "car", "new?"]
+        },
+        {
+          "id": 3,
+          "translation": "Их дом очень большой",
+          "correctAnswer": "Their house is very big",
+          "words": ["Their", "house", "is", "very", "big"]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Оборот There is / There are",
+      "description": "Собери предложения с оборотом there is/are",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "На столе есть книга",
+          "correctAnswer": "There is a book on the table",
+          "words": ["There", "is", "a", "book", "on", "the", "table"]
+        },
+        {
+          "id": 2,
+          "translation": "В саду много цветов",
+          "correctAnswer": "There are many flowers in the garden",
+          "words": ["There", "are", "many", "flowers", "in", "the", "garden"]
+        },
+        {
+          "id": 3,
+          "translation": "Нет молока в холодильнике",
+          "correctAnswer": "There is no milk in the fridge",
+          "words": ["There", "is", "no", "milk", "in", "the", "fridge"]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Наречия частоты",
+      "description": "Собери предложения с наречиями частоты",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я всегда встаю рано",
+          "correctAnswer": "I always get up early",
+          "words": ["I", "always", "get", "up", "early"]
+        },
+        {
+          "id": 2,
+          "translation": "Он часто ходит в кино",
+          "correctAnswer": "He often goes to the cinema",
+          "words": ["He", "often", "goes", "to", "the", "cinema"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы никогда не опаздываем",
+          "correctAnswer": "We are never late",
+          "words": ["We", "are", "never", "late"]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Еда и напитки",
+      "description": "Собери предложения о еде",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я хочу пиццу",
+          "correctAnswer": "I want pizza",
+          "words": ["I", "want", "pizza"]
+        },
+        {
+          "id": 2,
+          "translation": "Она пьёт чай",
+          "correctAnswer": "She drinks tea",
+          "words": ["She", "drinks", "tea"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы едим суп",
+          "correctAnswer": "We eat soup",
+          "words": ["We", "eat", "soup"]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Одежда и покупки",
+      "description": "Собери предложения об одежде",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я купил новую рубашку",
+          "correctAnswer": "I bought a new shirt",
+          "words": ["I", "bought", "a", "new", "shirt"]
+        },
+        {
+          "id": 2,
+          "translation": "Сколько стоят эти туфли?",
+          "correctAnswer": "How much are these shoes?",
+          "words": ["How", "much", "are", "these", "shoes?"]
+        },
+        {
+          "id": 3,
+          "translation": "Она носит красивое платье",
+          "correctAnswer": "She is wearing a beautiful dress",
+          "words": ["She", "is", "wearing", "a", "beautiful", "dress"]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Транспорт и поездки",
+      "description": "Собери предложения о транспорте",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я еду на автобусе",
+          "correctAnswer": "I am going by bus",
+          "words": ["I", "am", "going", "by", "bus"]
+        },
+        {
+          "id": 2,
+          "translation": "Поезд прибывает в пять",
+          "correctAnswer": "The train arrives at five",
+          "words": ["The", "train", "arrives", "at", "five"]
+        },
+        {
+          "id": 3,
+          "translation": "Где находится станция?",
+          "correctAnswer": "Where is the station?",
+          "words": ["Where", "is", "the", "station?"]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Погода и сезоны",
+      "description": "Собери предложения о погоде",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Зимой очень холодно",
+          "correctAnswer": "It is very cold in winter",
+          "words": ["It", "is", "very", "cold", "in", "winter"]
+        },
+        {
+          "id": 2,
+          "translation": "Летом мы ездим на море",
+          "correctAnswer": "In summer we go to the sea",
+          "words": ["In", "summer", "we", "go", "to", "the", "sea"]
+        },
+        {
+          "id": 3,
+          "translation": "Сегодня будет дождь",
+          "correctAnswer": "It will rain today",
+          "words": ["It", "will", "rain", "today"]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Дом и мебель",
+      "description": "Собери предложения о доме",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "В гостиной есть диван",
+          "correctAnswer": "There is a sofa in the living room",
+          "words": ["There", "is", "a", "sofa", "in", "the", "living", "room"]
+        },
+        {
+          "id": 2,
+          "translation": "Я сплю на кровати",
+          "correctAnswer": "I sleep on the bed",
+          "words": ["I", "sleep", "on", "the", "bed"]
+        },
+        {
+          "id": 3,
+          "translation": "Где мои ключи?",
+          "correctAnswer": "Where are my keys?",
+          "words": ["Where", "are", "my", "keys?"]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Работа и профессии",
+      "description": "Собери предложения о работе",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я работаю в офисе",
+          "correctAnswer": "I work in an office",
+          "words": ["I", "work", "in", "an", "office"]
+        },
+        {
+          "id": 2,
+          "translation": "Она врач, она лечит людей",
+          "correctAnswer": "She is a doctor, she treats people",
+          "words": ["She", "is", "a", "doctor,", "she", "treats", "people"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы ищем новую работу",
+          "correctAnswer": "We are looking for a new job",
+          "words": ["We", "are", "looking", "for", "a", "new", "job"]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Хобби и свободное время",
+      "description": "Собери предложения о хобби",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Моё хобби - фотография",
+          "correctAnswer": "My hobby is photography",
+          "words": ["My", "hobby", "is", "photography"]
+        },
+        {
+          "id": 2,
+          "translation": "Я играю в теннис по выходным",
+          "correctAnswer": "I play tennis at weekends",
+          "words": ["I", "play", "tennis", "at", "weekends"]
+        },
+        {
+          "id": 3,
+          "translation": "Она коллекционирует марки",
+          "correctAnswer": "She collects stamps",
+          "words": ["She", "collects", "stamps"]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Город и места",
+      "description": "Собери предложения о городе",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Здесь есть хороший ресторан",
+          "correctAnswer": "There is a good restaurant here",
+          "words": ["There", "is", "a", "good", "restaurant", "here"]
+        },
+        {
+          "id": 2,
+          "translation": "Я иду в библиотеку",
+          "correctAnswer": "I am going to the library",
+          "words": ["I", "am", "going", "to", "the", "library"]
+        },
+        {
+          "id": 3,
+          "translation": "Как пройти к площади?",
+          "correctAnswer": "How can I get to the square?",
+          "words": ["How", "can", "I", "get", "to", "the", "square?"]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Здоровье и самочувствие",
+      "description": "Собери предложения о здоровье",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "У меня болит голова",
+          "correctAnswer": "I have a headache",
+          "words": ["I", "have", "a", "headache"]
+        },
+        {
+          "id": 2,
+          "translation": "Ему нужно к врачу",
+          "correctAnswer": "He needs to see a doctor",
+          "words": ["He", "needs", "to", "see", "a", "doctor"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы чувствуем себя хорошо",
+          "correctAnswer": "We feel well",
+          "words": ["We", "feel", "well"]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Путешествия",
+      "description": "Собери предложения о путешествиях",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я люблю путешествовать",
+          "correctAnswer": "I love travelling",
+          "words": ["I", "love", "travelling"]
+        },
+        {
+          "id": 2,
+          "translation": "Мы едем в Париж",
+          "correctAnswer": "We are going to Paris",
+          "words": ["We", "are", "going", "to", "Paris"]
+        },
+        {
+          "id": 3,
+          "translation": "Нам нужны два билета",
+          "correctAnswer": "We need two tickets",
+          "words": ["We", "need", "two", "tickets"]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Интернет и технологии",
+      "description": "Собери предложения о технологиях",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я часто использую интернет",
+          "correctAnswer": "I often use the internet",
+          "words": ["I", "often", "use", "the", "internet"]
+        },
+        {
+          "id": 2,
+          "translation": "Ты проверил электронную почту?",
+          "correctAnswer": "Have you checked your email?",
+          "words": ["Have", "you", "checked", "your", "email?"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы обновляем наше приложение",
+          "correctAnswer": "We are updating our app",
+          "words": ["We", "are", "updating", "our", "app"]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Школа и учеба",
+      "description": "Собери предложения об учебе",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Урок начинается в 9",
+          "correctAnswer": "The lesson starts at 9",
+          "words": ["The", "lesson", "starts", "at", "9"]
+        },
+        {
+          "id": 2,
+          "translation": "Я учусь в университете",
+          "correctAnswer": "I study at university",
+          "words": ["I", "study", "at", "university"]
+        },
+        {
+          "id": 3,
+          "translation": "Она сдала все экзамены",
+          "correctAnswer": "She has passed all exams",
+          "words": ["She", "has", "passed", "all", "exams"]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Семейные отношения",
+      "description": "Собери предложения о семье",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "У меня большая семья",
+          "correctAnswer": "I have a big family",
+          "words": ["I", "have", "a", "big", "family"]
+        },
+        {
+          "id": 2,
+          "translation": "Мы часто собираемся вместе",
+          "correctAnswer": "We often get together",
+          "words": ["We", "often", "get", "together"]
+        },
+        {
+          "id": 3,
+          "translation": "Мои родители живут в деревне",
+          "correctAnswer": "My parents live in the countryside",
+          "words": ["My", "parents", "live", "in", "the", "countryside"]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Друзья и общение",
+      "description": "Собери предложения о друзьях",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Мой лучший друг - Ник",
+          "correctAnswer": "My best friend is Nick",
+          "words": ["My", "best", "friend", "is", "Nick"]
+        },
+        {
+          "id": 2,
+          "translation": "Я часто звоню друзьям",
+          "correctAnswer": "I often call my friends",
+          "words": ["I", "often", "call", "my", "friends"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы вместе ходим в кино",
+          "correctAnswer": "We go to the cinema together",
+          "words": ["We", "go", "to", "the", "cinema", "together"]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Путешествия и отдых",
+      "description": "Собери предложения об отдыхе",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Мы планируем поездку в горы",
+          "correctAnswer": "We are planning a trip to the mountains",
+          "words": ["We", "are", "planning", "a", "trip", "to", "the", "mountains"]
+        },
+        {
+          "id": 2,
+          "translation": "Я уже забронировал отель",
+          "correctAnswer": "I have already booked a hotel",
+          "words": ["I", "have", "already", "booked", "a", "hotel"]
+        },
+        {
+          "id": 3,
+          "translation": "Ты любишь пляжный отдых?",
+          "correctAnswer": "Do you like beach holidays?",
+          "words": ["Do", "you", "like", "beach", "holidays?"]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Покупки",
+      "description": "Собери предложения о покупках",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я хочу купить новый телефон",
+          "correctAnswer": "I want to buy a new phone",
+          "words": ["I", "want", "to", "buy", "a", "new", "phone"]
+        },
+        {
+          "id": 2,
+          "translation": "Сколько стоит этот стул?",
+          "correctAnswer": "How much is this chair?",
+          "words": ["How", "much", "is", "this", "chair?"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы потратили все деньги",
+          "correctAnswer": "We have spent all money",
+          "words": ["We", "have", "spent", "all", "money"]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Природа и экология",
+      "description": "Собери предложения о природе",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Мы должны защищать природу",
+          "correctAnswer": "We must protect nature",
+          "words": ["We", "must", "protect", "nature"]
+        },
+        {
+          "id": 2,
+          "translation": "Воздух становится чище",
+          "correctAnswer": "The air is getting cleaner",
+          "words": ["The", "air", "is", "getting", "cleaner"]
+        },
+        {
+          "id": 3,
+          "translation": "Зеленые леса - это жизнь",
+          "correctAnswer": "Green forests are life",
+          "words": ["Green", "forests", "are", "life"]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Искусство и культура",
+      "description": "Собери предложения об искусстве",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я люблю классическую музыку",
+          "correctAnswer": "I love classical music",
+          "words": ["I", "love", "classical", "music"]
+        },
+        {
+          "id": 2,
+          "translation": "Мы были в Третьяковской галерее",
+          "correctAnswer": "We have been to the Tretyakov Gallery",
+          "words": ["We", "have", "been", "to", "the", "Tretyakov", "Gallery"]
+        },
+        {
+          "id": 3,
+          "translation": "Этот художник известен во всем мире",
+          "correctAnswer": "This artist is famous all over the world",
+          "words": ["This", "artist", "is", "famous", "all", "over", "the", "world"]
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Спорт и активный образ жизни",
+      "description": "Собери предложения о спорте",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Занятия спортом полезны",
+          "correctAnswer": "Doing sports is healthy",
+          "words": ["Doing", "sports", "is", "healthy"]
+        },
+        {
+          "id": 2,
+          "translation": "Я хожу в спортзал дважды в неделю",
+          "correctAnswer": "I go to the gym twice a week",
+          "words": ["I", "go", "to", "the", "gym", "twice", "a", "week"]
+        },
+        {
+          "id": 3,
+          "translation": "Он победил в соревновании",
+          "correctAnswer": "He won the competition",
+          "words": ["He", "won", "the", "competition"]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Еда и рестораны",
+      "description": "Собери предложения о еде в ресторане",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я бы хотел заказать стейк",
+          "correctAnswer": "I would like to order a steak",
+          "words": ["I", "would", "like", "to", "order", "a", "steak"]
+        },
+        {
+          "id": 2,
+          "translation": "Счет, пожалуйста",
+          "correctAnswer": "The bill, please",
+          "words": ["The", "bill,", "please"]
+        },
+        {
+          "id": 3,
+          "translation": "Официант принес меню",
+          "correctAnswer": "The waiter brought the menu",
+          "words": ["The", "waiter", "brought", "the", "menu"]
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Время и расписание",
+      "description": "Собери предложения о времени",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Во сколько начинается фильм?",
+          "correctAnswer": "What time does the film start?",
+          "words": ["What", "time", "does", "the", "film", "start?"]
+        },
+        {
+          "id": 2,
+          "translation": "Мой поезд отправляется в 8 утра",
+          "correctAnswer": "My train leaves at 8 in the morning",
+          "words": ["My", "train", "leaves", "at", "8", "in", "the", "morning"]
+        },
+        {
+          "id": 3,
+          "translation": "Я буду свободен через час",
+          "correctAnswer": "I will be free in an hour",
+          "words": ["I", "will", "be", "free", "in", "an", "hour"]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Качества и прилагательные",
+      "description": "Собери предложения с прилагательными",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Это очень интересная книга",
+          "correctAnswer": "This is a very interesting book",
+          "words": ["This", "is", "a", "very", "interesting", "book"]
+        },
+        {
+          "id": 2,
+          "translation": "Он выглядит уставшим",
+          "correctAnswer": "He looks tired",
+          "words": ["He", "looks", "tired"]
+        },
+        {
+          "id": 3,
+          "translation": "Погода была прекрасная",
+          "correctAnswer": "The weather was wonderful",
+          "words": ["The", "weather", "was", "wonderful"]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Планы на будущее",
+      "description": "Собери предложения о планах",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я собираюсь изучать испанский",
+          "correctAnswer": "I am going to study Spanish",
+          "words": ["I", "am", "going", "to", "study", "Spanish"]
+        },
+        {
+          "id": 2,
+          "translation": "Она хочет открыть свой бизнес",
+          "correctAnswer": "She wants to open her own business",
+          "words": ["She", "wants", "to", "open", "her", "own", "business"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы поедем в отпуск в июле",
+          "correctAnswer": "We will go on holiday in July",
+          "words": ["We", "will", "go", "on", "holiday", "in", "July"]
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Сравнения (как... так...)",
+      "description": "Собери предложения со сравнительными конструкциями",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Это так же хорошо, как и раньше",
+          "correctAnswer": "It is as good as before",
+          "words": ["It", "is", "as", "good", "as", "before"]
+        },
+        {
+          "id": 2,
+          "translation": "Он работает усерднее, чем я",
+          "correctAnswer": "He works harder than I do",
+          "words": ["He", "works", "harder", "than", "I", "do"]
+        },
+        {
+          "id": 3,
+          "translation": "Чем больше, тем лучше",
+          "correctAnswer": "The more, the better",
+          "words": ["The", "more,", "the", "better"]
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Причины и следствия",
+      "description": "Собери предложения с союзами because, so",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я не пошел на вечеринку, потому что был болен",
+          "correctAnswer": "I did not go to the party because I was sick",
+          "words": ["I", "did", "not", "go", "to", "the", "party", "because", "I", "was", "sick"]
+        },
+        {
+          "id": 2,
+          "translation": "Было жарко, поэтому мы открыли окно",
+          "correctAnswer": "It was hot, so we opened the window",
+          "words": ["It", "was", "hot,", "so", "we", "opened", "the", "window"]
+        },
+        {
+          "id": 3,
+          "translation": "Она пришла рано, чтобы не опоздать",
+          "correctAnswer": "She came early so that she would not be late",
+          "words": ["She", "came", "early", "so", "that", "she", "would", "not", "be", "late"]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Условные предложения (тип 2)",
+      "description": "Собери нереальные условия",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Если бы я был миллионером, я бы путешествовал",
+          "correctAnswer": "If I were a millionaire, I would travel",
+          "words": ["If", "I", "were", "a", "millionaire,", "I", "would", "travel"]
+        },
+        {
+          "id": 2,
+          "translation": "Если бы она знала, она бы пришла",
+          "correctAnswer": "If she knew, she would come",
+          "words": ["If", "she", "knew,", "she", "would", "come"]
+        },
+        {
+          "id": 3,
+          "translation": "Если бы мы жили у моря, мы бы купались каждый день",
+          "correctAnswer": "If we lived by the sea, we would swim every day",
+          "words": ["If", "we", "lived", "by", "the", "sea,", "we", "would", "swim", "every", "day"]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Пассивный залог (настоящее)",
+      "description": "Собери предложения в Present Simple Passive",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Книги читают каждый день",
+          "correctAnswer": "Books are read every day",
+          "words": ["Books", "are", "read", "every", "day"]
+        },
+        {
+          "id": 2,
+          "translation": "Письма отправляют по электронной почте",
+          "correctAnswer": "Letters are sent by email",
+          "words": ["Letters", "are", "sent", "by", "email"]
+        },
+        {
+          "id": 3,
+          "translation": "Этот мост строят сейчас",
+          "correctAnswer": "This bridge is being built now",
+          "words": ["This", "bridge", "is", "being", "built", "now"]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Пассивный залог (прошедшее)",
+      "description": "Собери предложения в Past Simple Passive",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Картина была написана в 19 веке",
+          "correctAnswer": "The painting was painted in the 19th century",
+          "words": ["The", "painting", "was", "painted", "in", "the", "19th", "century"]
+        },
+        {
+          "id": 2,
+          "translation": "Дом был построен три года назад",
+          "correctAnswer": "The house was built three years ago",
+          "words": ["The", "house", "was", "built", "three", "years", "ago"]
+        },
+        {
+          "id": 3,
+          "translation": "Его выбрали президентом",
+          "correctAnswer": "He was elected president",
+          "words": ["He", "was", "elected", "president"]
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Модальные глаголы (могу, должен)",
+      "description": "Собери предложения с модальными глаголами",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Ты можешь говорить громче?",
+          "correctAnswer": "Can you speak louder?",
+          "words": ["Can", "you", "speak", "louder?"]
+        },
+        {
+          "id": 2,
+          "translation": "Мы должны уважать старших",
+          "correctAnswer": "We must respect elders",
+          "words": ["We", "must", "respect", "elders"]
+        },
+        {
+          "id": 3,
+          "translation": "Ему не следует так много работать",
+          "correctAnswer": "He should not work so much",
+          "words": ["He", "should", "not", "work", "so", "much"]
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Вопросы в настоящем и прошедшем",
+      "description": "Собери вопросы в разных временах",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Где вы были вчера?",
+          "correctAnswer": "Where were you yesterday?",
+          "words": ["Where", "were", "you", "yesterday?"]
+        },
+        {
+          "id": 2,
+          "translation": "Что она сейчас делает?",
+          "correctAnswer": "What is she doing now?",
+          "words": ["What", "is", "she", "doing", "now?"]
+        },
+        {
+          "id": 3,
+          "translation": "Сколько они заплатили за это?",
+          "correctAnswer": "How much did they pay for this?",
+          "words": ["How", "much", "did", "they", "pay", "for", "this?"]
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Косвенная речь (утверждения)",
+      "description": "Собери предложения с косвенной речью",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Он сказал, что работает в банке",
+          "correctAnswer": "He said that he works in a bank",
+          "words": ["He", "said", "that", "he", "works", "in", "a", "bank"]
+        },
+        {
+          "id": 2,
+          "translation": "Она сказала, что любит шоколад",
+          "correctAnswer": "She said that she loves chocolate",
+          "words": ["She", "said", "that", "she", "loves", "chocolate"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы ответили, что не знаем",
+          "correctAnswer": "We replied that we did not know",
+          "words": ["We", "replied", "that", "we", "did", "not", "know"]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Косвенная речь (вопросы)",
+      "description": "Собери косвенные вопросы",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Он спросил, где я живу",
+          "correctAnswer": "He asked where I live",
+          "words": ["He", "asked", "where", "I", "live"]
+        },
+        {
+          "id": 2,
+          "translation": "Она спросила, приду ли я",
+          "correctAnswer": "She asked if I would come",
+          "words": ["She", "asked", "if", "I", "would", "come"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы спросили, не знает ли он ответа",
+          "correctAnswer": "We asked if he knew the answer",
+          "words": ["We", "asked", "if", "he", "knew", "the", "answer"]
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Инфинитив и герундий",
+      "description": "Собери предложения с инфинитивом/герундием",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я люблю читать книги",
+          "correctAnswer": "I love reading books",
+          "words": ["I", "love", "reading", "books"]
+        },
+        {
+          "id": 2,
+          "translation": "Он хочет стать врачом",
+          "correctAnswer": "He wants to become a doctor",
+          "words": ["He", "wants", "to", "become", "a", "doctor"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы начали изучать английский",
+          "correctAnswer": "We started learning English",
+          "words": ["We", "started", "learning", "English"]
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Сложноподчиненные предложения",
+      "description": "Собери сложные предложения",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я знаю, что ты прав",
+          "correctAnswer": "I know that you are right",
+          "words": ["I", "know", "that", "you", "are", "right"]
+        },
+        {
+          "id": 2,
+          "translation": "Она сказала, что устала",
+          "correctAnswer": "She said that she was tired",
+          "words": ["She", "said", "that", "she", "was", "tired"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы думаем, что погода улучшится",
+          "correctAnswer": "We think that the weather will improve",
+          "words": ["We", "think", "that", "the", "weather", "will", "improve"]
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Определительные придаточные",
+      "description": "Собери предложения с придаточными определительными",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Это книга, которую я читал",
+          "correctAnswer": "This is the book that I read",
+          "words": ["This", "is", "the", "book", "that", "I", "read"]
+        },
+        {
+          "id": 2,
+          "translation": "Человек, который там стоит, - мой брат",
+          "correctAnswer": "The man who is standing there is my brother",
+          "words": ["The", "man", "who", "is", "standing", "there", "is", "my", "brother"]
+        },
+        {
+          "id": 3,
+          "translation": "Город, где я вырос, очень красивый",
+          "correctAnswer": "The city where I grew up is very beautiful",
+          "words": ["The", "city", "where", "I", "grew", "up", "is", "very", "beautiful"]
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Уступительные придаточные",
+      "description": "Собери предложения с despite, although",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Хотя было поздно, он продолжал работать",
+          "correctAnswer": "Although it was late, he continued working",
+          "words": ["Although", "it", "was", "late,", "he", "continued", "working"]
+        },
+        {
+          "id": 2,
+          "translation": "Несмотря на дождь, мы пошли гулять",
+          "correctAnswer": "Despite the rain, we went for a walk",
+          "words": ["Despite", "the", "rain,", "we", "went", "for", "a", "walk"]
+        },
+        {
+          "id": 3,
+          "translation": "Он не сдался, даже когда все думали иначе",
+          "correctAnswer": "He did not give up even when everyone thought otherwise",
+          "words": ["He", "did", "not", "give", "up", "even", "when", "everyone", "thought", "otherwise"]
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Сослагательное наклонение (I wish)",
+      "description": "Собери предложения с I wish",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Хотел бы я уметь плавать",
+          "correctAnswer": "I wish I could swim",
+          "words": ["I", "wish", "I", "could", "swim"]
+        },
+        {
+          "id": 2,
+          "translation": "Жаль, что я не пришел раньше",
+          "correctAnswer": "I wish I had come earlier",
+          "words": ["I", "wish", "I", "had", "come", "earlier"]
+        },
+        {
+          "id": 3,
+          "translation": "Ему хотелось бы, чтобы она позвонила",
+          "correctAnswer": "He wishes she would call",
+          "words": ["He", "wishes", "she", "would", "call"]
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Эмфатические конструкции",
+      "description": "Собери предложения с it is... that...",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Именно он это сделал",
+          "correctAnswer": "It was he who did it",
+          "words": ["It", "was", "he", "who", "did", "it"]
+        },
+        {
+          "id": 2,
+          "translation": "Именно вчера мы встретились",
+          "correctAnswer": "It was yesterday that we met",
+          "words": ["It", "was", "yesterday", "that", "we", "met"]
+        },
+        {
+          "id": 3,
+          "translation": "Именно здесь я родился",
+          "correctAnswer": "It is here that I was born",
+          "words": ["It", "is", "here", "that", "I", "was", "born"]
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Фразовые глаголы",
+      "description": "Собери предложения с фразовыми глаголами",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Пожалуйста, выключите свет",
+          "correctAnswer": "Please turn off the light",
+          "words": ["Please", "turn", "off", "the", "light"]
+        },
+        {
+          "id": 2,
+          "translation": "Я не могу понять это",
+          "correctAnswer": "I cannot figure this out",
+          "words": ["I", "cannot", "figure", "this", "out"]
+        },
+        {
+          "id": 3,
+          "translation": "Она заботится о своих детях",
+          "correctAnswer": "She looks after her children",
+          "words": ["She", "looks", "after", "her", "children"]
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Итоговый урок",
+      "description": "Собери сложные предложения на все темы",
+      "difficulty": 3,
+      "type": "SentenceBuilding",
+      "language": "English",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Несмотря на то что было трудно, мы закончили проект вовремя",
+          "correctAnswer": "Although it was difficult, we finished the project on time",
+          "words": ["Although", "it", "was", "difficult,", "we", "finished", "the", "project", "on", "time"]
+        },
+        {
+          "id": 2,
+          "translation": "Если бы я знал, я бы помог тебе",
+          "correctAnswer": "If I had known, I would have helped you",
+          "words": ["If", "I", "had", "known,", "I", "would", "have", "helped", "you"]
+        },
+        {
+          "id": 3,
+          "translation": "Я хочу, чтобы ты знал, как я тебя ценю",
+          "correctAnswer": "I want you to know how much I appreciate you",
+          "words": ["I", "want", "you", "to", "know", "how", "much", "I", "appreciate", "you"]
         }
       ]
     }
