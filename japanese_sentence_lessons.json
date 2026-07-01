@@ -6,25 +6,25 @@
       "description": "Собери простые предложения о себе",
       "difficulty": 1,
       "type": "SentenceBuilding",
-      "language": "Spanish",
+      "language": "Japanese",
       "tasks": [
         {
           "id": 1,
           "translation": "Я студент",
-          "correctAnswer": "Yo soy estudiante",
-          "words": ["Yo", "soy", "estudiante"]
+          "correctAnswer": "私は学生です",
+          "words": ["私", "は", "学生", "です"]
         },
         {
           "id": 2,
           "translation": "Она учитель",
-          "correctAnswer": "Ella es profesora",
-          "words": ["Ella", "es", "profesora"]
+          "correctAnswer": "彼女は先生です",
+          "words": ["彼女", "は", "先生", "です"]
         },
         {
           "id": 3,
           "translation": "Мы друзья",
-          "correctAnswer": "Nosotros somos amigos",
-          "words": ["Nosotros", "somos", "amigos"]
+          "correctAnswer": "私たちは友達です",
+          "words": ["私たち", "は", "友達", "です"]
         }
       ]
     },
@@ -34,25 +34,25 @@
       "description": "Собери предложения о членах семьи",
       "difficulty": 1,
       "type": "SentenceBuilding",
-      "language": "Spanish",
+      "language": "Japanese",
       "tasks": [
         {
           "id": 1,
           "translation": "Это моя мама",
-          "correctAnswer": "Esta es mi madre",
-          "words": ["Esta", "es", "mi", "madre"]
+          "correctAnswer": "これは私の母です",
+          "words": ["これ", "は", "私の", "母", "です"]
         },
         {
           "id": 2,
           "translation": "Это мой отец",
-          "correctAnswer": "Este es mi padre",
-          "words": ["Este", "es", "mi", "padre"]
+          "correctAnswer": "これは私の父です",
+          "words": ["これ", "は", "私の", "父", "です"]
         },
         {
           "id": 3,
           "translation": "У меня есть брат",
-          "correctAnswer": "Yo tengo un hermano",
-          "words": ["Yo", "tengo", "un", "hermano"]
+          "correctAnswer": "私には兄がいます",
+          "words": ["私には", "兄", "が", "います"]
         }
       ]
     },
@@ -62,25 +62,25 @@
       "description": "Собери предложения о еде",
       "difficulty": 1,
       "type": "SentenceBuilding",
-      "language": "Spanish",
+      "language": "Japanese",
       "tasks": [
         {
           "id": 1,
           "translation": "Я люблю пиццу",
-          "correctAnswer": "Me gusta la pizza",
-          "words": ["Me", "gusta", "la", "pizza"]
+          "correctAnswer": "私はピザが好きです",
+          "words": ["私", "は", "ピザ", "が", "好き", "です"]
         },
         {
           "id": 2,
           "translation": "Он ест яблоко",
-          "correctAnswer": "Él come una manzana",
-          "words": ["Él", "come", "una", "manzana"]
+          "correctAnswer": "彼はリンゴを食べます",
+          "words": ["彼", "は", "リンゴ", "を", "食べます"]
         },
         {
           "id": 3,
           "translation": "Мы пьём сок",
-          "correctAnswer": "Nosotros bebemos jugo",
-          "words": ["Nosotros", "bebemos", "jugo"]
+          "correctAnswer": "私たちはジュースを飲みます",
+          "words": ["私たち", "は", "ジュース", "を", "飲みます"]
         }
       ]
     },
@@ -90,25 +90,25 @@
       "description": "Собери предложения о цветах",
       "difficulty": 1,
       "type": "SentenceBuilding",
-      "language": "Spanish",
+      "language": "Japanese",
       "tasks": [
         {
           "id": 1,
           "translation": "Небо синее",
-          "correctAnswer": "El cielo es azul",
-          "words": ["El", "cielo", "es", "azul"]
+          "correctAnswer": "空は青いです",
+          "words": ["空", "は", "青い", "です"]
         },
         {
           "id": 2,
           "translation": "Трава зелёная",
-          "correctAnswer": "La hierba es verde",
-          "words": ["La", "hierba", "es", "verde"]
+          "correctAnswer": "草は緑です",
+          "words": ["草", "は", "緑", "です"]
         },
         {
           "id": 3,
           "translation": "Солнце жёлтое",
-          "correctAnswer": "El sol es amarillo",
-          "words": ["El", "sol", "es", "amarillo"]
+          "correctAnswer": "太陽は黄色いです",
+          "words": ["太陽", "は", "黄色い", "です"]
         }
       ]
     },
@@ -118,25 +118,25 @@
       "description": "Собери предложения о животных",
       "difficulty": 1,
       "type": "SentenceBuilding",
-      "language": "Spanish",
+      "language": "Japanese",
       "tasks": [
         {
           "id": 1,
           "translation": "Кошка спит",
-          "correctAnswer": "El gato duerme",
-          "words": ["El", "gato", "duerme"]
+          "correctAnswer": "猫は寝ています",
+          "words": ["猫", "は", "寝て", "います"]
         },
         {
           "id": 2,
           "translation": "Собака бежит",
-          "correctAnswer": "El perro corre",
-          "words": ["El", "perro", "corre"]
+          "correctAnswer": "犬は走っています",
+          "words": ["犬", "は", "走って", "います"]
         },
         {
           "id": 3,
           "translation": "Птицы поют",
-          "correctAnswer": "Los pájaros cantan",
-          "words": ["Los", "pájaros", "cantan"]
+          "correctAnswer": "鳥は歌っています",
+          "words": ["鳥", "は", "歌って", "います"]
         }
       ]
     },
@@ -146,25 +146,25 @@
       "description": "Собери предложения о доме",
       "difficulty": 1,
       "type": "SentenceBuilding",
-      "language": "Spanish",
+      "language": "Japanese",
       "tasks": [
         {
           "id": 1,
           "translation": "Это дом",
-          "correctAnswer": "Esta es una casa",
-          "words": ["Esta", "es", "una", "casa"]
+          "correctAnswer": "これは家です",
+          "words": ["これ", "は", "家", "です"]
         },
         {
           "id": 2,
           "translation": "Окно открыто",
-          "correctAnswer": "La ventana está abierta",
-          "words": ["La", "ventana", "está", "abierta"]
+          "correctAnswer": "窓は開いています",
+          "words": ["窓", "は", "開いて", "います"]
         },
         {
           "id": 3,
           "translation": "Дверь закрыта",
-          "correctAnswer": "La puerta está cerrada",
-          "words": ["La", "puerta", "está", "cerrada"]
+          "correctAnswer": "ドアは閉まっています",
+          "words": ["ドア", "は", "閉まって", "います"]
         }
       ]
     },
@@ -174,25 +174,25 @@
       "description": "Собери предложения об одежде",
       "difficulty": 1,
       "type": "SentenceBuilding",
-      "language": "Spanish",
+      "language": "Japanese",
       "tasks": [
         {
           "id": 1,
           "translation": "Я ношу рубашку",
-          "correctAnswer": "Yo llevo una camisa",
-          "words": ["Yo", "llevo", "una", "camisa"]
+          "correctAnswer": "私はシャツを着ます",
+          "words": ["私", "は", "シャツ", "を", "着ます"]
         },
         {
           "id": 2,
           "translation": "Она носит юбку",
-          "correctAnswer": "Ella lleva una falda",
-          "words": ["Ella", "lleva", "una", "falda"]
+          "correctAnswer": "彼女はスカートを履きます",
+          "words": ["彼女", "は", "スカート", "を", "履きます"]
         },
         {
           "id": 3,
           "translation": "Мы носим обувь",
-          "correctAnswer": "Nosotros llevamos zapatos",
-          "words": ["Nosotros", "llevamos", "zapatos"]
+          "correctAnswer": "私たちは靴を履きます",
+          "words": ["私たち", "は", "靴", "を", "履きます"]
         }
       ]
     },
@@ -202,25 +202,25 @@
       "description": "Собери предложения о транспорте",
       "difficulty": 1,
       "type": "SentenceBuilding",
-      "language": "Spanish",
+      "language": "Japanese",
       "tasks": [
         {
           "id": 1,
           "translation": "Машина едет",
-          "correctAnswer": "El coche circula",
-          "words": ["El", "coche", "circula"]
+          "correctAnswer": "車が走っています",
+          "words": ["車", "が", "走って", "います"]
         },
         {
           "id": 2,
           "translation": "Автобус приехал",
-          "correctAnswer": "El autobús ha llegado",
-          "words": ["El", "autobús", "ha", "llegado"]
+          "correctAnswer": "バスが到着しました",
+          "words": ["バス", "が", "到着", "しました"]
         },
         {
           "id": 3,
           "translation": "Самолёт летит",
-          "correctAnswer": "El avión vuela",
-          "words": ["El", "avión", "vuela"]
+          "correctAnswer": "飛行機が飛んでいます",
+          "words": ["飛行機", "が", "飛んで", "います"]
         }
       ]
     },
@@ -230,25 +230,25 @@
       "description": "Собери предложения о погоде",
       "difficulty": 1,
       "type": "SentenceBuilding",
-      "language": "Spanish",
+      "language": "Japanese",
       "tasks": [
         {
           "id": 1,
           "translation": "Сегодня солнечно",
-          "correctAnswer": "Hoy hace sol",
-          "words": ["Hoy", "hace", "sol"]
+          "correctAnswer": "今日は晴れです",
+          "words": ["今日", "は", "晴れ", "です"]
         },
         {
           "id": 2,
           "translation": "Идёт дождь",
-          "correctAnswer": "Está lloviendo",
-          "words": ["Está", "lloviendo"]
+          "correctAnswer": "雨が降っています",
+          "words": ["雨", "が", "降って", "います"]
         },
         {
           "id": 3,
           "translation": "Ветрено на улице",
-          "correctAnswer": "Hace viento afuera",
-          "words": ["Hace", "viento", "afuera"]
+          "correctAnswer": "外は風が強いです",
+          "words": ["外", "は", "風", "が", "強い", "です"]
         }
       ]
     },
@@ -258,25 +258,25 @@
       "description": "Собери предложения с числами",
       "difficulty": 2,
       "type": "SentenceBuilding",
-      "language": "Spanish",
+      "language": "Japanese",
       "tasks": [
         {
           "id": 1,
           "translation": "У меня одна сестра",
-          "correctAnswer": "Yo tengo una hermana",
-          "words": ["Yo", "tengo", "una", "hermana"]
+          "correctAnswer": "私には妹が一人います",
+          "words": ["私には", "妹", "が", "一人", "います"]
         },
         {
           "id": 2,
           "translation": "У них две машины",
-          "correctAnswer": "Ellos tienen dos coches",
-          "words": ["Ellos", "tienen", "dos", "coches"]
+          "correctAnswer": "彼らは車を二台持っています",
+          "words": ["彼ら", "は", "車", "を", "二台", "持って", "います"]
         },
         {
           "id": 3,
           "translation": "На столе три книги",
-          "correctAnswer": "Hay tres libros sobre la mesa",
-          "words": ["Hay", "tres", "libros", "sobre", "la", "mesa"]
+          "correctAnswer": "机の上に本が三冊あります",
+          "words": ["机の上に", "本", "が", "三冊", "あります"]
         }
       ]
     }
