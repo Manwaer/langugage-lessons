@@ -1,1 +1,284 @@
-
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Представление",
+      "description": "Собери простые предложения о себе",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я студент",
+          "correctAnswer": "Yo soy estudiante",
+          "words": ["Yo", "soy", "estudiante"]
+        },
+        {
+          "id": 2,
+          "translation": "Она учитель",
+          "correctAnswer": "Ella es profesora",
+          "words": ["Ella", "es", "profesora"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы друзья",
+          "correctAnswer": "Nosotros somos amigos",
+          "words": ["Nosotros", "somos", "amigos"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Семья",
+      "description": "Собери предложения о членах семьи",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Это моя мама",
+          "correctAnswer": "Esta es mi madre",
+          "words": ["Esta", "es", "mi", "madre"]
+        },
+        {
+          "id": 2,
+          "translation": "Это мой отец",
+          "correctAnswer": "Este es mi padre",
+          "words": ["Este", "es", "mi", "padre"]
+        },
+        {
+          "id": 3,
+          "translation": "У меня есть брат",
+          "correctAnswer": "Yo tengo un hermano",
+          "words": ["Yo", "tengo", "un", "hermano"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Еда",
+      "description": "Собери предложения о еде",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я люблю пиццу",
+          "correctAnswer": "Me gusta la pizza",
+          "words": ["Me", "gusta", "la", "pizza"]
+        },
+        {
+          "id": 2,
+          "translation": "Он ест яблоко",
+          "correctAnswer": "Él come una manzana",
+          "words": ["Él", "come", "una", "manzana"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы пьём сок",
+          "correctAnswer": "Nosotros bebemos jugo",
+          "words": ["Nosotros", "bebemos", "jugo"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Цвета",
+      "description": "Собери предложения о цветах",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Небо синее",
+          "correctAnswer": "El cielo es azul",
+          "words": ["El", "cielo", "es", "azul"]
+        },
+        {
+          "id": 2,
+          "translation": "Трава зелёная",
+          "correctAnswer": "La hierba es verde",
+          "words": ["La", "hierba", "es", "verde"]
+        },
+        {
+          "id": 3,
+          "translation": "Солнце жёлтое",
+          "correctAnswer": "El sol es amarillo",
+          "words": ["El", "sol", "es", "amarillo"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Животные",
+      "description": "Собери предложения о животных",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Кошка спит",
+          "correctAnswer": "El gato duerme",
+          "words": ["El", "gato", "duerme"]
+        },
+        {
+          "id": 2,
+          "translation": "Собака бежит",
+          "correctAnswer": "El perro corre",
+          "words": ["El", "perro", "corre"]
+        },
+        {
+          "id": 3,
+          "translation": "Птицы поют",
+          "correctAnswer": "Los pájaros cantan",
+          "words": ["Los", "pájaros", "cantan"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Дом",
+      "description": "Собери предложения о доме",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Это дом",
+          "correctAnswer": "Esta es una casa",
+          "words": ["Esta", "es", "una", "casa"]
+        },
+        {
+          "id": 2,
+          "translation": "Окно открыто",
+          "correctAnswer": "La ventana está abierta",
+          "words": ["La", "ventana", "está", "abierta"]
+        },
+        {
+          "id": 3,
+          "translation": "Дверь закрыта",
+          "correctAnswer": "La puerta está cerrada",
+          "words": ["La", "puerta", "está", "cerrada"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Одежда",
+      "description": "Собери предложения об одежде",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Я ношу рубашку",
+          "correctAnswer": "Yo llevo una camisa",
+          "words": ["Yo", "llevo", "una", "camisa"]
+        },
+        {
+          "id": 2,
+          "translation": "Она носит юбку",
+          "correctAnswer": "Ella lleva una falda",
+          "words": ["Ella", "lleva", "una", "falda"]
+        },
+        {
+          "id": 3,
+          "translation": "Мы носим обувь",
+          "correctAnswer": "Nosotros llevamos zapatos",
+          "words": ["Nosotros", "llevamos", "zapatos"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Транспорт",
+      "description": "Собери предложения о транспорте",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Машина едет",
+          "correctAnswer": "El coche circula",
+          "words": ["El", "coche", "circula"]
+        },
+        {
+          "id": 2,
+          "translation": "Автобус приехал",
+          "correctAnswer": "El autobús ha llegado",
+          "words": ["El", "autobús", "ha", "llegado"]
+        },
+        {
+          "id": 3,
+          "translation": "Самолёт летит",
+          "correctAnswer": "El avión vuela",
+          "words": ["El", "avión", "vuela"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Погода",
+      "description": "Собери предложения о погоде",
+      "difficulty": 1,
+      "type": "SentenceBuilding",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "Сегодня солнечно",
+          "correctAnswer": "Hoy hace sol",
+          "words": ["Hoy", "hace", "sol"]
+        },
+        {
+          "id": 2,
+          "translation": "Идёт дождь",
+          "correctAnswer": "Está lloviendo",
+          "words": ["Está", "lloviendo"]
+        },
+        {
+          "id": 3,
+          "translation": "Ветрено на улице",
+          "correctAnswer": "Hace viento afuera",
+          "words": ["Hace", "viento", "afuera"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Числа",
+      "description": "Собери предложения с числами",
+      "difficulty": 2,
+      "type": "SentenceBuilding",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "translation": "У меня одна сестра",
+          "correctAnswer": "Yo tengo una hermana",
+          "words": ["Yo", "tengo", "una", "hermana"]
+        },
+        {
+          "id": 2,
+          "translation": "У них две машины",
+          "correctAnswer": "Ellos tienen dos coches",
+          "words": ["Ellos", "tienen", "dos", "coches"]
+        },
+        {
+          "id": 3,
+          "translation": "На столе три книги",
+          "correctAnswer": "Hay tres libros sobre la mesa",
+          "words": ["Hay", "tres", "libros", "sobre", "la", "mesa"]
+        }
+      ]
+    }
+  ]
+}
