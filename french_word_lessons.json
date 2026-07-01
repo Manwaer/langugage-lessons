@@ -1,1 +1,404 @@
-
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Приветствия",
+      "description": "Основные слова для приветствия и прощания",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Hello'?",
+          "correctAnswer": "Bonjour",
+          "wrongAnswers": ["Au revoir", "Oui", "Merci"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Goodbye'?",
+          "correctAnswer": "Au revoir",
+          "wrongAnswers": ["Bonjour", "Bonne nuit", "Merci"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Please'?",
+          "correctAnswer": "S'il vous plaît",
+          "wrongAnswers": ["Merci", "Désolé", "Oui"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Thank you'?",
+          "correctAnswer": "Merci",
+          "wrongAnswers": ["S'il vous plaît", "Désolé", "Bonjour"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Sorry'?",
+          "correctAnswer": "Désolé",
+          "wrongAnswers": ["Merci", "S'il vous plaît", "Bonjour"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Вежливые фразы",
+      "description": "Выражения вежливости и извинения",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Excuse me'?",
+          "correctAnswer": "Excusez-moi",
+          "wrongAnswers": ["S'il vous plaît", "Merci", "Pardon"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'You're welcome'?",
+          "correctAnswer": "De rien",
+          "wrongAnswers": ["Merci", "Excusez-moi", "S'il vous plaît"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'No problem'?",
+          "correctAnswer": "Pas de problème",
+          "wrongAnswers": ["Aucun problème", "Problème", "Merci"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Have a nice day'?",
+          "correctAnswer": "Bonne journée",
+          "wrongAnswers": ["Bonjour", "Bonne nuit", "Au revoir"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'I'm sorry'?",
+          "correctAnswer": "Je suis désolé",
+          "wrongAnswers": ["Excusez-moi", "Merci", "Pardon"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Да / Нет и согласие",
+      "description": "Слова для выражения согласия и отрицания",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Yes'?",
+          "correctAnswer": "Oui",
+          "wrongAnswers": ["Non", "Peut-être", "Bien sûr"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'No'?",
+          "correctAnswer": "Non",
+          "wrongAnswers": ["Oui", "Peut-être", "Jamais"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Maybe'?",
+          "correctAnswer": "Peut-être",
+          "wrongAnswers": ["Oui", "Non", "Bien sûr"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Of course'?",
+          "correctAnswer": "Bien sûr",
+          "wrongAnswers": ["Peut-être", "Oui", "Non"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Not really'?",
+          "correctAnswer": "Pas vraiment",
+          "wrongAnswers": ["Non", "Oui", "Bien sûr"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Числа 1-5",
+      "description": "Учим числа от одного до пяти",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'One'?",
+          "correctAnswer": "Un",
+          "wrongAnswers": ["Deux", "Trois", "Quatre"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Two'?",
+          "correctAnswer": "Deux",
+          "wrongAnswers": ["Un", "Trois", "Cinq"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Three'?",
+          "correctAnswer": "Trois",
+          "wrongAnswers": ["Un", "Deux", "Quatre"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Four'?",
+          "correctAnswer": "Quatre",
+          "wrongAnswers": ["Cinq", "Six", "Trois"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Five'?",
+          "correctAnswer": "Cinq",
+          "wrongAnswers": ["Quatre", "Six", "Sept"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Числа 6-10",
+      "description": "Числа от шести до десяти",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Six'?",
+          "correctAnswer": "Six",
+          "wrongAnswers": ["Sept", "Huit", "Cinq"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Seven'?",
+          "correctAnswer": "Sept",
+          "wrongAnswers": ["Six", "Huit", "Neuf"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Eight'?",
+          "correctAnswer": "Huit",
+          "wrongAnswers": ["Sept", "Neuf", "Dix"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Nine'?",
+          "correctAnswer": "Neuf",
+          "wrongAnswers": ["Sept", "Huit", "Dix"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Ten'?",
+          "correctAnswer": "Dix",
+          "wrongAnswers": ["Onze", "Douze", "Neuf"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Числа 11-15",
+      "description": "Числа от одиннадцати до пятнадцати",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Eleven'?",
+          "correctAnswer": "Onze",
+          "wrongAnswers": ["Douze", "Treize", "Dix"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Twelve'?",
+          "correctAnswer": "Douze",
+          "wrongAnswers": ["Onze", "Treize", "Quatorze"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Thirteen'?",
+          "correctAnswer": "Treize",
+          "wrongAnswers": ["Douze", "Quatorze", "Quinze"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Fourteen'?",
+          "correctAnswer": "Quatorze",
+          "wrongAnswers": ["Treize", "Quinze", "Seize"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Fifteen'?",
+          "correctAnswer": "Quinze",
+          "wrongAnswers": ["Treize", "Quatorze", "Seize"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Числа 16-20",
+      "description": "Числа от шестнадцати до двадцати",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Sixteen'?",
+          "correctAnswer": "Seize",
+          "wrongAnswers": ["Dix-sept", "Dix-huit", "Quinze"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Seventeen'?",
+          "correctAnswer": "Dix-sept",
+          "wrongAnswers": ["Seize", "Dix-huit", "Dix-neuf"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Eighteen'?",
+          "correctAnswer": "Dix-huit",
+          "wrongAnswers": ["Seize", "Dix-sept", "Dix-neuf"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Nineteen'?",
+          "correctAnswer": "Dix-neuf",
+          "wrongAnswers": ["Dix-huit", "Vingt", "Dix-sept"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Twenty'?",
+          "correctAnswer": "Vingt",
+          "wrongAnswers": ["Trente", "Dix-neuf", "Douze"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Десятки",
+      "description": "Круглые числа от тридцати до семидесяти",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Thirty'?",
+          "correctAnswer": "Trente",
+          "wrongAnswers": ["Vingt", "Quarante", "Cinquante"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Forty'?",
+          "correctAnswer": "Quarante",
+          "wrongAnswers": ["Trente", "Cinquante", "Soixante"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Fifty'?",
+          "correctAnswer": "Cinquante",
+          "wrongAnswers": ["Quarante", "Soixante", "Soixante-dix"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Sixty'?",
+          "correctAnswer": "Soixante",
+          "wrongAnswers": ["Cinquante", "Soixante-dix", "Quatre-vingts"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Seventy'?",
+          "correctAnswer": "Soixante-dix",
+          "wrongAnswers": ["Soixante", "Quatre-vingts", "Quatre-vingt-dix"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Сотни и тысячи",
+      "description": "Большие числа",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Hundred'?",
+          "correctAnswer": "Cent",
+          "wrongAnswers": ["Mille", "Million", "Dix"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Thousand'?",
+          "correctAnswer": "Mille",
+          "wrongAnswers": ["Cent", "Million", "Dix"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Million'?",
+          "correctAnswer": "Million",
+          "wrongAnswers": ["Mille", "Cent", "Milliard"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Billion'?",
+          "correctAnswer": "Milliard",
+          "wrongAnswers": ["Million", "Mille", "Cent"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Zero'?",
+          "correctAnswer": "Zéro",
+          "wrongAnswers": ["Un", "Dix", "Cent"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Основные цвета",
+      "description": "Красный, синий, зелёный, жёлтый, чёрный",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "French",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Red'?",
+          "correctAnswer": "Rouge",
+          "wrongAnswers": ["Bleu", "Vert", "Jaune"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Blue'?",
+          "correctAnswer": "Bleu",
+          "wrongAnswers": ["Rouge", "Vert", "Violet"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Green'?",
+          "correctAnswer": "Vert",
+          "wrongAnswers": ["Rouge", "Bleu", "Jaune"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Yellow'?",
+          "correctAnswer": "Jaune",
+          "wrongAnswers": ["Rouge", "Vert", "Noir"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Black'?",
+          "correctAnswer": "Noir",
+          "wrongAnswers": ["Blanc", "Brun", "Gris"]
+        }
+      ]
+    }
+  ]
+}
