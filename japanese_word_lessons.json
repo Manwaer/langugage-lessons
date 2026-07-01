@@ -8,36 +8,11 @@
       "type": "WordTranslation",
       "language": "Japanese",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Hello'?",
-          "correctAnswer": "こんにちは",
-          "wrongAnswers": ["さようなら", "はい", "ありがとう"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Goodbye'?",
-          "correctAnswer": "さようなら",
-          "wrongAnswers": ["こんにちは", "おはよう", "おやすみ"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Please'?",
-          "correctAnswer": "お願いします",
-          "wrongAnswers": ["ありがとう", "すみません", "はい"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Thank you'?",
-          "correctAnswer": "ありがとう",
-          "wrongAnswers": ["お願いします", "すみません", "こんにちは"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Sorry'?",
-          "correctAnswer": "すみません",
-          "wrongAnswers": ["ありがとう", "お願いします", "こんにちは"]
-        }
+        {"id": 1, "question": "Переведи слово 'Привет'", "correctAnswer": "こんにちは", "wrongAnswers": ["さようなら", "はい", "ありがとう"]},
+        {"id": 2, "question": "Переведи слово 'До свидания'", "correctAnswer": "さようなら", "wrongAnswers": ["こんにちは", "おはようございます", "おやすみなさい"]},
+        {"id": 3, "question": "Переведи слово 'Пожалуйста'", "correctAnswer": "お願いします", "wrongAnswers": ["ありがとう", "すみません", "はい"]},
+        {"id": 4, "question": "Переведи слово 'Спасибо'", "correctAnswer": "ありがとう", "wrongAnswers": ["お願いします", "すみません", "こんにちは"]},
+        {"id": 5, "question": "Переведи слово 'Извините'", "correctAnswer": "すみません", "wrongAnswers": ["ありがとう", "お願いします", "こんにちは"]}
       ]
     },
     {
@@ -48,36 +23,11 @@
       "type": "WordTranslation",
       "language": "Japanese",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Excuse me'?",
-          "correctAnswer": "失礼します",
-          "wrongAnswers": ["お願いします", "ありがとう", "ごめんなさい"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'You're welcome'?",
-          "correctAnswer": "どういたしまして",
-          "wrongAnswers": ["ありがとう", "失礼します", "お願いします"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'No problem'?",
-          "correctAnswer": "問題ない",
-          "wrongAnswers": ["問題", "ない", "ありがとう"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Have a nice day'?",
-          "correctAnswer": "良い一日を",
-          "wrongAnswers": ["おはよう", "おやすみ", "さようなら"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'I'm sorry'?",
-          "correctAnswer": "ごめんなさい",
-          "wrongAnswers": ["すみません", "ありがとう", "失礼"]
-        }
+        {"id": 1, "question": "Переведи слово 'Прошу прощения'", "correctAnswer": "ごめんなさい", "wrongAnswers": ["お願いします", "ありがとう", "すみません"]},
+        {"id": 2, "question": "Переведи слово 'Пожалуйста (ответ на спасибо)'", "correctAnswer": "どういたしまして", "wrongAnswers": ["ありがとう", "すみません", "お願いします"]},
+        {"id": 3, "question": "Переведи слово 'Без проблем'", "correctAnswer": "問題ない", "wrongAnswers": ["問題", "いいえ", "ありがとう"]},
+        {"id": 4, "question": "Переведи слово 'Хорошего дня'", "correctAnswer": "良い一日を", "wrongAnswers": ["おはようございます", "おやすみなさい", "さようなら"]},
+        {"id": 5, "question": "Переведи слово 'Мне жаль'", "correctAnswer": "残念です", "wrongAnswers": ["すみません", "ありがとう", "ごめんなさい"]}
       ]
     },
     {
@@ -88,36 +38,11 @@
       "type": "WordTranslation",
       "language": "Japanese",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Yes'?",
-          "correctAnswer": "はい",
-          "wrongAnswers": ["いいえ", "かもしれない", "もちろん"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'No'?",
-          "correctAnswer": "いいえ",
-          "wrongAnswers": ["はい", "かもしれない", "決して"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Maybe'?",
-          "correctAnswer": "かもしれない",
-          "wrongAnswers": ["はい", "いいえ", "もちろん"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Of course'?",
-          "correctAnswer": "もちろん",
-          "wrongAnswers": ["かもしれない", "はい", "いいえ"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Not really'?",
-          "correctAnswer": "あまり",
-          "wrongAnswers": ["いいえ", "はい", "もちろん"]
-        }
+        {"id": 1, "question": "Переведи слово 'Да'", "correctAnswer": "はい", "wrongAnswers": ["いいえ", "多分", "もちろん"]},
+        {"id": 2, "question": "Переведи слово 'Нет'", "correctAnswer": "いいえ", "wrongAnswers": ["はい", "多分", "決して"]},
+        {"id": 3, "question": "Переведи слово 'Может быть'", "correctAnswer": "多分", "wrongAnswers": ["はい", "いいえ", "もちろん"]},
+        {"id": 4, "question": "Переведи слово 'Конечно'", "correctAnswer": "もちろん", "wrongAnswers": ["多分", "はい", "いいえ"]},
+        {"id": 5, "question": "Переведи слово 'Не совсем'", "correctAnswer": "あまり", "wrongAnswers": ["いいえ", "はい", "もちろん"]}
       ]
     },
     {
@@ -128,36 +53,11 @@
       "type": "WordTranslation",
       "language": "Japanese",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'One'?",
-          "correctAnswer": "一",
-          "wrongAnswers": ["二", "三", "四"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Two'?",
-          "correctAnswer": "二",
-          "wrongAnswers": ["一", "三", "五"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Three'?",
-          "correctAnswer": "三",
-          "wrongAnswers": ["一", "二", "四"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Four'?",
-          "correctAnswer": "四",
-          "wrongAnswers": ["五", "六", "三"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Five'?",
-          "correctAnswer": "五",
-          "wrongAnswers": ["四", "六", "七"]
-        }
+        {"id": 1, "question": "Переведи слово 'Один'", "correctAnswer": "いち", "wrongAnswers": ["に", "さん", "よん"]},
+        {"id": 2, "question": "Переведи слово 'Два'", "correctAnswer": "に", "wrongAnswers": ["いち", "さん", "ご"]},
+        {"id": 3, "question": "Переведи слово 'Три'", "correctAnswer": "さん", "wrongAnswers": ["いち", "に", "よん"]},
+        {"id": 4, "question": "Переведи слово 'Четыре'", "correctAnswer": "よん", "wrongAnswers": ["ご", "ろく", "さん"]},
+        {"id": 5, "question": "Переведи слово 'Пять'", "correctAnswer": "ご", "wrongAnswers": ["よん", "ろく", "なな"]}
       ]
     },
     {
@@ -168,36 +68,11 @@
       "type": "WordTranslation",
       "language": "Japanese",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Six'?",
-          "correctAnswer": "六",
-          "wrongAnswers": ["七", "八", "五"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Seven'?",
-          "correctAnswer": "七",
-          "wrongAnswers": ["六", "八", "九"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Eight'?",
-          "correctAnswer": "八",
-          "wrongAnswers": ["七", "九", "十"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Nine'?",
-          "correctAnswer": "九",
-          "wrongAnswers": ["七", "八", "十"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Ten'?",
-          "correctAnswer": "十",
-          "wrongAnswers": ["十一", "十二", "九"]
-        }
+        {"id": 1, "question": "Переведи слово 'Шесть'", "correctAnswer": "ろく", "wrongAnswers": ["なな", "はち", "ご"]},
+        {"id": 2, "question": "Переведи слово 'Семь'", "correctAnswer": "なな", "wrongAnswers": ["ろく", "はち", "きゅう"]},
+        {"id": 3, "question": "Переведи слово 'Восемь'", "correctAnswer": "はち", "wrongAnswers": ["なな", "きゅう", "じゅう"]},
+        {"id": 4, "question": "Переведи слово 'Девять'", "correctAnswer": "きゅう", "wrongAnswers": ["なな", "はち", "じゅう"]},
+        {"id": 5, "question": "Переведи слово 'Десять'", "correctAnswer": "じゅう", "wrongAnswers": ["じゅういち", "じゅうに", "きゅう"]}
       ]
     },
     {
@@ -208,36 +83,11 @@
       "type": "WordTranslation",
       "language": "Japanese",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Eleven'?",
-          "correctAnswer": "十一",
-          "wrongAnswers": ["十二", "十三", "十"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Twelve'?",
-          "correctAnswer": "十二",
-          "wrongAnswers": ["十一", "十三", "十四"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Thirteen'?",
-          "correctAnswer": "十三",
-          "wrongAnswers": ["十二", "十四", "十五"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Fourteen'?",
-          "correctAnswer": "十四",
-          "wrongAnswers": ["十三", "十五", "十六"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Fifteen'?",
-          "correctAnswer": "十五",
-          "wrongAnswers": ["十三", "十四", "十六"]
-        }
+        {"id": 1, "question": "Переведи слово 'Одиннадцать'", "correctAnswer": "じゅういち", "wrongAnswers": ["じゅうに", "じゅうさん", "じゅう"]},
+        {"id": 2, "question": "Переведи слово 'Двенадцать'", "correctAnswer": "じゅうに", "wrongAnswers": ["じゅういち", "じゅうさん", "じゅうよん"]},
+        {"id": 3, "question": "Переведи слово 'Тринадцать'", "correctAnswer": "じゅうさん", "wrongAnswers": ["じゅうに", "じゅうよん", "じゅうご"]},
+        {"id": 4, "question": "Переведи слово 'Четырнадцать'", "correctAnswer": "じゅうよん", "wrongAnswers": ["じゅうさん", "じゅうご", "じゅうろく"]},
+        {"id": 5, "question": "Переведи слово 'Пятнадцать'", "correctAnswer": "じゅうご", "wrongAnswers": ["じゅうさん", "じゅうよん", "じゅうろく"]}
       ]
     },
     {
@@ -248,36 +98,11 @@
       "type": "WordTranslation",
       "language": "Japanese",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Sixteen'?",
-          "correctAnswer": "十六",
-          "wrongAnswers": ["十七", "十八", "十五"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Seventeen'?",
-          "correctAnswer": "十七",
-          "wrongAnswers": ["十六", "十八", "十九"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Eighteen'?",
-          "correctAnswer": "十八",
-          "wrongAnswers": ["十六", "十七", "十九"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Nineteen'?",
-          "correctAnswer": "十九",
-          "wrongAnswers": ["十八", "二十", "十七"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Twenty'?",
-          "correctAnswer": "二十",
-          "wrongAnswers": ["三十", "十九", "十二"]
-        }
+        {"id": 1, "question": "Переведи слово 'Шестнадцать'", "correctAnswer": "じゅうろく", "wrongAnswers": ["じゅうなな", "じゅうはち", "じゅうご"]},
+        {"id": 2, "question": "Переведи слово 'Семнадцать'", "correctAnswer": "じゅうなな", "wrongAnswers": ["じゅうろく", "じゅうはち", "じゅうきゅう"]},
+        {"id": 3, "question": "Переведи слово 'Восемнадцать'", "correctAnswer": "じゅうはち", "wrongAnswers": ["じゅうろく", "じゅうなな", "じゅうきゅう"]},
+        {"id": 4, "question": "Переведи слово 'Девятнадцать'", "correctAnswer": "じゅうきゅう", "wrongAnswers": ["じゅうはち", "にじゅう", "じゅうなな"]},
+        {"id": 5, "question": "Переведи слово 'Двадцать'", "correctAnswer": "にじゅう", "wrongAnswers": ["さんじゅう", "じゅうきゅう", "じゅうに"]}
       ]
     },
     {
@@ -288,36 +113,11 @@
       "type": "WordTranslation",
       "language": "Japanese",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Thirty'?",
-          "correctAnswer": "三十",
-          "wrongAnswers": ["二十", "四十", "五十"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Forty'?",
-          "correctAnswer": "四十",
-          "wrongAnswers": ["三十", "五十", "六十"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Fifty'?",
-          "correctAnswer": "五十",
-          "wrongAnswers": ["四十", "六十", "七十"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Sixty'?",
-          "correctAnswer": "六十",
-          "wrongAnswers": ["五十", "七十", "八十"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Seventy'?",
-          "correctAnswer": "七十",
-          "wrongAnswers": ["六十", "八十", "九十"]
-        }
+        {"id": 1, "question": "Переведи слово 'Тридцать'", "correctAnswer": "さんじゅう", "wrongAnswers": ["にじゅう", "よんじゅう", "ごじゅう"]},
+        {"id": 2, "question": "Переведи слово 'Сорок'", "correctAnswer": "よんじゅう", "wrongAnswers": ["さんじゅう", "ごじゅう", "ろくじゅう"]},
+        {"id": 3, "question": "Переведи слово 'Пятьдесят'", "correctAnswer": "ごじゅう", "wrongAnswers": ["よんじゅう", "ろくじゅう", "ななじゅう"]},
+        {"id": 4, "question": "Переведи слово 'Шестьдесят'", "correctAnswer": "ろくじゅう", "wrongAnswers": ["ごじゅう", "ななじゅう", "はちじゅう"]},
+        {"id": 5, "question": "Переведи слово 'Семьдесят'", "correctAnswer": "ななじゅう", "wrongAnswers": ["ろくじゅう", "はちじゅう", "きゅうじゅう"]}
       ]
     },
     {
@@ -328,36 +128,11 @@
       "type": "WordTranslation",
       "language": "Japanese",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Hundred'?",
-          "correctAnswer": "百",
-          "wrongAnswers": ["千", "百万", "十"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Thousand'?",
-          "correctAnswer": "千",
-          "wrongAnswers": ["百", "百万", "十"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Million'?",
-          "correctAnswer": "百万",
-          "wrongAnswers": ["千", "百", "十億"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Billion'?",
-          "correctAnswer": "十億",
-          "wrongAnswers": ["百万", "千", "百"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Zero'?",
-          "correctAnswer": "零",
-          "wrongAnswers": ["一", "十", "百"]
-        }
+        {"id": 1, "question": "Переведи слово 'Сто'", "correctAnswer": "ひゃく", "wrongAnswers": ["せん", "まん", "じゅう"]},
+        {"id": 2, "question": "Переведи слово 'Тысяча'", "correctAnswer": "せん", "wrongAnswers": ["ひゃく", "まん", "じゅう"]},
+        {"id": 3, "question": "Переведи слово 'Миллион'", "correctAnswer": "まん", "wrongAnswers": ["せん", "ひゃく", "おく"]},
+        {"id": 4, "question": "Переведи слово 'Миллиард'", "correctAnswer": "おく", "wrongAnswers": ["まん", "せん", "ひゃく"]},
+        {"id": 5, "question": "Переведи слово 'Ноль'", "correctAnswer": "ゼロ", "wrongAnswers": ["いち", "じゅう", "ひゃく"]}
       ]
     },
     {
@@ -368,36 +143,1061 @@
       "type": "WordTranslation",
       "language": "Japanese",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Red'?",
-          "correctAnswer": "赤",
-          "wrongAnswers": ["青", "緑", "黄"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Blue'?",
-          "correctAnswer": "青",
-          "wrongAnswers": ["赤", "緑", "紫"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Green'?",
-          "correctAnswer": "緑",
-          "wrongAnswers": ["赤", "青", "黄"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Yellow'?",
-          "correctAnswer": "黄",
-          "wrongAnswers": ["赤", "緑", "黒"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Black'?",
-          "correctAnswer": "黒",
-          "wrongAnswers": ["白", "茶", "灰"]
-        }
+        {"id": 1, "question": "Переведи слово 'Красный'", "correctAnswer": "赤", "wrongAnswers": ["青", "緑", "黄"]},
+        {"id": 2, "question": "Переведи слово 'Синий'", "correctAnswer": "青", "wrongAnswers": ["赤", "緑", "紫"]},
+        {"id": 3, "question": "Переведи слово 'Зелёный'", "correctAnswer": "緑", "wrongAnswers": ["赤", "青", "黄"]},
+        {"id": 4, "question": "Переведи слово 'Жёлтый'", "correctAnswer": "黄", "wrongAnswers": ["赤", "緑", "黒"]},
+        {"id": 5, "question": "Переведи слово 'Чёрный'", "correctAnswer": "黒", "wrongAnswers": ["白", "茶", "灰"]}
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Дополнительные цвета",
+      "description": "Белый, коричневый, розовый, фиолетовый, оранжевый",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Белый'", "correctAnswer": "白", "wrongAnswers": ["黒", "赤", "灰"]},
+        {"id": 2, "question": "Переведи слово 'Коричневый'", "correctAnswer": "茶", "wrongAnswers": ["ピンク", "紫", "黄"]},
+        {"id": 3, "question": "Переведи слово 'Розовый'", "correctAnswer": "ピンク", "wrongAnswers": ["赤", "紫", "オレンジ"]},
+        {"id": 4, "question": "Переведи слово 'Фиолетовый'", "correctAnswer": "紫", "wrongAnswers": ["ピンク", "茶", "オレンジ"]},
+        {"id": 5, "question": "Переведи слово 'Оранжевый'", "correctAnswer": "オレンジ", "wrongAnswers": ["黄", "赤", "茶"]}
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Семья: мама, папа, сестра, брат",
+      "description": "Близкие родственники",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Мама'", "correctAnswer": "母", "wrongAnswers": ["父", "姉", "兄"]},
+        {"id": 2, "question": "Переведи слово 'Папа'", "correctAnswer": "父", "wrongAnswers": ["母", "兄", "姉"]},
+        {"id": 3, "question": "Переведи слово 'Сестра'", "correctAnswer": "姉", "wrongAnswers": ["兄", "母", "父"]},
+        {"id": 4, "question": "Переведи слово 'Брат'", "correctAnswer": "兄", "wrongAnswers": ["姉", "母", "父"]},
+        {"id": 5, "question": "Переведи слово 'Бабушка'", "correctAnswer": "祖母", "wrongAnswers": ["祖父", "叔母", "叔父"]}
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Семья: бабушка, дедушка, тетя, дядя, кузен",
+      "description": "Другие родственники",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Дедушка'", "correctAnswer": "祖父", "wrongAnswers": ["祖母", "父", "息子"]},
+        {"id": 2, "question": "Переведи слово 'Тётя'", "correctAnswer": "叔母", "wrongAnswers": ["叔父", "姉", "母"]},
+        {"id": 3, "question": "Переведи слово 'Дядя'", "correctAnswer": "叔父", "wrongAnswers": ["叔母", "兄", "父"]},
+        {"id": 4, "question": "Переведи слово 'Двоюродный брат/сестра'", "correctAnswer": "いとこ", "wrongAnswers": ["兄", "姉", "叔父"]},
+        {"id": 5, "question": "Переведи слово 'Младенец'", "correctAnswer": "赤ちゃん", "wrongAnswers": ["子供", "若者", "大人"]}
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Части тела: голова, лицо, глаз, ухо, нос",
+      "description": "Основные части головы",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Голова'", "correctAnswer": "頭", "wrongAnswers": ["顔", "目", "耳"]},
+        {"id": 2, "question": "Переведи слово 'Лицо'", "correctAnswer": "顔", "wrongAnswers": ["頭", "目", "鼻"]},
+        {"id": 3, "question": "Переведи слово 'Глаз'", "correctAnswer": "目", "wrongAnswers": ["耳", "鼻", "口"]},
+        {"id": 4, "question": "Переведи слово 'Ухо'", "correctAnswer": "耳", "wrongAnswers": ["目", "鼻", "口"]},
+        {"id": 5, "question": "Переведи слово 'Нос'", "correctAnswer": "鼻", "wrongAnswers": ["耳", "目", "口"]}
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Части тела: рот, рука, нога, ступня, волосы",
+      "description": "Другие части тела",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Рот'", "correctAnswer": "口", "wrongAnswers": ["鼻", "耳", "目"]},
+        {"id": 2, "question": "Переведи слово 'Кисть руки'", "correctAnswer": "手", "wrongAnswers": ["腕", "足", "足首"]},
+        {"id": 3, "question": "Переведи слово 'Нога'", "correctAnswer": "足", "wrongAnswers": ["腕", "膝", "足首"]},
+        {"id": 4, "question": "Переведи слово 'Ступня'", "correctAnswer": "足首", "wrongAnswers": ["足", "膝", "指"]},
+        {"id": 5, "question": "Переведи слово 'Волосы'", "correctAnswer": "髪", "wrongAnswers": ["頭", "顔", "首"]}
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Еда: хлеб, молоко, яйцо, мясо, рыба",
+      "description": "Основные продукты питания",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Хлеб'", "correctAnswer": "パン", "wrongAnswers": ["牛乳", "卵", "肉"]},
+        {"id": 2, "question": "Переведи слово 'Молоко'", "correctAnswer": "牛乳", "wrongAnswers": ["パン", "卵", "ジュース"]},
+        {"id": 3, "question": "Переведи слово 'Яйцо'", "correctAnswer": "卵", "wrongAnswers": ["パン", "牛乳", "肉"]},
+        {"id": 4, "question": "Переведи слово 'Мясо'", "correctAnswer": "肉", "wrongAnswers": ["魚", "米", "パン"]},
+        {"id": 5, "question": "Переведи слово 'Рыба'", "correctAnswer": "魚", "wrongAnswers": ["肉", "米", "牛乳"]}
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Еда: рис, паста, пицца, бургер, торт",
+      "description": "Популярные блюда",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Рис'", "correctAnswer": "米", "wrongAnswers": ["パスタ", "ピザ", "肉"]},
+        {"id": 2, "question": "Переведи слово 'Паста'", "correctAnswer": "パスタ", "wrongAnswers": ["ピザ", "ハンバーガー", "米"]},
+        {"id": 3, "question": "Переведи слово 'Пицца'", "correctAnswer": "ピザ", "wrongAnswers": ["パスタ", "ハンバーガー", "スープ"]},
+        {"id": 4, "question": "Переведи слово 'Бургер'", "correctAnswer": "ハンバーガー", "wrongAnswers": ["パスタ", "ピザ", "ホットドッグ"]},
+        {"id": 5, "question": "Переведи слово 'Торт'", "correctAnswer": "ケーキ", "wrongAnswers": ["サラダ", "スープ", "パン"]}
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Напитки: вода, чай, кофе, сок, лимонад",
+      "description": "Основные напитки",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Вода'", "correctAnswer": "水", "wrongAnswers": ["ジュース", "牛乳", "お茶"]},
+        {"id": 2, "question": "Переведи слово 'Чай'", "correctAnswer": "お茶", "wrongAnswers": ["コーヒー", "ジュース", "レモネード"]},
+        {"id": 3, "question": "Переведи слово 'Кофе'", "correctAnswer": "コーヒー", "wrongAnswers": ["ココア", "ジュース", "牛乳"]},
+        {"id": 4, "question": "Переведи слово 'Сок'", "correctAnswer": "ジュース", "wrongAnswers": ["水", "お茶", "レモネード"]},
+        {"id": 5, "question": "Переведи слово 'Газировка'", "correctAnswer": "レモネード", "wrongAnswers": ["水", "ジュース", "コーラ"]}
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Животные: кошка, собака, птица, рыба, лошадь",
+      "description": "Домашние и дикие животные",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Кошка'", "correctAnswer": "猫", "wrongAnswers": ["犬", "鳥", "魚"]},
+        {"id": 2, "question": "Переведи слово 'Собака'", "correctAnswer": "犬", "wrongAnswers": ["猫", "鳥", "狐"]},
+        {"id": 3, "question": "Переведи слово 'Птица'", "correctAnswer": "鳥", "wrongAnswers": ["猫", "犬", "魚"]},
+        {"id": 4, "question": "Переведи слово 'Рыба'", "correctAnswer": "魚", "wrongAnswers": ["鳥", "馬", "牛"]},
+        {"id": 5, "question": "Переведи слово 'Лошадь'", "correctAnswer": "馬", "wrongAnswers": ["牛", "豚", "羊"]}
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Животные: корова, свинья, овца, мышь, кролик",
+      "description": "Фермерские и мелкие животные",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Корова'", "correctAnswer": "牛", "wrongAnswers": ["馬", "豚", "羊"]},
+        {"id": 2, "question": "Переведи слово 'Свинья'", "correctAnswer": "豚", "wrongAnswers": ["羊", "鼠", "牛"]},
+        {"id": 3, "question": "Переведи слово 'Овца'", "correctAnswer": "羊", "wrongAnswers": ["豚", "鼠", "山羊"]},
+        {"id": 4, "question": "Переведи слово 'Мышь'", "correctAnswer": "鼠", "wrongAnswers": ["猫", "羊", "豚"]},
+        {"id": 5, "question": "Переведи слово 'Кролик'", "correctAnswer": "ウサギ", "wrongAnswers": ["アヒル", "鶏", "鼠"]}
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Дом: дом, комната, дверь, окно, пол",
+      "description": "Части дома",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Дом'", "correctAnswer": "家", "wrongAnswers": ["部屋", "ドア", "窓"]},
+        {"id": 2, "question": "Переведи слово 'Комната'", "correctAnswer": "部屋", "wrongAnswers": ["家", "ドア", "台所"]},
+        {"id": 3, "question": "Переведи слово 'Дверь'", "correctAnswer": "ドア", "wrongAnswers": ["窓", "壁", "床"]},
+        {"id": 4, "question": "Переведи слово 'Окно'", "correctAnswer": "窓", "wrongAnswers": ["ドア", "壁", "天井"]},
+        {"id": 5, "question": "Переведи слово 'Пол'", "correctAnswer": "床", "wrongAnswers": ["天井", "壁", "階段"]}
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Мебель: стол, стул, кровать, шкаф, полка",
+      "description": "Основная мебель",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Стол'", "correctAnswer": "机", "wrongAnswers": ["椅子", "ベッド", "ソファ"]},
+        {"id": 2, "question": "Переведи слово 'Стул'", "correctAnswer": "椅子", "wrongAnswers": ["机", "ソファ", "スツール"]},
+        {"id": 3, "question": "Переведи слово 'Кровать'", "correctAnswer": "ベッド", "wrongAnswers": ["ソファ", "机", "棚"]},
+        {"id": 4, "question": "Переведи слово 'Шкаф'", "correctAnswer": "棚", "wrongAnswers": ["本棚", "机", "鏡"]},
+        {"id": 5, "question": "Переведи слово 'Полка'", "correctAnswer": "本棚", "wrongAnswers": ["棚", "机", "鏡"]}
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Одежда: рубашка, обувь, шляпа, куртка, юбка",
+      "description": "Основные предметы одежды",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Рубашка'", "correctAnswer": "シャツ", "wrongAnswers": ["靴", "帽子", "ジャケット"]},
+        {"id": 2, "question": "Переведи слово 'Обувь'", "correctAnswer": "靴", "wrongAnswers": ["靴下", "帽子", "ズボン"]},
+        {"id": 3, "question": "Переведи слово 'Шляпа'", "correctAnswer": "帽子", "wrongAnswers": ["マフラー", "手袋", "キャップ"]},
+        {"id": 4, "question": "Переведи слово 'Куртка'", "correctAnswer": "ジャケット", "wrongAnswers": ["コート", "レインコート", "ブレザー"]},
+        {"id": 5, "question": "Переведи слово 'Юбка'", "correctAnswer": "スカート", "wrongAnswers": ["ドレス", "ショートパンツ", "ズボン"]}
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Одежда: платье, брюки, носки, перчатки, ремень",
+      "description": "Другие предметы одежды",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Платье'", "correctAnswer": "ドレス", "wrongAnswers": ["スカート", "ブラウス", "トップス"]},
+        {"id": 2, "question": "Переведи слово 'Брюки'", "correctAnswer": "ズボン", "wrongAnswers": ["ショートパンツ", "ジーンズ", "スカート"]},
+        {"id": 3, "question": "Переведи слово 'Носки'", "correctAnswer": "靴下", "wrongAnswers": ["ストッキング", "スリッパ", "レッグウォーマー"]},
+        {"id": 4, "question": "Переведи слово 'Перчатки'", "correctAnswer": "手袋", "wrongAnswers": ["ミトン", "アームカバー", "アームウォーマー"]},
+        {"id": 5, "question": "Переведи слово 'Ремень'", "correctAnswer": "ベルト", "wrongAnswers": ["マフラー", "ネクタイ", "手袋"]}
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Транспорт: машина, автобус, поезд, самолет, корабль",
+      "description": "Основные виды транспорта",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Машина'", "correctAnswer": "車", "wrongAnswers": ["バス", "電車", "飛行機"]},
+        {"id": 2, "question": "Переведи слово 'Автобус'", "correctAnswer": "バス", "wrongAnswers": ["車", "電車", "路面電車"]},
+        {"id": 3, "question": "Переведи слово 'Поезд'", "correctAnswer": "電車", "wrongAnswers": ["地下鉄", "バス", "飛行機"]},
+        {"id": 4, "question": "Переведи слово 'Самолет'", "correctAnswer": "飛行機", "wrongAnswers": ["ヘリコプター", "船", "車"]},
+        {"id": 5, "question": "Переведи слово 'Корабль'", "correctAnswer": "船", "wrongAnswers": ["ボート", "ヨット", "フェリー"]}
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Транспорт: велосипед, мотоцикл, грузовик, фургон, вертолет",
+      "description": "Другие виды транспорта",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Велосипед'", "correctAnswer": "自転車", "wrongAnswers": ["バイク", "スクーター", "スケートボード"]},
+        {"id": 2, "question": "Переведи слово 'Мотоцикл'", "correctAnswer": "バイク", "wrongAnswers": ["自転車", "オートバイ", "クワッド"]},
+        {"id": 3, "question": "Переведи слово 'Грузовик'", "correctAnswer": "トラック", "wrongAnswers": ["トレーラー", "トラクター", "セミトレーラー"]},
+        {"id": 4, "question": "Переведи слово 'Фургон'", "correctAnswer": "バン", "wrongAnswers": ["バス", "配送車", "キャンピングカー"]},
+        {"id": 5, "question": "Переведи слово 'Вертолет'", "correctAnswer": "ヘリコプター", "wrongAnswers": ["飛行機", "ドローン", "気球"]}
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Погода: солнечный, дождливый, облачный, ветреный, снежный",
+      "description": "Описание погоды",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Солнечный'", "correctAnswer": "晴れ", "wrongAnswers": ["雨", "曇り", "風"]},
+        {"id": 2, "question": "Переведи слово 'Дождливый'", "correctAnswer": "雨", "wrongAnswers": ["晴れ", "雪", "霧"]},
+        {"id": 3, "question": "Переведи слово 'Облачный'", "correctAnswer": "曇り", "wrongAnswers": ["快晴", "暗い", "晴れ"]},
+        {"id": 4, "question": "Переведи слово 'Ветреный'", "correctAnswer": "風", "wrongAnswers": ["晴れ", "雨", "嵐"]},
+        {"id": 5, "question": "Переведи слово 'Снежный'", "correctAnswer": "雪", "wrongAnswers": ["雨", "曇り", "氷"]}
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Погода: жарко, холодно, тепло, прохладно, туманно",
+      "description": "Температура и явления",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Жарко'", "correctAnswer": "暑い", "wrongAnswers": ["寒い", "暖かい", "涼しい"]},
+        {"id": 2, "question": "Переведи слово 'Холодно'", "correctAnswer": "寒い", "wrongAnswers": ["暑い", "暖かい", "氷のように冷たい"]},
+        {"id": 3, "question": "Переведи слово 'Тепло'", "correctAnswer": "暖かい", "wrongAnswers": ["暑い", "寒い", "涼しい"]},
+        {"id": 4, "question": "Переведи слово 'Прохладно'", "correctAnswer": "涼しい", "wrongAnswers": ["暖かい", "寒い", "暑い"]},
+        {"id": 5, "question": "Переведи слово 'Туманно'", "correctAnswer": "霧", "wrongAnswers": ["快晴", "暗い", "晴れ"]}
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Времена года",
+      "description": "Названия времён года",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Весна'", "correctAnswer": "春", "wrongAnswers": ["夏", "秋", "冬"]},
+        {"id": 2, "question": "Переведи слово 'Лето'", "correctAnswer": "夏", "wrongAnswers": ["春", "秋", "冬"]},
+        {"id": 3, "question": "Переведи слово 'Осень'", "correctAnswer": "秋", "wrongAnswers": ["春", "夏", "冬"]},
+        {"id": 4, "question": "Переведи слово 'Зима'", "correctAnswer": "冬", "wrongAnswers": ["春", "夏", "秋"]},
+        {"id": 5, "question": "Переведи слово 'Сезон'", "correctAnswer": "季節", "wrongAnswers": ["月", "週", "年"]}
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Дни недели: понедельник - пятница",
+      "description": "Будние дни",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Понедельник'", "correctAnswer": "月曜日", "wrongAnswers": ["火曜日", "水曜日", "木曜日"]},
+        {"id": 2, "question": "Переведи слово 'Вторник'", "correctAnswer": "火曜日", "wrongAnswers": ["月曜日", "水曜日", "木曜日"]},
+        {"id": 3, "question": "Переведи слово 'Среда'", "correctAnswer": "水曜日", "wrongAnswers": ["月曜日", "火曜日", "木曜日"]},
+        {"id": 4, "question": "Переведи слово 'Четверг'", "correctAnswer": "木曜日", "wrongAnswers": ["金曜日", "土曜日", "水曜日"]},
+        {"id": 5, "question": "Переведи слово 'Пятница'", "correctAnswer": "金曜日", "wrongAnswers": ["木曜日", "土曜日", "日曜日"]}
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Дни недели: суббота, воскресенье, неделя, выходные",
+      "description": "Выходные и понятие недели",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Суббота'", "correctAnswer": "土曜日", "wrongAnswers": ["金曜日", "日曜日", "木曜日"]},
+        {"id": 2, "question": "Переведи слово 'Воскресенье'", "correctAnswer": "日曜日", "wrongAnswers": ["土曜日", "月曜日", "金曜日"]},
+        {"id": 3, "question": "Переведи слово 'Неделя'", "correctAnswer": "週", "wrongAnswers": ["月", "年", "日"]},
+        {"id": 4, "question": "Переведи слово 'Выходные'", "correctAnswer": "週末", "wrongAnswers": ["週", "祝日", "休暇"]},
+        {"id": 5, "question": "Переведи слово 'День'", "correctAnswer": "日", "wrongAnswers": ["夜", "朝", "夕方"]}
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Месяцы: январь, февраль, март, апрель, май",
+      "description": "Первые пять месяцев",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Январь'", "correctAnswer": "1月", "wrongAnswers": ["2月", "3月", "4月"]},
+        {"id": 2, "question": "Переведи слово 'Февраль'", "correctAnswer": "2月", "wrongAnswers": ["1月", "3月", "5月"]},
+        {"id": 3, "question": "Переведи слово 'Март'", "correctAnswer": "3月", "wrongAnswers": ["4月", "5月", "6月"]},
+        {"id": 4, "question": "Переведи слово 'Апрель'", "correctAnswer": "4月", "wrongAnswers": ["3月", "5月", "6月"]},
+        {"id": 5, "question": "Переведи слово 'Май'", "correctAnswer": "5月", "wrongAnswers": ["4月", "6月", "7月"]}
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Месяцы: июнь, июль, август, сентябрь, октябрь",
+      "description": "Летние и осенние месяцы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Июнь'", "correctAnswer": "6月", "wrongAnswers": ["7月", "8月", "5月"]},
+        {"id": 2, "question": "Переведи слово 'Июль'", "correctAnswer": "7月", "wrongAnswers": ["8月", "9月", "6月"]},
+        {"id": 3, "question": "Переведи слово 'Август'", "correctAnswer": "8月", "wrongAnswers": ["7月", "9月", "10月"]},
+        {"id": 4, "question": "Переведи слово 'Сентябрь'", "correctAnswer": "9月", "wrongAnswers": ["8月", "10月", "11月"]},
+        {"id": 5, "question": "Переведи слово 'Октябрь'", "correctAnswer": "10月", "wrongAnswers": ["9月", "11月", "12月"]}
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Месяцы: ноябрь, декабрь, месяц, год, дата",
+      "description": "Последние месяцы и временные понятия",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Ноябрь'", "correctAnswer": "11月", "wrongAnswers": ["10月", "12月", "9月"]},
+        {"id": 2, "question": "Переведи слово 'Декабрь'", "correctAnswer": "12月", "wrongAnswers": ["11月", "10月", "1月"]},
+        {"id": 3, "question": "Переведи слово 'Месяц'", "correctAnswer": "月", "wrongAnswers": ["年", "週", "日"]},
+        {"id": 4, "question": "Переведи слово 'Год'", "correctAnswer": "年", "wrongAnswers": ["月", "週", "十年"]},
+        {"id": 5, "question": "Переведи слово 'Дата'", "correctAnswer": "日付", "wrongAnswers": ["時間", "日", "月"]}
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Время: час, минута, секунда, часы, время",
+      "description": "Единицы времени и прибор",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Час'", "correctAnswer": "時", "wrongAnswers": ["分", "秒", "日"]},
+        {"id": 2, "question": "Переведи слово 'Минута'", "correctAnswer": "分", "wrongAnswers": ["秒", "時", "週"]},
+        {"id": 3, "question": "Переведи слово 'Секунда'", "correctAnswer": "秒", "wrongAnswers": ["分", "時", "瞬間"]},
+        {"id": 4, "question": "Переведи слово 'Часы (прибор)'", "correctAnswer": "時計", "wrongAnswers": ["時", "分", "時間"]},
+        {"id": 5, "question": "Переведи слово 'Время'", "correctAnswer": "時間", "wrongAnswers": ["時計", "瞬間", "期間"]}
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Время суток: утро, день, вечер, ночь, полночь",
+      "description": "Части суток",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Утро'", "correctAnswer": "朝", "wrongAnswers": ["昼", "夜", "真夜中"]},
+        {"id": 2, "question": "Переведи слово 'День'", "correctAnswer": "昼", "wrongAnswers": ["朝", "夕方", "夜"]},
+        {"id": 3, "question": "Переведи слово 'Вечер'", "correctAnswer": "夕方", "wrongAnswers": ["朝", "昼", "夜"]},
+        {"id": 4, "question": "Переведи слово 'Ночь'", "correctAnswer": "夜", "wrongAnswers": ["日", "夕方", "朝"]},
+        {"id": 5, "question": "Переведи слово 'Полночь'", "correctAnswer": "真夜中", "wrongAnswers": ["正午", "夜", "朝"]}
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Профессии: доктор, учитель, инженер, юрист, пилот",
+      "description": "Распространенные профессии",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Доктор'", "correctAnswer": "医者", "wrongAnswers": ["教師", "エンジニア", "警察官"]},
+        {"id": 2, "question": "Переведи слово 'Учитель'", "correctAnswer": "教師", "wrongAnswers": ["生徒", "校長", "医者"]},
+        {"id": 3, "question": "Переведи слово 'Инженер'", "correctAnswer": "エンジニア", "wrongAnswers": ["建築家", "労働者", "整備士"]},
+        {"id": 4, "question": "Переведи слово 'Юрист'", "correctAnswer": "弁護士", "wrongAnswers": ["裁判官", "検察官", "法律家"]},
+        {"id": 5, "question": "Переведи слово 'Пилот'", "correctAnswer": "パイロット", "wrongAnswers": ["操縦士", "航海士", "機長"]}
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Профессии: медсестра, повар, водитель, полицейский, художник",
+      "description": "Ещё профессии",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Медсестра'", "correctAnswer": "看護師", "wrongAnswers": ["介護士", "医者", "救急隊員"]},
+        {"id": 2, "question": "Переведи слово 'Шеф-повар'", "correctAnswer": "シェフ", "wrongAnswers": ["パン職人", "ウェイター", "美容師"]},
+        {"id": 3, "question": "Переведи слово 'Водитель'", "correctAnswer": "運転手", "wrongAnswers": ["整備士", "パイロット", "車掌"]},
+        {"id": 4, "question": "Переведи слово 'Полицейский'", "correctAnswer": "警察官", "wrongAnswers": ["刑事", "警官", "巡査"]},
+        {"id": 5, "question": "Переведи слово 'Художник'", "correctAnswer": "芸術家", "wrongAnswers": ["彫刻家", "建築家", "デザイナー"]}
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Профессии: музыкант, писатель, актер, режиссер, фотограф",
+      "description": "Творческие профессии",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Музыкант'", "correctAnswer": "ミュージシャン", "wrongAnswers": ["作曲家", "指揮者", "歌手"]},
+        {"id": 2, "question": "Переведи слово 'Писатель'", "correctAnswer": "作家", "wrongAnswers": ["詩人", "ジャーナリスト", "編集者"]},
+        {"id": 3, "question": "Переведи слово 'Актер'", "correctAnswer": "俳優", "wrongAnswers": ["監督", "脚本家", "プロデューサー"]},
+        {"id": 4, "question": "Переведи слово 'Режиссер'", "correctAnswer": "映画監督", "wrongAnswers": ["プロデューサー", "脚本家", "カメラマン"]},
+        {"id": 5, "question": "Переведи слово 'Фотограф'", "correctAnswer": "写真家", "wrongAnswers": ["芸術家", "デザイナー", "ビデオグラファー"]}
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Школа: школа, учитель, ученик, класс, книга",
+      "description": "Школьные термины",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Школа'", "correctAnswer": "学校", "wrongAnswers": ["大学", "専門学校", "クラス"]},
+        {"id": 2, "question": "Переведи слово 'Учитель'", "correctAnswer": "先生", "wrongAnswers": ["生徒", "校長", "教授"]},
+        {"id": 3, "question": "Переведи слово 'Ученик'", "correctAnswer": "生徒", "wrongAnswers": ["学生", "児童", "教師"]},
+        {"id": 4, "question": "Переведи слово 'Класс (комната)'", "correctAnswer": "教室", "wrongAnswers": ["廊下", "講堂", "図書館"]},
+        {"id": 5, "question": "Переведи слово 'Книга'", "correctAnswer": "本", "wrongAnswers": ["ノート", "ペン", "鉛筆"]}
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Школа: ручка, карандаш, бумага, парта, урок",
+      "description": "Школьные принадлежности",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Ручка'", "correctAnswer": "ペン", "wrongAnswers": ["鉛筆", "マーカー", "サインペン"]},
+        {"id": 2, "question": "Переведи слово 'Карандаш'", "correctAnswer": "鉛筆", "wrongAnswers": ["ペン", "消しゴム", "鉛筆削り"]},
+        {"id": 3, "question": "Переведи слово 'Бумага'", "correctAnswer": "紙", "wrongAnswers": ["ノート", "段ボール", "新聞"]},
+        {"id": 4, "question": "Переведи слово 'Парта'", "correctAnswer": "机", "wrongAnswers": ["テーブル", "椅子", "黒板"]},
+        {"id": 5, "question": "Переведи слово 'Урок'", "correctAnswer": "授業", "wrongAnswers": ["クラス", "学校", "大学"]}
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Город: улица, парк, магазин, площадь, мост",
+      "description": "Городские места",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Улица'", "correctAnswer": "通り", "wrongAnswers": ["道", "小道", "広場"]},
+        {"id": 2, "question": "Переведи слово 'Парк'", "correctAnswer": "公園", "wrongAnswers": ["庭", "森", "緑地"]},
+        {"id": 3, "question": "Переведи слово 'Магазин'", "correctAnswer": "店", "wrongAnswers": ["市場", "スーパー", "キオスク"]},
+        {"id": 4, "question": "Переведи слово 'Площадь'", "correctAnswer": "広場", "wrongAnswers": ["通り", "公園", "建物"]},
+        {"id": 5, "question": "Переведи слово 'Мост'", "correctAnswer": "橋", "wrongAnswers": ["トンネル", "通り", "川"]}
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Город: станция, музей, театр, кинотеатр, банк",
+      "description": "Общественные места",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Станция'", "correctAnswer": "駅", "wrongAnswers": ["空港", "港", "バス停"]},
+        {"id": 2, "question": "Переведи слово 'Музей'", "correctAnswer": "博物館", "wrongAnswers": ["美術館", "展示会", "図書館"]},
+        {"id": 3, "question": "Переведи слово 'Театр'", "correctAnswer": "劇場", "wrongAnswers": ["映画館", "サーカス", "コンサートホール"]},
+        {"id": 4, "question": "Переведи слово 'Кинотеатр'", "correctAnswer": "映画館", "wrongAnswers": ["劇場", "コンサート", "クラブ"]},
+        {"id": 5, "question": "Переведи слово 'Банк'", "correctAnswer": "銀行", "wrongAnswers": ["オフィス", "店", "レストラン"]}
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Природа: дерево, цветок, река, гора, озеро",
+      "description": "Природные объекты",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Дерево'", "correctAnswer": "木", "wrongAnswers": ["花", "草", "茂み"]},
+        {"id": 2, "question": "Переведи слово 'Цветок'", "correctAnswer": "花", "wrongAnswers": ["木", "草", "葉"]},
+        {"id": 3, "question": "Переведи слово 'Река'", "correctAnswer": "川", "wrongAnswers": ["湖", "海", "海"]},
+        {"id": 4, "question": "Переведи слово 'Гора'", "correctAnswer": "山", "wrongAnswers": ["丘", "岩", "火山"]},
+        {"id": 5, "question": "Переведи слово 'Озеро'", "correctAnswer": "湖", "wrongAnswers": ["川", "池", "海"]}
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Природа: лес, океан, остров, водопад, пустыня",
+      "description": "Ландшафты",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Лес'", "correctAnswer": "森", "wrongAnswers": ["公園", "庭", "林"]},
+        {"id": 2, "question": "Переведи слово 'Океан'", "correctAnswer": "海", "wrongAnswers": ["大洋", "川", "湖"]},
+        {"id": 3, "question": "Переведи слово 'Остров'", "correctAnswer": "島", "wrongAnswers": ["半島", "群島", "ビーチ"]},
+        {"id": 4, "question": "Переведи слово 'Водопад'", "correctAnswer": "滝", "wrongAnswers": ["湖", "川", "小川"]},
+        {"id": 5, "question": "Переведи слово 'Пустыня'", "correctAnswer": "砂漠", "wrongAnswers": ["草原", "ツンドラ", "サバンナ"]}
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Хобби: чтение, рисование, музыка, пение, танцы",
+      "description": "Занятия в свободное время",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Чтение'", "correctAnswer": "読書", "wrongAnswers": ["作文", "絵を描く", "歌う"]},
+        {"id": 2, "question": "Переведи слово 'Рисование'", "correctAnswer": "絵を描く", "wrongAnswers": ["彫刻", "刺繍", "編み物"]},
+        {"id": 3, "question": "Переведи слово 'Музыка'", "correctAnswer": "音楽", "wrongAnswers": ["ダンス", "歌", "演技"]},
+        {"id": 4, "question": "Переведи слово 'Пение'", "correctAnswer": "歌う", "wrongAnswers": ["踊る", "遊ぶ", "絵を描く"]},
+        {"id": 5, "question": "Переведи слово 'Танцы'", "correctAnswer": "踊る", "wrongAnswers": ["バレエ", "スポーツ", "フィットネス"]}
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Хобби: готовка, садоводство, путешествие, спорт, игра",
+      "description": "Другие хобби",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Готовка'", "correctAnswer": "料理", "wrongAnswers": ["パン作り", "グルメ", "厨房"]},
+        {"id": 2, "question": "Переведи слово 'Садоводство'", "correctAnswer": "ガーデニング", "wrongAnswers": ["フローリスト", "農業", "アグリ"]},
+        {"id": 3, "question": "Переведи слово 'Путешествие'", "correctAnswer": "旅行", "wrongAnswers": ["遠足", "観光", "散歩"]},
+        {"id": 4, "question": "Переведи слово 'Спорт'", "correctAnswer": "スポーツ", "wrongAnswers": ["ゲーム", "エンターテインメント", "トレーニング"]},
+        {"id": 5, "question": "Переведи слово 'Игра'", "correctAnswer": "ゲーム", "wrongAnswers": ["スポーツ", "エンターテインメント", "競技"]}
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Спорт: футбол, баскетбол, теннис, плавание, бег",
+      "description": "Популярные виды спорта",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Футбол'", "correctAnswer": "サッカー", "wrongAnswers": ["バスケットボール", "テニス", "バレーボール"]},
+        {"id": 2, "question": "Переведи слово 'Баскетбол'", "correctAnswer": "バスケットボール", "wrongAnswers": ["サッカー", "テニス", "バレーボール"]},
+        {"id": 3, "question": "Переведи слово 'Теннис'", "correctAnswer": "テニス", "wrongAnswers": ["卓球", "スカッシュ", "バドミントン"]},
+        {"id": 4, "question": "Переведи слово 'Плавание'", "correctAnswer": "水泳", "wrongAnswers": ["ランニング", "ジャンプ", "サイクリング"]},
+        {"id": 5, "question": "Переведи слово 'Бег'", "correctAnswer": "ランニング", "wrongAnswers": ["ウォーキング", "スプリント", "マラソン"]}
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Спорт: поход, шахматы, рыбалка, лыжи, волейбол",
+      "description": "Другие виды активности",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Поход'", "correctAnswer": "ハイキング", "wrongAnswers": ["散歩", "ピクニック", "旅行"]},
+        {"id": 2, "question": "Переведи слово 'Шахматы'", "correctAnswer": "チェス", "wrongAnswers": ["チェッカー", "ドミノ", "カード"]},
+        {"id": 3, "question": "Переведи слово 'Рыбалка'", "correctAnswer": "釣り", "wrongAnswers": ["狩猟", "水泳", "ボート"]},
+        {"id": 4, "question": "Переведи слово 'Лыжи'", "correctAnswer": "スキー", "wrongAnswers": ["スノーボード", "スケート", "そり"]},
+        {"id": 5, "question": "Переведи слово 'Волейбол'", "correctAnswer": "バレーボール", "wrongAnswers": ["バスケットボール", "テニス", "サッカー"]}
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Прилагательные: большой, маленький, счастливый, грустный, злой",
+      "description": "Основные прилагательные",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Большой'", "correctAnswer": "大きい", "wrongAnswers": ["小さい", "高い", "低い"]},
+        {"id": 2, "question": "Переведи слово 'Маленький'", "correctAnswer": "小さい", "wrongAnswers": ["大きい", "細い", "太い"]},
+        {"id": 3, "question": "Переведи слово 'Счастливый'", "correctAnswer": "幸せ", "wrongAnswers": ["悲しい", "怒っている", "疲れた"]},
+        {"id": 4, "question": "Переведи слово 'Грустный'", "correctAnswer": "悲しい", "wrongAnswers": ["幸せ", "怒っている", "驚いた"]},
+        {"id": 5, "question": "Переведи слово 'Злой'", "correctAnswer": "怒っている", "wrongAnswers": ["優しい", "悲しい", "怖がっている"]}
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Прилагательные: красивый, уродливый, старый, молодой, высокий",
+      "description": "Описание внешности и возраста",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Красивый'", "correctAnswer": "綺麗", "wrongAnswers": ["醜い", "若い", "古い"]},
+        {"id": 2, "question": "Переведи слово 'Уродливый'", "correctAnswer": "醜い", "wrongAnswers": ["綺麗", "可愛い", "恐ろしい"]},
+        {"id": 3, "question": "Переведи слово 'Старый'", "correctAnswer": "古い", "wrongAnswers": ["若い", "新しい", "昔"]},
+        {"id": 4, "question": "Переведи слово 'Молодой'", "correctAnswer": "若い", "wrongAnswers": ["古い", "大きい", "小さい"]},
+        {"id": 5, "question": "Переведи слово 'Высокий (о росте)'", "correctAnswer": "高い", "wrongAnswers": ["低い", "長い", "短い"]}
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Прилагательные: низкий, длинный, короткий, широкий, узкий",
+      "description": "Размер и форма",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Низкий/короткий'", "correctAnswer": "短い", "wrongAnswers": ["長い", "広い", "狭い"]},
+        {"id": 2, "question": "Переведи слово 'Длинный'", "correctAnswer": "長い", "wrongAnswers": ["短い", "広い", "狭い"]},
+        {"id": 3, "question": "Переведи слово 'Широкий'", "correctAnswer": "広い", "wrongAnswers": ["狭い", "長い", "短い"]},
+        {"id": 4, "question": "Переведи слово 'Узкий'", "correctAnswer": "狭い", "wrongAnswers": ["広い", "長い", "短い"]},
+        {"id": 5, "question": "Переведи слово 'Глубокий'", "correctAnswer": "深い", "wrongAnswers": ["浅い", "高い", "低い"]}
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Глаголы: быть, иметь, делать, идти, приходить",
+      "description": "Основные глаголы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Быть'", "correctAnswer": "です", "wrongAnswers": ["いる", "ある", "する"]},
+        {"id": 2, "question": "Переведи слово 'Иметь'", "correctAnswer": "持っている", "wrongAnswers": ["ある", "する", "取る"]},
+        {"id": 3, "question": "Переведи слово 'Делать'", "correctAnswer": "する", "wrongAnswers": ["取る", "与える", "行く"]},
+        {"id": 4, "question": "Переведи слово 'Идти'", "correctAnswer": "行く", "wrongAnswers": ["来る", "見る", "見る"]},
+        {"id": 5, "question": "Переведи слово 'Приходить'", "correctAnswer": "来る", "wrongAnswers": ["行く", "戻る", "出かける"]}
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Глаголы: видеть, слышать, говорить, читать, писать",
+      "description": "Восприятие и коммуникация",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Видеть'", "correctAnswer": "見る", "wrongAnswers": ["見る", "観察する", "注視する"]},
+        {"id": 2, "question": "Переведи слово 'Слышать'", "correctAnswer": "聞く", "wrongAnswers": ["聴く", "理解する", "感じる"]},
+        {"id": 3, "question": "Переведи слово 'Говорить'", "correctAnswer": "話す", "wrongAnswers": ["言う", "教える", "説明する"]},
+        {"id": 4, "question": "Переведи слово 'Читать'", "correctAnswer": "読む", "wrongAnswers": ["書く", "勉強する", "復習する"]},
+        {"id": 5, "question": "Переведи слово 'Писать'", "correctAnswer": "書く", "wrongAnswers": ["描く", "読む", "印刷する"]}
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Глаголы: есть, пить, спать, просыпаться, бежать",
+      "description": "Действия и состояния",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Есть'", "correctAnswer": "食べる", "wrongAnswers": ["飲む", "眠る", "走る"]},
+        {"id": 2, "question": "Переведи слово 'Пить'", "correctAnswer": "飲む", "wrongAnswers": ["食べる", "呼吸する", "話す"]},
+        {"id": 3, "question": "Переведи слово 'Спать'", "correctAnswer": "眠る", "wrongAnswers": ["起きる", "休む", "働く"]},
+        {"id": 4, "question": "Переведи слово 'Просыпаться'", "correctAnswer": "起きる", "wrongAnswers": ["寝る", "起き上がる", "横になる"]},
+        {"id": 5, "question": "Переведи слово 'Бежать'", "correctAnswer": "走る", "wrongAnswers": ["歩く", "跳ぶ", "泳ぐ"]}
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Глаголы: давать, брать, покупать, продавать, платить",
+      "description": "Действия с предметами и деньгами",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Давать'", "correctAnswer": "与える", "wrongAnswers": ["取る", "受け取る", "提供する"]},
+        {"id": 2, "question": "Переведи слово 'Брать'", "correctAnswer": "取る", "wrongAnswers": ["与える", "置く", "持つ"]},
+        {"id": 3, "question": "Переведи слово 'Покупать'", "correctAnswer": "買う", "wrongAnswers": ["売る", "支払う", "注文する"]},
+        {"id": 4, "question": "Переведи слово 'Продавать'", "correctAnswer": "売る", "wrongAnswers": ["買う", "交換する", "与える"]},
+        {"id": 5, "question": "Переведи слово 'Платить'", "correctAnswer": "支払う", "wrongAnswers": ["受け取る", "使う", "稼ぐ"]}
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Предлоги места: в, на, под, за, перед",
+      "description": "Основные предлоги",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'В'", "correctAnswer": "に", "wrongAnswers": ["の", "で", "へ"]},
+        {"id": 2, "question": "Переведи слово 'На'", "correctAnswer": "に", "wrongAnswers": ["の", "で", "へ"]},
+        {"id": 3, "question": "Переведи слово 'Под'", "correctAnswer": "下に", "wrongAnswers": ["上に", "間", "隣に"]},
+        {"id": 4, "question": "Переведи слово 'За'", "correctAnswer": "後ろに", "wrongAnswers": ["前に", "間", "下に"]},
+        {"id": 5, "question": "Переведи слово 'Перед'", "correctAnswer": "前に", "wrongAnswers": ["後ろに", "隣に", "横に"]}
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Предлоги места: между, рядом, над, ниже, у",
+      "description": "Дополнительные предлоги",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Между'", "correctAnswer": "間に", "wrongAnswers": ["下に", "隣に", "に"]},
+        {"id": 2, "question": "Переведи слово 'Рядом с'", "correctAnswer": "隣に", "wrongAnswers": ["そばに", "近くに", "横に"]},
+        {"id": 3, "question": "Переведи слово 'Над'", "correctAnswer": "上に", "wrongAnswers": ["下に", "下", "上"]},
+        {"id": 4, "question": "Переведи слово 'Ниже'", "correctAnswer": "下に", "wrongAnswers": ["上に", "隣に", "下"]},
+        {"id": 5, "question": "Переведи слово 'У (возле)'", "correctAnswer": "そばに", "wrongAnswers": ["に", "の", "近くに"]}
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Предлоги: о, для, с, без, через",
+      "description": "Другие предлоги",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'О (о чём)'", "correctAnswer": "について", "wrongAnswers": ["のために", "と", "を通して"]},
+        {"id": 2, "question": "Переведи слово 'Для'", "correctAnswer": "のために", "wrongAnswers": ["によって", "の間", "に賛成して"]},
+        {"id": 3, "question": "Переведи слово 'С'", "correctAnswer": "と", "wrongAnswers": ["なしで", "のために", "について"]},
+        {"id": 4, "question": "Переведи слово 'Без'", "correctAnswer": "なしで", "wrongAnswers": ["と", "のために", "について"]},
+        {"id": 5, "question": "Переведи слово 'Через'", "correctAnswer": "を通して", "wrongAnswers": ["によって", "後ろに", "に"]}
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Личные местоимения: я, ты, он, она, оно",
+      "description": "Основные местоимения",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Я'", "correctAnswer": "私", "wrongAnswers": ["あなた", "彼", "私たち"]},
+        {"id": 2, "question": "Переведи слово 'Ты (вы)'", "correctAnswer": "あなた", "wrongAnswers": ["私", "彼", "彼女"]},
+        {"id": 3, "question": "Переведи слово 'Он'", "correctAnswer": "彼", "wrongAnswers": ["彼女", "それ", "私たち"]},
+        {"id": 4, "question": "Переведи слово 'Она'", "correctAnswer": "彼女", "wrongAnswers": ["彼", "それ", "私たち"]},
+        {"id": 5, "question": "Переведи слово 'Оно'", "correctAnswer": "それ", "wrongAnswers": ["彼", "彼女", "あれ"]}
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Местоимения: мы, они, мой, твой, его",
+      "description": "Множественное число и притяжательные",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Мы'", "correctAnswer": "私たち", "wrongAnswers": ["あなたたち", "彼ら", "私"]},
+        {"id": 2, "question": "Переведи слово 'Они'", "correctAnswer": "彼ら", "wrongAnswers": ["私たち", "あなたたち", "あれら"]},
+        {"id": 3, "question": "Переведи слово 'Мой'", "correctAnswer": "私の", "wrongAnswers": ["あなたの", "彼の", "私たちの"]},
+        {"id": 4, "question": "Переведи слово 'Твой (ваш)'", "correctAnswer": "あなたの", "wrongAnswers": ["私の", "彼の", "私たちの"]},
+        {"id": 5, "question": "Переведи слово 'Его'", "correctAnswer": "彼の", "wrongAnswers": ["彼女の", "私たちの", "あなたの"]}
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Местоимения: ее, наш, ваш, их, меня",
+      "description": "Притяжательные и объектные",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Ее'", "correctAnswer": "彼女の", "wrongAnswers": ["彼の", "私たちの", "あなたたちの"]},
+        {"id": 2, "question": "Переведи слово 'Наш'", "correctAnswer": "私たちの", "wrongAnswers": ["あなたたちの", "彼女の", "私の"]},
+        {"id": 3, "question": "Переведи слово 'Ваш (ваши)'", "correctAnswer": "あなたたちの", "wrongAnswers": ["私たちの", "彼女の", "私の"]},
+        {"id": 4, "question": "Переведи слово 'Их'", "correctAnswer": "彼らの", "wrongAnswers": ["私たちの", "あなたたちの", "私の"]},
+        {"id": 5, "question": "Переведи слово 'Меня (мне)'", "correctAnswer": "私を", "wrongAnswers": ["あなたを", "彼を", "私たちを"]}
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Местоимения: тебя, его, ее, нас, вас",
+      "description": "Объектные местоимения",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Тебя (вас)'", "correctAnswer": "あなたを", "wrongAnswers": ["私を", "彼を", "私たちを"]},
+        {"id": 2, "question": "Переведи слово 'Его (ему)'", "correctAnswer": "彼を", "wrongAnswers": ["彼女を", "私たちを", "あなたたちを"]},
+        {"id": 3, "question": "Переведи слово 'Ее (ей)'", "correctAnswer": "彼女を", "wrongAnswers": ["彼を", "私たちを", "あなたたちを"]},
+        {"id": 4, "question": "Переведи слово 'Нас (нам)'", "correctAnswer": "私たちを", "wrongAnswers": ["あなたたちを", "彼を", "私を"]},
+        {"id": 5, "question": "Переведи слово 'Их (им)'", "correctAnswer": "彼らを", "wrongAnswers": ["私たちを", "あなたたちを", "私を"]}
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Вопросительные слова: что, кто, где, когда, почему",
+      "description": "Основные вопросы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Что'", "correctAnswer": "何", "wrongAnswers": ["誰", "どこ", "いつ"]},
+        {"id": 2, "question": "Переведи слово 'Кто'", "correctAnswer": "誰", "wrongAnswers": ["何", "どこ", "なぜ"]},
+        {"id": 3, "question": "Переведи слово 'Где'", "correctAnswer": "どこ", "wrongAnswers": ["いつ", "なぜ", "どう"]},
+        {"id": 4, "question": "Переведи слово 'Когда'", "correctAnswer": "いつ", "wrongAnswers": ["どこ", "なぜ", "どう"]},
+        {"id": 5, "question": "Переведи слово 'Почему'", "correctAnswer": "なぜ", "wrongAnswers": ["何", "いつ", "どう"]}
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Вопросительные слова: как, который, чей, сколько (цена), сколько (количество)",
+      "description": "Дополнительные вопросы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Как'", "correctAnswer": "どう", "wrongAnswers": ["いくら", "どこから", "どこへ"]},
+        {"id": 2, "question": "Переведи слово 'Который'", "correctAnswer": "どの", "wrongAnswers": ["何", "誰", "誰の"]},
+        {"id": 3, "question": "Переведи слово 'Чей'", "correctAnswer": "誰の", "wrongAnswers": ["誰に", "何", "どの"]},
+        {"id": 4, "question": "Переведи слово 'Сколько (стоит)'", "correctAnswer": "いくら", "wrongAnswers": ["いくつ", "なぜ", "どこ"]},
+        {"id": 5, "question": "Переведи слово 'Сколько (количество)'", "correctAnswer": "いくつ", "wrongAnswers": ["いくら", "なぜ", "どこ"]}
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Здоровье: здоровье, боль, лекарство, доктор, больница",
+      "description": "Термины о здоровье",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Здоровье'", "correctAnswer": "健康", "wrongAnswers": ["病気", "治療", "スポーツ"]},
+        {"id": 2, "question": "Переведи слово 'Боль'", "correctAnswer": "痛み", "wrongAnswers": ["治療", "病気", "症状"]},
+        {"id": 3, "question": "Переведи слово 'Лекарство'", "correctAnswer": "薬", "wrongAnswers": ["病気", "健康", "医者"]},
+        {"id": 4, "question": "Переведи слово 'Доктор'", "correctAnswer": "医者", "wrongAnswers": ["看護師", "外科医", "薬剤師"]},
+        {"id": 5, "question": "Переведи слово 'Больница'", "correctAnswer": "病院", "wrongAnswers": ["診療所", "薬局", "総合病院"]}
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Здоровье: аптека, кашель, жар, головная боль, грипп",
+      "description": "Симптомы и места",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Аптека'", "correctAnswer": "薬局", "wrongAnswers": ["病院", "診療所", "医者"]},
+        {"id": 2, "question": "Переведи слово 'Кашель'", "correctAnswer": "咳", "wrongAnswers": ["鼻水", "くしゃみ", "頭痛"]},
+        {"id": 3, "question": "Переведи слово 'Жар'", "correctAnswer": "熱", "wrongAnswers": ["体温", "悪寒", "インフルエンザ"]},
+        {"id": 4, "question": "Переведи слово 'Головная боль'", "correctAnswer": "頭痛", "wrongAnswers": ["腰痛", "喉の痛み", "歯痛"]},
+        {"id": 5, "question": "Переведи слово 'Грипп'", "correctAnswer": "インフルエンザ", "wrongAnswers": ["風邪", "ウイルス", "感染症"]}
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Технологии: компьютер, телефон, интернет, почта, сайт",
+      "description": "Основные термины IT",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Компьютер'", "correctAnswer": "コンピューター", "wrongAnswers": ["ノートパソコン", "電話", "タブレット"]},
+        {"id": 2, "question": "Переведи слово 'Телефон'", "correctAnswer": "電話", "wrongAnswers": ["コンピューター", "タブレット", "テレビ"]},
+        {"id": 3, "question": "Переведи слово 'Интернет'", "correctAnswer": "インターネット", "wrongAnswers": ["ウェブサイト", "メール", "ソーシャルネットワーク"]},
+        {"id": 4, "question": "Переведи слово 'Электронная почта'", "correctAnswer": "メール", "wrongAnswers": ["メッセージ", "チャット", "手紙"]},
+        {"id": 5, "question": "Переведи слово 'Веб-сайт'", "correctAnswer": "ウェブサイト", "wrongAnswers": ["ページ", "ブラウザ", "検索エンジン"]}
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Технологии: пароль, загрузка, приложение, устройство, обновление",
+      "description": "Действия и объекты в сети",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Пароль'", "correctAnswer": "パスワード", "wrongAnswers": ["ユーザー名", "暗証番号", "鍵"]},
+        {"id": 2, "question": "Переведи слово 'Скачать'", "correctAnswer": "ダウンロード", "wrongAnswers": ["アップロード", "開く", "保存"]},
+        {"id": 3, "question": "Переведи слово 'Приложение'", "correctAnswer": "アプリ", "wrongAnswers": ["プログラム", "ゲーム", "ウェブサイト"]},
+        {"id": 4, "question": "Переведи слово 'Устройство'", "correctAnswer": "デバイス", "wrongAnswers": ["ガジェット", "電子機器", "テクノロジー"]},
+        {"id": 5, "question": "Переведи слово 'Обновление'", "correctAnswer": "アップデート", "wrongAnswers": ["ダウンロード", "インストール", "同期"]}
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Путешествия: путешествие, отель, билет, паспорт, рейс",
+      "description": "Слова для поездок",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Путешествие'", "correctAnswer": "旅行", "wrongAnswers": ["遠足", "観光", "散歩"]},
+        {"id": 2, "question": "Переведи слово 'Отель'", "correctAnswer": "ホテル", "wrongAnswers": ["宿泊施設", "別荘", "モーテル"]},
+        {"id": 3, "question": "Переведи слово 'Билет'", "correctAnswer": "チケット", "wrongAnswers": ["パスポート", "ビザ", "カード"]},
+        {"id": 4, "question": "Переведи слово 'Паспорт'", "correctAnswer": "パスポート", "wrongAnswers": ["ビザ", "身分証明書", "書類"]},
+        {"id": 5, "question": "Переведи слово 'Рейс'", "correctAnswer": "便", "wrongAnswers": ["路線", "旅行", "航空便"]}
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Путешествия: багаж, турист, карта, бронирование, сувенир",
+      "description": "Снаряжение и действия",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Багаж'", "correctAnswer": "荷物", "wrongAnswers": ["リュック", "スーツケース", "バッグ"]},
+        {"id": 2, "question": "Переведи слово 'Турист'", "correctAnswer": "観光客", "wrongAnswers": ["旅行者", "訪問者", "客"]},
+        {"id": 3, "question": "Переведи слово 'Карта'", "correctAnswer": "地図", "wrongAnswers": ["プラン", "図表", "ガイド"]},
+        {"id": 4, "question": "Переведи слово 'Бронирование'", "correctAnswer": "予約", "wrongAnswers": ["注文", "購入", "登録"]},
+        {"id": 5, "question": "Переведи слово 'Сувенир'", "correctAnswer": "お土産", "wrongAnswers": ["プレゼント", "記念", "写真"]}
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Искусство: живопись, скульптура, галерея, художник, музей",
+      "description": "Термины искусства",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Живопись'", "correctAnswer": "絵画", "wrongAnswers": ["彫刻", "ドローイング", "写真"]},
+        {"id": 2, "question": "Переведи слово 'Скульптура'", "correctAnswer": "彫刻", "wrongAnswers": ["像", "記念碑", "レリーフ"]},
+        {"id": 3, "question": "Переведи слово 'Галерея'", "correctAnswer": "ギャラリー", "wrongAnswers": ["美術館", "展覧会", "サロン"]},
+        {"id": 4, "question": "Переведи слово 'Художник'", "correctAnswer": "芸術家", "wrongAnswers": ["彫刻家", "建築家", "デザイナー"]},
+        {"id": 5, "question": "Переведи слово 'Музей'", "correctAnswer": "博物館", "wrongAnswers": ["ギャラリー", "展覧会", "図書館"]}
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Праздники: день рождения, Рождество, Пасха, Новый год, свадьба",
+      "description": "Популярные праздники",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'День рождения'", "correctAnswer": "誕生日", "wrongAnswers": ["新年", "結婚式", "記念日"]},
+        {"id": 2, "question": "Переведи слово 'Рождество'", "correctAnswer": "クリスマス", "wrongAnswers": ["イースター", "ハロウィン", "感謝祭"]},
+        {"id": 3, "question": "Переведи слово 'Пасха'", "correctAnswer": "イースター", "wrongAnswers": ["クリスマス", "バレンタインデー", "カーニバル"]},
+        {"id": 4, "question": "Переведи слово 'Новый год'", "correctAnswer": "新年", "wrongAnswers": ["クリスマス", "誕生日", "記念日"]},
+        {"id": 5, "question": "Переведи слово 'Свадьба'", "correctAnswer": "結婚式", "wrongAnswers": ["記念日", "婚約", "お祝い"]}
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Праздники: Хэллоуин, День благодарения, День Валентина, фестиваль, церемония",
+      "description": "Другие праздники",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Хэллоуин'", "correctAnswer": "ハロウィン", "wrongAnswers": ["万聖節", "カーニバル", "フェスティバル"]},
+        {"id": 2, "question": "Переведи слово 'День благодарения'", "correctAnswer": "感謝祭", "wrongAnswers": ["イースター", "クリスマス", "新年"]},
+        {"id": 3, "question": "Переведи слово 'День святого Валентина'", "correctAnswer": "バレンタインデー", "wrongAnswers": ["恋人たちの日", "友達の日", "家族の日"]},
+        {"id": 4, "question": "Переведи слово 'Фестиваль'", "correctAnswer": "フェスティバル", "wrongAnswers": ["カーニバル", "お祝い", "式典"]},
+        {"id": 5, "question": "Переведи слово 'Церемония'", "correctAnswer": "式典", "wrongAnswers": ["儀式", "祝典", "行事"]}
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Эмоции: счастливый, грустный, злой, удивленный, испуганный",
+      "description": "Основные эмоции",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Счастливый'", "correctAnswer": "幸せ", "wrongAnswers": ["悲しい", "怒っている", "驚いている"]},
+        {"id": 2, "question": "Переведи слово 'Грустный'", "correctAnswer": "悲しい", "wrongAnswers": ["幸せ", "怒っている", "怖がっている"]},
+        {"id": 3, "question": "Переведи слово 'Злой'", "correctAnswer": "怒っている", "wrongAnswers": ["優しい", "悲しい", "怖がっている"]},
+        {"id": 4, "question": "Переведи слово 'Удивленный'", "correctAnswer": "驚いている", "wrongAnswers": ["落ち込んでいる", "興奮している", "怖がっている"]},
+        {"id": 5, "question": "Переведи слово 'Испуганный'", "correctAnswer": "怖がっている", "wrongAnswers": ["勇敢", "悲しい", "怒っている"]}
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Эмоции: уставший, голодный, жаждущий, скучающий, взволнованный",
+      "description": "Состояния и чувства",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Уставший'", "correctAnswer": "疲れた", "wrongAnswers": ["元気", "起きている", "眠い"]},
+        {"id": 2, "question": "Переведи слово 'Голодный'", "correctAnswer": "お腹が空いた", "wrongAnswers": ["満腹", "喉が渇いた", "疲れた"]},
+        {"id": 3, "question": "Переведи слово 'Жаждущий'", "correctAnswer": "喉が渇いた", "wrongAnswers": ["お腹が空いた", "満腹", "疲れた"]},
+        {"id": 4, "question": "Переведи слово 'Скучающий'", "correctAnswer": "退屈している", "wrongAnswers": ["興味がある", "疲れた", "怒っている"]},
+        {"id": 5, "question": "Переведи слово 'Взволнованный'", "correctAnswer": "興奮している", "wrongAnswers": ["落ち着いている", "悲しい", "疲れた"]}
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Природа: небо, солнце, луна, звезда, облако",
+      "description": "Небесные тела",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Небо'", "correctAnswer": "空", "wrongAnswers": ["地球", "海", "山"]},
+        {"id": 2, "question": "Переведи слово 'Солнце'", "correctAnswer": "太陽", "wrongAnswers": ["月", "星", "雲"]},
+        {"id": 3, "question": "Переведи слово 'Луна'", "correctAnswer": "月", "wrongAnswers": ["太陽", "惑星", "彗星"]},
+        {"id": 4, "question": "Переведи слово 'Звезда'", "correctAnswer": "星", "wrongAnswers": ["惑星", "太陽", "月"]},
+        {"id": 5, "question": "Переведи слово 'Облако'", "correctAnswer": "雲", "wrongAnswers": ["霧", "雨", "雪"]}
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Время суток: рассвет, восход, закат, сумерки, ночь",
+      "description": "Переходные моменты дня",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Рассвет'", "correctAnswer": "夜明け", "wrongAnswers": ["夕暮れ", "日没", "黄昏"]},
+        {"id": 2, "question": "Переведи слово 'Восход'", "correctAnswer": "日の出", "wrongAnswers": ["日の入り", "夜明け", "黄昏"]},
+        {"id": 3, "question": "Переведи слово 'Закат'", "correctAnswer": "日の入り", "wrongAnswers": ["日の出", "夜明け", "夜"]},
+        {"id": 4, "question": "Переведи слово 'Сумерки'", "correctAnswer": "黄昏", "wrongAnswers": ["夜明け", "日の入り", "夜"]},
+        {"id": 5, "question": "Переведи слово 'Ночь'", "correctAnswer": "夜", "wrongAnswers": ["昼", "夕方", "朝"]}
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Базовые фразы: Как дела? У меня хорошо, Как тебя зовут? Меня зовут..., Приятно познакомиться",
+      "description": "Разговорные фразы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи фразу 'Как дела?'", "correctAnswer": "お元気ですか？", "wrongAnswers": ["お名前は？", "どちらから？", "おいくつですか？"]},
+        {"id": 2, "question": "Переведи фразу 'У меня хорошо, спасибо'", "correctAnswer": "元気です、ありがとう", "wrongAnswers": ["元気じゃないです", "病気です", "絶好調です"]},
+        {"id": 3, "question": "Переведи фразу 'Как тебя зовут?'", "correctAnswer": "お名前は？", "wrongAnswers": ["おいくつですか？", "どちらから？", "何をしていますか？"]},
+        {"id": 4, "question": "Переведи фразу 'Меня зовут...'", "correctAnswer": "私の名前は...", "wrongAnswers": ["私は...です", "...と申します", "私は...と言います"]},
+        {"id": 5, "question": "Переведи фразу 'Приятно познакомиться'", "correctAnswer": "よろしくお願いします", "wrongAnswers": ["さようなら", "お元気ですか？", "すみません"]}
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Базовые фразы: Откуда ты? Я из..., Сколько тебе лет? Мне... лет, Кем ты работаешь?",
+      "description": "Личные вопросы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {"id": 1, "question": "Переведи фразу 'Откуда ты?'", "correctAnswer": "どちらから？", "wrongAnswers": ["どこにいるの？", "どこへ行くの？", "いつ着いたの？"]},
+        {"id": 2, "question": "Переведи фразу 'Я из...'", "correctAnswer": "...から来ました", "wrongAnswers": ["...に住んでいます", "...で生まれました", "...出身です"]},
+        {"id": 3, "question": "Переведи фразу 'Сколько тебе лет?'", "correctAnswer": "おいくつですか？", "wrongAnswers": ["お名前は？", "どちらから？", "何をしていますか？"]},
+        {"id": 4, "question": "Переведи фразу 'Мне ... лет'", "correctAnswer": "...歳です", "wrongAnswers": ["年齢は...です", "私は...です", "もうすぐ...歳になります"]},
+        {"id": 5, "question": "Переведи фразу 'Кем ты работаешь?'", "correctAnswer": "何をしていますか？", "wrongAnswers": ["何をしているの？", "どこで勉強しているの？", "職業は何ですか？"]}
       ]
     }
   ]
