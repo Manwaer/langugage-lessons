@@ -1,1 +1,404 @@
-
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Приветствия",
+      "description": "Основные слова для приветствия и прощания",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Hello'?",
+          "correctAnswer": "Hola",
+          "wrongAnswers": ["Adiós", "Sí", "Gracias"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Goodbye'?",
+          "correctAnswer": "Adiós",
+          "wrongAnswers": ["Hola", "Buenos días", "Buenas noches"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Please'?",
+          "correctAnswer": "Por favor",
+          "wrongAnswers": ["Gracias", "Perdón", "Sí"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Thank you'?",
+          "correctAnswer": "Gracias",
+          "wrongAnswers": ["Por favor", "Perdón", "Hola"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Sorry'?",
+          "correctAnswer": "Perdón",
+          "wrongAnswers": ["Gracias", "Por favor", "Hola"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Вежливые фразы",
+      "description": "Выражения вежливости и извинения",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Excuse me'?",
+          "correctAnswer": "Disculpe",
+          "wrongAnswers": ["Por favor", "Gracias", "Perdón"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'You're welcome'?",
+          "correctAnswer": "De nada",
+          "wrongAnswers": ["Gracias", "Disculpe", "Por favor"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'No problem'?",
+          "correctAnswer": "No hay problema",
+          "wrongAnswers": ["Problema", "Sin", "Gracias"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Have a nice day'?",
+          "correctAnswer": "Que tengas buen día",
+          "wrongAnswers": ["Buenos días", "Buenas noches", "Adiós"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'I'm sorry'?",
+          "correctAnswer": "Lo siento",
+          "wrongAnswers": ["Disculpe", "Gracias", "Perdón"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Да / Нет и согласие",
+      "description": "Слова для выражения согласия и отрицания",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Yes'?",
+          "correctAnswer": "Sí",
+          "wrongAnswers": ["No", "Tal vez", "Claro"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'No'?",
+          "correctAnswer": "No",
+          "wrongAnswers": ["Sí", "Tal vez", "Nunca"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Maybe'?",
+          "correctAnswer": "Tal vez",
+          "wrongAnswers": ["Sí", "No", "Claro"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Of course'?",
+          "correctAnswer": "Claro",
+          "wrongAnswers": ["Tal vez", "Sí", "No"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Not really'?",
+          "correctAnswer": "No realmente",
+          "wrongAnswers": ["No", "Sí", "Claro"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Числа 1-5",
+      "description": "Учим числа от одного до пяти",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'One'?",
+          "correctAnswer": "Uno",
+          "wrongAnswers": ["Dos", "Tres", "Cuatro"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Two'?",
+          "correctAnswer": "Dos",
+          "wrongAnswers": ["Uno", "Tres", "Cinco"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Three'?",
+          "correctAnswer": "Tres",
+          "wrongAnswers": ["Uno", "Dos", "Cuatro"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Four'?",
+          "correctAnswer": "Cuatro",
+          "wrongAnswers": ["Cinco", "Seis", "Tres"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Five'?",
+          "correctAnswer": "Cinco",
+          "wrongAnswers": ["Cuatro", "Seis", "Siete"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Числа 6-10",
+      "description": "Числа от шести до десяти",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Six'?",
+          "correctAnswer": "Seis",
+          "wrongAnswers": ["Siete", "Ocho", "Cinco"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Seven'?",
+          "correctAnswer": "Siete",
+          "wrongAnswers": ["Seis", "Ocho", "Nueve"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Eight'?",
+          "correctAnswer": "Ocho",
+          "wrongAnswers": ["Siete", "Nueve", "Diez"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Nine'?",
+          "correctAnswer": "Nueve",
+          "wrongAnswers": ["Siete", "Ocho", "Diez"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Ten'?",
+          "correctAnswer": "Diez",
+          "wrongAnswers": ["Once", "Doce", "Nueve"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Числа 11-15",
+      "description": "Числа от одиннадцати до пятнадцати",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Eleven'?",
+          "correctAnswer": "Once",
+          "wrongAnswers": ["Doce", "Trece", "Diez"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Twelve'?",
+          "correctAnswer": "Doce",
+          "wrongAnswers": ["Once", "Trece", "Catorce"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Thirteen'?",
+          "correctAnswer": "Trece",
+          "wrongAnswers": ["Doce", "Catorce", "Quince"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Fourteen'?",
+          "correctAnswer": "Catorce",
+          "wrongAnswers": ["Trece", "Quince", "Dieciséis"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Fifteen'?",
+          "correctAnswer": "Quince",
+          "wrongAnswers": ["Trece", "Catorce", "Dieciséis"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Числа 16-20",
+      "description": "Числа от шестнадцати до двадцати",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Sixteen'?",
+          "correctAnswer": "Dieciséis",
+          "wrongAnswers": ["Diecisiete", "Dieciocho", "Quince"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Seventeen'?",
+          "correctAnswer": "Diecisiete",
+          "wrongAnswers": ["Dieciséis", "Dieciocho", "Diecinueve"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Eighteen'?",
+          "correctAnswer": "Dieciocho",
+          "wrongAnswers": ["Dieciséis", "Diecisiete", "Diecinueve"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Nineteen'?",
+          "correctAnswer": "Diecinueve",
+          "wrongAnswers": ["Dieciocho", "Veinte", "Diecisiete"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Twenty'?",
+          "correctAnswer": "Veinte",
+          "wrongAnswers": ["Treinta", "Diecinueve", "Doce"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Десятки",
+      "description": "Круглые числа от тридцати до семидесяти",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Thirty'?",
+          "correctAnswer": "Treinta",
+          "wrongAnswers": ["Veinte", "Cuarenta", "Cincuenta"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Forty'?",
+          "correctAnswer": "Cuarenta",
+          "wrongAnswers": ["Treinta", "Cincuenta", "Sesenta"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Fifty'?",
+          "correctAnswer": "Cincuenta",
+          "wrongAnswers": ["Cuarenta", "Sesenta", "Setenta"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Sixty'?",
+          "correctAnswer": "Sesenta",
+          "wrongAnswers": ["Cincuenta", "Setenta", "Ochenta"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Seventy'?",
+          "correctAnswer": "Setenta",
+          "wrongAnswers": ["Sesenta", "Ochenta", "Noventa"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Сотни и тысячи",
+      "description": "Большие числа",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Hundred'?",
+          "correctAnswer": "Cien",
+          "wrongAnswers": ["Mil", "Millón", "Diez"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Thousand'?",
+          "correctAnswer": "Mil",
+          "wrongAnswers": ["Cien", "Millón", "Diez"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Million'?",
+          "correctAnswer": "Millón",
+          "wrongAnswers": ["Mil", "Cien", "Millardo"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Billion'?",
+          "correctAnswer": "Millardo",
+          "wrongAnswers": ["Millón", "Mil", "Cien"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Zero'?",
+          "correctAnswer": "Cero",
+          "wrongAnswers": ["Uno", "Diez", "Cien"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Основные цвета",
+      "description": "Красный, синий, зелёный, жёлтый, чёрный",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Red'?",
+          "correctAnswer": "Rojo",
+          "wrongAnswers": ["Azul", "Verde", "Amarillo"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Blue'?",
+          "correctAnswer": "Azul",
+          "wrongAnswers": ["Rojo", "Verde", "Morado"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Green'?",
+          "correctAnswer": "Verde",
+          "wrongAnswers": ["Rojo", "Azul", "Amarillo"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Yellow'?",
+          "correctAnswer": "Amarillo",
+          "wrongAnswers": ["Rojo", "Verde", "Negro"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Black'?",
+          "correctAnswer": "Negro",
+          "wrongAnswers": ["Blanco", "Marrón", "Gris"]
+        }
+      ]
+    }
+  ]
+}
