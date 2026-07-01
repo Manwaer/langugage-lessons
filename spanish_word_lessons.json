@@ -8,36 +8,11 @@
       "type": "WordTranslation",
       "language": "Spanish",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Hello'?",
-          "correctAnswer": "Hola",
-          "wrongAnswers": ["Adiós", "Sí", "Gracias"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Goodbye'?",
-          "correctAnswer": "Adiós",
-          "wrongAnswers": ["Hola", "Buenos días", "Buenas noches"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Please'?",
-          "correctAnswer": "Por favor",
-          "wrongAnswers": ["Gracias", "Perdón", "Sí"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Thank you'?",
-          "correctAnswer": "Gracias",
-          "wrongAnswers": ["Por favor", "Perdón", "Hola"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Sorry'?",
-          "correctAnswer": "Perdón",
-          "wrongAnswers": ["Gracias", "Por favor", "Hola"]
-        }
+        {"id": 1, "question": "Переведи слово 'Привет'", "correctAnswer": "Hola", "wrongAnswers": ["Adiós", "Sí", "Gracias"]},
+        {"id": 2, "question": "Переведи слово 'До свидания'", "correctAnswer": "Adiós", "wrongAnswers": ["Hola", "Buenos días", "Buenas noches"]},
+        {"id": 3, "question": "Переведи слово 'Пожалуйста'", "correctAnswer": "Por favor", "wrongAnswers": ["Gracias", "Perdón", "Sí"]},
+        {"id": 4, "question": "Переведи слово 'Спасибо'", "correctAnswer": "Gracias", "wrongAnswers": ["Por favor", "Perdón", "Hola"]},
+        {"id": 5, "question": "Переведи слово 'Извините'", "correctAnswer": "Perdón", "wrongAnswers": ["Gracias", "Por favor", "Hola"]}
       ]
     },
     {
@@ -48,36 +23,11 @@
       "type": "WordTranslation",
       "language": "Spanish",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Excuse me'?",
-          "correctAnswer": "Disculpe",
-          "wrongAnswers": ["Por favor", "Gracias", "Perdón"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'You're welcome'?",
-          "correctAnswer": "De nada",
-          "wrongAnswers": ["Gracias", "Disculpe", "Por favor"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'No problem'?",
-          "correctAnswer": "No hay problema",
-          "wrongAnswers": ["Problema", "Sin", "Gracias"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Have a nice day'?",
-          "correctAnswer": "Que tengas buen día",
-          "wrongAnswers": ["Buenos días", "Buenas noches", "Adiós"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'I'm sorry'?",
-          "correctAnswer": "Lo siento",
-          "wrongAnswers": ["Disculpe", "Gracias", "Perdón"]
-        }
+        {"id": 1, "question": "Переведи слово 'Прошу прощения'", "correctAnswer": "Disculpa", "wrongAnswers": ["Por favor", "Gracias", "Perdón"]},
+        {"id": 2, "question": "Переведи слово 'Пожалуйста (ответ на спасибо)'", "correctAnswer": "De nada", "wrongAnswers": ["Gracias", "Perdón", "Por favor"]},
+        {"id": 3, "question": "Переведи слово 'Без проблем'", "correctAnswer": "Sin problema", "wrongAnswers": ["Problema", "No", "Gracias"]},
+        {"id": 4, "question": "Переведи слово 'Хорошего дня'", "correctAnswer": "Buen día", "wrongAnswers": ["Buenos días", "Buenas noches", "Adiós"]},
+        {"id": 5, "question": "Переведи слово 'Мне жаль'", "correctAnswer": "Lo siento", "wrongAnswers": ["Disculpa", "Gracias", "Perdón"]}
       ]
     },
     {
@@ -88,36 +38,11 @@
       "type": "WordTranslation",
       "language": "Spanish",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Yes'?",
-          "correctAnswer": "Sí",
-          "wrongAnswers": ["No", "Tal vez", "Claro"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'No'?",
-          "correctAnswer": "No",
-          "wrongAnswers": ["Sí", "Tal vez", "Nunca"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Maybe'?",
-          "correctAnswer": "Tal vez",
-          "wrongAnswers": ["Sí", "No", "Claro"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Of course'?",
-          "correctAnswer": "Claro",
-          "wrongAnswers": ["Tal vez", "Sí", "No"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Not really'?",
-          "correctAnswer": "No realmente",
-          "wrongAnswers": ["No", "Sí", "Claro"]
-        }
+        {"id": 1, "question": "Переведи слово 'Да'", "correctAnswer": "Sí", "wrongAnswers": ["No", "Quizás", "Por supuesto"]},
+        {"id": 2, "question": "Переведи слово 'Нет'", "correctAnswer": "No", "wrongAnswers": ["Sí", "Quizás", "Nunca"]},
+        {"id": 3, "question": "Переведи слово 'Может быть'", "correctAnswer": "Quizás", "wrongAnswers": ["Sí", "No", "Por supuesto"]},
+        {"id": 4, "question": "Переведи слово 'Конечно'", "correctAnswer": "Por supuesto", "wrongAnswers": ["Quizás", "Sí", "No"]},
+        {"id": 5, "question": "Переведи слово 'Не совсем'", "correctAnswer": "No realmente", "wrongAnswers": ["No", "Sí", "Por supuesto"]}
       ]
     },
     {
@@ -128,36 +53,11 @@
       "type": "WordTranslation",
       "language": "Spanish",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'One'?",
-          "correctAnswer": "Uno",
-          "wrongAnswers": ["Dos", "Tres", "Cuatro"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Two'?",
-          "correctAnswer": "Dos",
-          "wrongAnswers": ["Uno", "Tres", "Cinco"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Three'?",
-          "correctAnswer": "Tres",
-          "wrongAnswers": ["Uno", "Dos", "Cuatro"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Four'?",
-          "correctAnswer": "Cuatro",
-          "wrongAnswers": ["Cinco", "Seis", "Tres"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Five'?",
-          "correctAnswer": "Cinco",
-          "wrongAnswers": ["Cuatro", "Seis", "Siete"]
-        }
+        {"id": 1, "question": "Переведи слово 'Один'", "correctAnswer": "Uno", "wrongAnswers": ["Dos", "Tres", "Cuatro"]},
+        {"id": 2, "question": "Переведи слово 'Два'", "correctAnswer": "Dos", "wrongAnswers": ["Uno", "Tres", "Cinco"]},
+        {"id": 3, "question": "Переведи слово 'Три'", "correctAnswer": "Tres", "wrongAnswers": ["Uno", "Dos", "Cuatro"]},
+        {"id": 4, "question": "Переведи слово 'Четыре'", "correctAnswer": "Cuatro", "wrongAnswers": ["Cinco", "Seis", "Tres"]},
+        {"id": 5, "question": "Переведи слово 'Пять'", "correctAnswer": "Cinco", "wrongAnswers": ["Cuatro", "Seis", "Siete"]}
       ]
     },
     {
@@ -168,36 +68,11 @@
       "type": "WordTranslation",
       "language": "Spanish",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Six'?",
-          "correctAnswer": "Seis",
-          "wrongAnswers": ["Siete", "Ocho", "Cinco"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Seven'?",
-          "correctAnswer": "Siete",
-          "wrongAnswers": ["Seis", "Ocho", "Nueve"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Eight'?",
-          "correctAnswer": "Ocho",
-          "wrongAnswers": ["Siete", "Nueve", "Diez"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Nine'?",
-          "correctAnswer": "Nueve",
-          "wrongAnswers": ["Siete", "Ocho", "Diez"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Ten'?",
-          "correctAnswer": "Diez",
-          "wrongAnswers": ["Once", "Doce", "Nueve"]
-        }
+        {"id": 1, "question": "Переведи слово 'Шесть'", "correctAnswer": "Seis", "wrongAnswers": ["Siete", "Ocho", "Cinco"]},
+        {"id": 2, "question": "Переведи слово 'Семь'", "correctAnswer": "Siete", "wrongAnswers": ["Seis", "Ocho", "Nueve"]},
+        {"id": 3, "question": "Переведи слово 'Восемь'", "correctAnswer": "Ocho", "wrongAnswers": ["Siete", "Nueve", "Diez"]},
+        {"id": 4, "question": "Переведи слово 'Девять'", "correctAnswer": "Nueve", "wrongAnswers": ["Siete", "Ocho", "Diez"]},
+        {"id": 5, "question": "Переведи слово 'Десять'", "correctAnswer": "Diez", "wrongAnswers": ["Once", "Doce", "Nueve"]}
       ]
     },
     {
@@ -208,36 +83,11 @@
       "type": "WordTranslation",
       "language": "Spanish",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Eleven'?",
-          "correctAnswer": "Once",
-          "wrongAnswers": ["Doce", "Trece", "Diez"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Twelve'?",
-          "correctAnswer": "Doce",
-          "wrongAnswers": ["Once", "Trece", "Catorce"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Thirteen'?",
-          "correctAnswer": "Trece",
-          "wrongAnswers": ["Doce", "Catorce", "Quince"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Fourteen'?",
-          "correctAnswer": "Catorce",
-          "wrongAnswers": ["Trece", "Quince", "Dieciséis"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Fifteen'?",
-          "correctAnswer": "Quince",
-          "wrongAnswers": ["Trece", "Catorce", "Dieciséis"]
-        }
+        {"id": 1, "question": "Переведи слово 'Одиннадцать'", "correctAnswer": "Once", "wrongAnswers": ["Doce", "Trece", "Diez"]},
+        {"id": 2, "question": "Переведи слово 'Двенадцать'", "correctAnswer": "Doce", "wrongAnswers": ["Once", "Trece", "Catorce"]},
+        {"id": 3, "question": "Переведи слово 'Тринадцать'", "correctAnswer": "Trece", "wrongAnswers": ["Doce", "Catorce", "Quince"]},
+        {"id": 4, "question": "Переведи слово 'Четырнадцать'", "correctAnswer": "Catorce", "wrongAnswers": ["Trece", "Quince", "Dieciséis"]},
+        {"id": 5, "question": "Переведи слово 'Пятнадцать'", "correctAnswer": "Quince", "wrongAnswers": ["Trece", "Catorce", "Dieciséis"]}
       ]
     },
     {
@@ -248,36 +98,11 @@
       "type": "WordTranslation",
       "language": "Spanish",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Sixteen'?",
-          "correctAnswer": "Dieciséis",
-          "wrongAnswers": ["Diecisiete", "Dieciocho", "Quince"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Seventeen'?",
-          "correctAnswer": "Diecisiete",
-          "wrongAnswers": ["Dieciséis", "Dieciocho", "Diecinueve"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Eighteen'?",
-          "correctAnswer": "Dieciocho",
-          "wrongAnswers": ["Dieciséis", "Diecisiete", "Diecinueve"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Nineteen'?",
-          "correctAnswer": "Diecinueve",
-          "wrongAnswers": ["Dieciocho", "Veinte", "Diecisiete"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Twenty'?",
-          "correctAnswer": "Veinte",
-          "wrongAnswers": ["Treinta", "Diecinueve", "Doce"]
-        }
+        {"id": 1, "question": "Переведи слово 'Шестнадцать'", "correctAnswer": "Dieciséis", "wrongAnswers": ["Diecisiete", "Dieciocho", "Quince"]},
+        {"id": 2, "question": "Переведи слово 'Семнадцать'", "correctAnswer": "Diecisiete", "wrongAnswers": ["Dieciséis", "Dieciocho", "Diecinueve"]},
+        {"id": 3, "question": "Переведи слово 'Восемнадцать'", "correctAnswer": "Dieciocho", "wrongAnswers": ["Dieciséis", "Diecisiete", "Diecinueve"]},
+        {"id": 4, "question": "Переведи слово 'Девятнадцать'", "correctAnswer": "Diecinueve", "wrongAnswers": ["Dieciocho", "Veinte", "Diecisiete"]},
+        {"id": 5, "question": "Переведи слово 'Двадцать'", "correctAnswer": "Veinte", "wrongAnswers": ["Treinta", "Diecinueve", "Doce"]}
       ]
     },
     {
@@ -288,36 +113,11 @@
       "type": "WordTranslation",
       "language": "Spanish",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Thirty'?",
-          "correctAnswer": "Treinta",
-          "wrongAnswers": ["Veinte", "Cuarenta", "Cincuenta"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Forty'?",
-          "correctAnswer": "Cuarenta",
-          "wrongAnswers": ["Treinta", "Cincuenta", "Sesenta"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Fifty'?",
-          "correctAnswer": "Cincuenta",
-          "wrongAnswers": ["Cuarenta", "Sesenta", "Setenta"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Sixty'?",
-          "correctAnswer": "Sesenta",
-          "wrongAnswers": ["Cincuenta", "Setenta", "Ochenta"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Seventy'?",
-          "correctAnswer": "Setenta",
-          "wrongAnswers": ["Sesenta", "Ochenta", "Noventa"]
-        }
+        {"id": 1, "question": "Переведи слово 'Тридцать'", "correctAnswer": "Treinta", "wrongAnswers": ["Veinte", "Cuarenta", "Cincuenta"]},
+        {"id": 2, "question": "Переведи слово 'Сорок'", "correctAnswer": "Cuarenta", "wrongAnswers": ["Treinta", "Cincuenta", "Sesenta"]},
+        {"id": 3, "question": "Переведи слово 'Пятьдесят'", "correctAnswer": "Cincuenta", "wrongAnswers": ["Cuarenta", "Sesenta", "Setenta"]},
+        {"id": 4, "question": "Переведи слово 'Шестьдесят'", "correctAnswer": "Sesenta", "wrongAnswers": ["Cincuenta", "Setenta", "Ochenta"]},
+        {"id": 5, "question": "Переведи слово 'Семьдесят'", "correctAnswer": "Setenta", "wrongAnswers": ["Sesenta", "Ochenta", "Noventa"]}
       ]
     },
     {
@@ -328,36 +128,11 @@
       "type": "WordTranslation",
       "language": "Spanish",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Hundred'?",
-          "correctAnswer": "Cien",
-          "wrongAnswers": ["Mil", "Millón", "Diez"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Thousand'?",
-          "correctAnswer": "Mil",
-          "wrongAnswers": ["Cien", "Millón", "Diez"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Million'?",
-          "correctAnswer": "Millón",
-          "wrongAnswers": ["Mil", "Cien", "Millardo"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Billion'?",
-          "correctAnswer": "Millardo",
-          "wrongAnswers": ["Millón", "Mil", "Cien"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Zero'?",
-          "correctAnswer": "Cero",
-          "wrongAnswers": ["Uno", "Diez", "Cien"]
-        }
+        {"id": 1, "question": "Переведи слово 'Сто'", "correctAnswer": "Cien", "wrongAnswers": ["Mil", "Millón", "Diez"]},
+        {"id": 2, "question": "Переведи слово 'Тысяча'", "correctAnswer": "Mil", "wrongAnswers": ["Cien", "Millón", "Diez"]},
+        {"id": 3, "question": "Переведи слово 'Миллион'", "correctAnswer": "Millón", "wrongAnswers": ["Mil", "Cien", "Millardo"]},
+        {"id": 4, "question": "Переведи слово 'Миллиард'", "correctAnswer": "Millardo", "wrongAnswers": ["Millón", "Mil", "Cien"]},
+        {"id": 5, "question": "Переведи слово 'Ноль'", "correctAnswer": "Cero", "wrongAnswers": ["Uno", "Diez", "Cien"]}
       ]
     },
     {
@@ -368,36 +143,1061 @@
       "type": "WordTranslation",
       "language": "Spanish",
       "tasks": [
-        {
-          "id": 1,
-          "question": "Как переводится 'Red'?",
-          "correctAnswer": "Rojo",
-          "wrongAnswers": ["Azul", "Verde", "Amarillo"]
-        },
-        {
-          "id": 2,
-          "question": "Как переводится 'Blue'?",
-          "correctAnswer": "Azul",
-          "wrongAnswers": ["Rojo", "Verde", "Morado"]
-        },
-        {
-          "id": 3,
-          "question": "Как переводится 'Green'?",
-          "correctAnswer": "Verde",
-          "wrongAnswers": ["Rojo", "Azul", "Amarillo"]
-        },
-        {
-          "id": 4,
-          "question": "Как переводится 'Yellow'?",
-          "correctAnswer": "Amarillo",
-          "wrongAnswers": ["Rojo", "Verde", "Negro"]
-        },
-        {
-          "id": 5,
-          "question": "Как переводится 'Black'?",
-          "correctAnswer": "Negro",
-          "wrongAnswers": ["Blanco", "Marrón", "Gris"]
-        }
+        {"id": 1, "question": "Переведи слово 'Красный'", "correctAnswer": "Rojo", "wrongAnswers": ["Azul", "Verde", "Amarillo"]},
+        {"id": 2, "question": "Переведи слово 'Синий'", "correctAnswer": "Azul", "wrongAnswers": ["Rojo", "Verde", "Morado"]},
+        {"id": 3, "question": "Переведи слово 'Зелёный'", "correctAnswer": "Verde", "wrongAnswers": ["Rojo", "Azul", "Amarillo"]},
+        {"id": 4, "question": "Переведи слово 'Жёлтый'", "correctAnswer": "Amarillo", "wrongAnswers": ["Rojo", "Verde", "Negro"]},
+        {"id": 5, "question": "Переведи слово 'Чёрный'", "correctAnswer": "Negro", "wrongAnswers": ["Blanco", "Marrón", "Gris"]}
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Дополнительные цвета",
+      "description": "Белый, коричневый, розовый, фиолетовый, оранжевый",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Белый'", "correctAnswer": "Blanco", "wrongAnswers": ["Negro", "Rojo", "Gris"]},
+        {"id": 2, "question": "Переведи слово 'Коричневый'", "correctAnswer": "Marrón", "wrongAnswers": ["Rosa", "Morado", "Amarillo"]},
+        {"id": 3, "question": "Переведи слово 'Розовый'", "correctAnswer": "Rosa", "wrongAnswers": ["Rojo", "Morado", "Naranja"]},
+        {"id": 4, "question": "Переведи слово 'Фиолетовый'", "correctAnswer": "Morado", "wrongAnswers": ["Lila", "Rosa", "Marrón"]},
+        {"id": 5, "question": "Переведи слово 'Оранжевый'", "correctAnswer": "Naranja", "wrongAnswers": ["Amarillo", "Rojo", "Marrón"]}
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Семья: мама, папа, сестра, брат",
+      "description": "Близкие родственники",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Мама'", "correctAnswer": "Madre", "wrongAnswers": ["Padre", "Hermana", "Hermano"]},
+        {"id": 2, "question": "Переведи слово 'Папа'", "correctAnswer": "Padre", "wrongAnswers": ["Madre", "Hermano", "Hermana"]},
+        {"id": 3, "question": "Переведи слово 'Сестра'", "correctAnswer": "Hermana", "wrongAnswers": ["Hermano", "Madre", "Padre"]},
+        {"id": 4, "question": "Переведи слово 'Брат'", "correctAnswer": "Hermano", "wrongAnswers": ["Hermana", "Madre", "Padre"]},
+        {"id": 5, "question": "Переведи слово 'Бабушка'", "correctAnswer": "Abuela", "wrongAnswers": ["Abuelo", "Tía", "Tío"]}
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Семья: бабушка, дедушка, тетя, дядя, кузен",
+      "description": "Другие родственники",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Дедушка'", "correctAnswer": "Abuelo", "wrongAnswers": ["Abuela", "Padre", "Hijo"]},
+        {"id": 2, "question": "Переведи слово 'Тётя'", "correctAnswer": "Tía", "wrongAnswers": ["Tío", "Hermana", "Madre"]},
+        {"id": 3, "question": "Переведи слово 'Дядя'", "correctAnswer": "Tío", "wrongAnswers": ["Tía", "Hermano", "Padre"]},
+        {"id": 4, "question": "Переведи слово 'Двоюродный брат/сестра'", "correctAnswer": "Primo", "wrongAnswers": ["Hermano", "Hermana", "Tío"]},
+        {"id": 5, "question": "Переведи слово 'Младенец'", "correctAnswer": "Bebé", "wrongAnswers": ["Niño", "Adolescente", "Adulto"]}
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Части тела: голова, лицо, глаз, ухо, нос",
+      "description": "Основные части головы",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Голова'", "correctAnswer": "Cabeza", "wrongAnswers": ["Cara", "Ojo", "Oído"]},
+        {"id": 2, "question": "Переведи слово 'Лицо'", "correctAnswer": "Cara", "wrongAnswers": ["Cabeza", "Ojo", "Nariz"]},
+        {"id": 3, "question": "Переведи слово 'Глаз'", "correctAnswer": "Ojo", "wrongAnswers": ["Oído", "Nariz", "Boca"]},
+        {"id": 4, "question": "Переведи слово 'Ухо'", "correctAnswer": "Oído", "wrongAnswers": ["Ojo", "Nariz", "Boca"]},
+        {"id": 5, "question": "Переведи слово 'Нос'", "correctAnswer": "Nariz", "wrongAnswers": ["Oído", "Ojo", "Boca"]}
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Части тела: рот, рука, нога, ступня, волосы",
+      "description": "Другие части тела",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Рот'", "correctAnswer": "Boca", "wrongAnswers": ["Nariz", "Oído", "Ojo"]},
+        {"id": 2, "question": "Переведи слово 'Кисть руки'", "correctAnswer": "Mano", "wrongAnswers": ["Brazo", "Pierna", "Pie"]},
+        {"id": 3, "question": "Переведи слово 'Нога'", "correctAnswer": "Pierna", "wrongAnswers": ["Brazo", "Rodilla", "Pie"]},
+        {"id": 4, "question": "Переведи слово 'Ступня'", "correctAnswer": "Pie", "wrongAnswers": ["Pierna", "Rodilla", "Dedo"]},
+        {"id": 5, "question": "Переведи слово 'Волосы'", "correctAnswer": "Pelo", "wrongAnswers": ["Cabeza", "Cara", "Cuello"]}
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Еда: хлеб, молоко, яйцо, мясо, рыба",
+      "description": "Основные продукты питания",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Хлеб'", "correctAnswer": "Pan", "wrongAnswers": ["Leche", "Huevo", "Carne"]},
+        {"id": 2, "question": "Переведи слово 'Молоко'", "correctAnswer": "Leche", "wrongAnswers": ["Pan", "Huevo", "Zumo"]},
+        {"id": 3, "question": "Переведи слово 'Яйцо'", "correctAnswer": "Huevo", "wrongAnswers": ["Pan", "Leche", "Carne"]},
+        {"id": 4, "question": "Переведи слово 'Мясо'", "correctAnswer": "Carne", "wrongAnswers": ["Pescado", "Arroz", "Pan"]},
+        {"id": 5, "question": "Переведи слово 'Рыба'", "correctAnswer": "Pescado", "wrongAnswers": ["Carne", "Arroz", "Leche"]}
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Еда: рис, паста, пицца, бургер, торт",
+      "description": "Популярные блюда",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Рис'", "correctAnswer": "Arroz", "wrongAnswers": ["Pasta", "Pizza", "Carne"]},
+        {"id": 2, "question": "Переведи слово 'Паста'", "correctAnswer": "Pasta", "wrongAnswers": ["Pizza", "Hamburguesa", "Arroz"]},
+        {"id": 3, "question": "Переведи слово 'Пицца'", "correctAnswer": "Pizza", "wrongAnswers": ["Pasta", "Hamburguesa", "Sopa"]},
+        {"id": 4, "question": "Переведи слово 'Бургер'", "correctAnswer": "Hamburguesa", "wrongAnswers": ["Pasta", "Pizza", "Perrito caliente"]},
+        {"id": 5, "question": "Переведи слово 'Торт'", "correctAnswer": "Tarta", "wrongAnswers": ["Ensalada", "Sopa", "Pan"]}
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Напитки: вода, чай, кофе, сок, лимонад",
+      "description": "Основные напитки",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Вода'", "correctAnswer": "Agua", "wrongAnswers": ["Zumo", "Leche", "Té"]},
+        {"id": 2, "question": "Переведи слово 'Чай'", "correctAnswer": "Té", "wrongAnswers": ["Café", "Zumo", "Limonada"]},
+        {"id": 3, "question": "Переведи слово 'Кофе'", "correctAnswer": "Café", "wrongAnswers": ["Cacao", "Zumo", "Leche"]},
+        {"id": 4, "question": "Переведи слово 'Сок'", "correctAnswer": "Zumo", "wrongAnswers": ["Agua", "Té", "Limonada"]},
+        {"id": 5, "question": "Переведи слово 'Газировка'", "correctAnswer": "Limonada", "wrongAnswers": ["Agua", "Zumo", "Cola"]}
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Животные: кошка, собака, птица, рыба, лошадь",
+      "description": "Домашние и дикие животные",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Кошка'", "correctAnswer": "Gato", "wrongAnswers": ["Perro", "Pájaro", "Pez"]},
+        {"id": 2, "question": "Переведи слово 'Собака'", "correctAnswer": "Perro", "wrongAnswers": ["Gato", "Pájaro", "Zorro"]},
+        {"id": 3, "question": "Переведи слово 'Птица'", "correctAnswer": "Pájaro", "wrongAnswers": ["Gato", "Perro", "Pez"]},
+        {"id": 4, "question": "Переведи слово 'Рыба'", "correctAnswer": "Pez", "wrongAnswers": ["Pájaro", "Caballo", "Vaca"]},
+        {"id": 5, "question": "Переведи слово 'Лошадь'", "correctAnswer": "Caballo", "wrongAnswers": ["Vaca", "Cerdo", "Oveja"]}
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Животные: корова, свинья, овца, мышь, кролик",
+      "description": "Фермерские и мелкие животные",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Корова'", "correctAnswer": "Vaca", "wrongAnswers": ["Caballo", "Cerdo", "Oveja"]},
+        {"id": 2, "question": "Переведи слово 'Свинья'", "correctAnswer": "Cerdo", "wrongAnswers": ["Oveja", "Rata", "Vaca"]},
+        {"id": 3, "question": "Переведи слово 'Овца'", "correctAnswer": "Oveja", "wrongAnswers": ["Cerdo", "Rata", "Cabra"]},
+        {"id": 4, "question": "Переведи слово 'Мышь'", "correctAnswer": "Ratón", "wrongAnswers": ["Rata", "Oveja", "Cerdo"]},
+        {"id": 5, "question": "Переведи слово 'Кролик'", "correctAnswer": "Conejo", "wrongAnswers": ["Pato", "Gallina", "Ratón"]}
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Дом: дом, комната, дверь, окно, пол",
+      "description": "Части дома",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Дом'", "correctAnswer": "Casa", "wrongAnswers": ["Habitación", "Puerta", "Ventana"]},
+        {"id": 2, "question": "Переведи слово 'Комната'", "correctAnswer": "Habitación", "wrongAnswers": ["Casa", "Puerta", "Cocina"]},
+        {"id": 3, "question": "Переведи слово 'Дверь'", "correctAnswer": "Puerta", "wrongAnswers": ["Ventana", "Pared", "Suelo"]},
+        {"id": 4, "question": "Переведи слово 'Окно'", "correctAnswer": "Ventana", "wrongAnswers": ["Puerta", "Pared", "Techo"]},
+        {"id": 5, "question": "Переведи слово 'Пол'", "correctAnswer": "Suelo", "wrongAnswers": ["Techo", "Pared", "Escalera"]}
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Мебель: стол, стул, кровать, шкаф, полка",
+      "description": "Основная мебель",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Стол'", "correctAnswer": "Mesa", "wrongAnswers": ["Silla", "Cama", "Sofá"]},
+        {"id": 2, "question": "Переведи слово 'Стул'", "correctAnswer": "Silla", "wrongAnswers": ["Mesa", "Butaca", "Taburete"]},
+        {"id": 3, "question": "Переведи слово 'Кровать'", "correctAnswer": "Cama", "wrongAnswers": ["Sofá", "Mesa", "Armario"]},
+        {"id": 4, "question": "Переведи слово 'Шкаф'", "correctAnswer": "Armario", "wrongAnswers": ["Estantería", "Cómoda", "Mesa"]},
+        {"id": 5, "question": "Переведи слово 'Полка'", "correctAnswer": "Estantería", "wrongAnswers": ["Armario", "Mesa", "Espejo"]}
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Одежда: рубашка, обувь, шляпа, куртка, юбка",
+      "description": "Основные предметы одежды",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Рубашка'", "correctAnswer": "Camisa", "wrongAnswers": ["Zapatos", "Sombrero", "Chaqueta"]},
+        {"id": 2, "question": "Переведи слово 'Обувь'", "correctAnswer": "Zapatos", "wrongAnswers": ["Calcetines", "Sombrero", "Pantalones"]},
+        {"id": 3, "question": "Переведи слово 'Шляпа'", "correctAnswer": "Sombrero", "wrongAnswers": ["Bufanda", "Guantes", "Gorra"]},
+        {"id": 4, "question": "Переведи слово 'Куртка'", "correctAnswer": "Chaqueta", "wrongAnswers": ["Abrigo", "Impermeable", "Blazer"]},
+        {"id": 5, "question": "Переведи слово 'Юбка'", "correctAnswer": "Falda", "wrongAnswers": ["Vestido", "Pantalones cortos", "Pantalones"]}
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Одежда: платье, брюки, носки, перчатки, ремень",
+      "description": "Другие предметы одежды",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Платье'", "correctAnswer": "Vestido", "wrongAnswers": ["Falda", "Blusa", "Top"]},
+        {"id": 2, "question": "Переведи слово 'Брюки'", "correctAnswer": "Pantalones", "wrongAnswers": ["Pantalones cortos", "Vaqueros", "Falda"]},
+        {"id": 3, "question": "Переведи слово 'Носки'", "correctAnswer": "Calcetines", "wrongAnswers": ["Medias", "Pantuflas", "Polainas"]},
+        {"id": 4, "question": "Переведи слово 'Перчатки'", "correctAnswer": "Guantes", "wrongAnswers": ["Mitones", "Manoplas", "Brazaletes"]},
+        {"id": 5, "question": "Переведи слово 'Ремень'", "correctAnswer": "Cinturón", "wrongAnswers": ["Bufanda", "Corbata", "Guantes"]}
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Транспорт: машина, автобус, поезд, самолет, корабль",
+      "description": "Основные виды транспорта",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Машина'", "correctAnswer": "Coche", "wrongAnswers": ["Autobús", "Tren", "Avión"]},
+        {"id": 2, "question": "Переведи слово 'Автобус'", "correctAnswer": "Autobús", "wrongAnswers": ["Coche", "Tren", "Tranvía"]},
+        {"id": 3, "question": "Переведи слово 'Поезд'", "correctAnswer": "Tren", "wrongAnswers": ["Metro", "Autobús", "Avión"]},
+        {"id": 4, "question": "Переведи слово 'Самолет'", "correctAnswer": "Avión", "wrongAnswers": ["Helicóptero", "Barco", "Coche"]},
+        {"id": 5, "question": "Переведи слово 'Корабль'", "correctAnswer": "Barco", "wrongAnswers": ["Bote", "Yate", "Transbordador"]}
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Транспорт: велосипед, мотоцикл, грузовик, фургон, вертолет",
+      "description": "Другие виды транспорта",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Велосипед'", "correctAnswer": "Bicicleta", "wrongAnswers": ["Motocicleta", "Patinete", "Monopatín"]},
+        {"id": 2, "question": "Переведи слово 'Мотоцикл'", "correctAnswer": "Motocicleta", "wrongAnswers": ["Bicicleta", "Ciclomotor", "Quad"]},
+        {"id": 3, "question": "Переведи слово 'Грузовик'", "correctAnswer": "Camión", "wrongAnswers": ["Remolque", "Tractor", "Tráiler"]},
+        {"id": 4, "question": "Переведи слово 'Фургон'", "correctAnswer": "Furgoneta", "wrongAnswers": ["Autobús", "Camioneta", "Caravana"]},
+        {"id": 5, "question": "Переведи слово 'Вертолет'", "correctAnswer": "Helicóptero", "wrongAnswers": ["Avión", "Dron", "Globo"]}
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Погода: солнечный, дождливый, облачный, ветреный, снежный",
+      "description": "Описание погоды",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Солнечный'", "correctAnswer": "Soleado", "wrongAnswers": ["Lluvioso", "Nublado", "Ventoso"]},
+        {"id": 2, "question": "Переведи слово 'Дождливый'", "correctAnswer": "Lluvioso", "wrongAnswers": ["Soleado", "Nevado", "Neblinoso"]},
+        {"id": 3, "question": "Переведи слово 'Облачный'", "correctAnswer": "Nublado", "wrongAnswers": ["Despejado", "Oscuro", "Soleado"]},
+        {"id": 4, "question": "Переведи слово 'Ветреный'", "correctAnswer": "Ventoso", "wrongAnswers": ["Soleado", "Lluvioso", "Tormentoso"]},
+        {"id": 5, "question": "Переведи слово 'Снежный'", "correctAnswer": "Nevado", "wrongAnswers": ["Lluvioso", "Nublado", "Helado"]}
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Погода: жарко, холодно, тепло, прохладно, туманно",
+      "description": "Температура и явления",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Жарко'", "correctAnswer": "Caluroso", "wrongAnswers": ["Frío", "Cálido", "Fresco"]},
+        {"id": 2, "question": "Переведи слово 'Холодно'", "correctAnswer": "Frío", "wrongAnswers": ["Caluroso", "Cálido", "Helado"]},
+        {"id": 3, "question": "Переведи слово 'Тепло'", "correctAnswer": "Cálido", "wrongAnswers": ["Caluroso", "Frío", "Fresco"]},
+        {"id": 4, "question": "Переведи слово 'Прохладно'", "correctAnswer": "Fresco", "wrongAnswers": ["Cálido", "Frío", "Caluroso"]},
+        {"id": 5, "question": "Переведи слово 'Туманно'", "correctAnswer": "Neblinoso", "wrongAnswers": ["Despejado", "Oscuro", "Soleado"]}
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Времена года",
+      "description": "Названия времён года",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Весна'", "correctAnswer": "Primavera", "wrongAnswers": ["Verano", "Otoño", "Invierno"]},
+        {"id": 2, "question": "Переведи слово 'Лето'", "correctAnswer": "Verano", "wrongAnswers": ["Primavera", "Otoño", "Invierno"]},
+        {"id": 3, "question": "Переведи слово 'Осень'", "correctAnswer": "Otoño", "wrongAnswers": ["Primavera", "Verano", "Invierno"]},
+        {"id": 4, "question": "Переведи слово 'Зима'", "correctAnswer": "Invierno", "wrongAnswers": ["Primavera", "Verano", "Otoño"]},
+        {"id": 5, "question": "Переведи слово 'Сезон'", "correctAnswer": "Estación", "wrongAnswers": ["Mes", "Semana", "Año"]}
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Дни недели: понедельник - пятница",
+      "description": "Будние дни",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Понедельник'", "correctAnswer": "Lunes", "wrongAnswers": ["Martes", "Miércoles", "Jueves"]},
+        {"id": 2, "question": "Переведи слово 'Вторник'", "correctAnswer": "Martes", "wrongAnswers": ["Lunes", "Miércoles", "Jueves"]},
+        {"id": 3, "question": "Переведи слово 'Среда'", "correctAnswer": "Miércoles", "wrongAnswers": ["Lunes", "Martes", "Jueves"]},
+        {"id": 4, "question": "Переведи слово 'Четверг'", "correctAnswer": "Jueves", "wrongAnswers": ["Viernes", "Sábado", "Miércoles"]},
+        {"id": 5, "question": "Переведи слово 'Пятница'", "correctAnswer": "Viernes", "wrongAnswers": ["Jueves", "Sábado", "Domingo"]}
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Дни недели: суббота, воскресенье, неделя, выходные",
+      "description": "Выходные и понятие недели",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Суббота'", "correctAnswer": "Sábado", "wrongAnswers": ["Viernes", "Domingo", "Jueves"]},
+        {"id": 2, "question": "Переведи слово 'Воскресенье'", "correctAnswer": "Domingo", "wrongAnswers": ["Sábado", "Lunes", "Viernes"]},
+        {"id": 3, "question": "Переведи слово 'Неделя'", "correctAnswer": "Semana", "wrongAnswers": ["Mes", "Año", "Día"]},
+        {"id": 4, "question": "Переведи слово 'Выходные'", "correctAnswer": "Fin de semana", "wrongAnswers": ["Semana", "Festivo", "Vacaciones"]},
+        {"id": 5, "question": "Переведи слово 'День'", "correctAnswer": "Día", "wrongAnswers": ["Noche", "Mañana", "Tarde"]}
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Месяцы: январь, февраль, март, апрель, май",
+      "description": "Первые пять месяцев",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Январь'", "correctAnswer": "Enero", "wrongAnswers": ["Febrero", "Marzo", "Abril"]},
+        {"id": 2, "question": "Переведи слово 'Февраль'", "correctAnswer": "Febrero", "wrongAnswers": ["Enero", "Marzo", "Mayo"]},
+        {"id": 3, "question": "Переведи слово 'Март'", "correctAnswer": "Marzo", "wrongAnswers": ["Abril", "Mayo", "Junio"]},
+        {"id": 4, "question": "Переведи слово 'Апрель'", "correctAnswer": "Abril", "wrongAnswers": ["Marzo", "Mayo", "Junio"]},
+        {"id": 5, "question": "Переведи слово 'Май'", "correctAnswer": "Mayo", "wrongAnswers": ["Abril", "Junio", "Julio"]}
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Месяцы: июнь, июль, август, сентябрь, октябрь",
+      "description": "Летние и осенние месяцы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Июнь'", "correctAnswer": "Junio", "wrongAnswers": ["Julio", "Agosto", "Mayo"]},
+        {"id": 2, "question": "Переведи слово 'Июль'", "correctAnswer": "Julio", "wrongAnswers": ["Agosto", "Septiembre", "Junio"]},
+        {"id": 3, "question": "Переведи слово 'Август'", "correctAnswer": "Agosto", "wrongAnswers": ["Julio", "Septiembre", "Octubre"]},
+        {"id": 4, "question": "Переведи слово 'Сентябрь'", "correctAnswer": "Septiembre", "wrongAnswers": ["Agosto", "Octubre", "Noviembre"]},
+        {"id": 5, "question": "Переведи слово 'Октябрь'", "correctAnswer": "Octubre", "wrongAnswers": ["Septiembre", "Noviembre", "Diciembre"]}
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Месяцы: ноябрь, декабрь, месяц, год, дата",
+      "description": "Последние месяцы и временные понятия",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Ноябрь'", "correctAnswer": "Noviembre", "wrongAnswers": ["Octubre", "Diciembre", "Septiembre"]},
+        {"id": 2, "question": "Переведи слово 'Декабрь'", "correctAnswer": "Diciembre", "wrongAnswers": ["Noviembre", "Octubre", "Enero"]},
+        {"id": 3, "question": "Переведи слово 'Месяц'", "correctAnswer": "Mes", "wrongAnswers": ["Año", "Semana", "Día"]},
+        {"id": 4, "question": "Переведи слово 'Год'", "correctAnswer": "Año", "wrongAnswers": ["Mes", "Semana", "Década"]},
+        {"id": 5, "question": "Переведи слово 'Дата'", "correctAnswer": "Fecha", "wrongAnswers": ["Tiempo", "Día", "Mes"]}
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Время: час, минута, секунда, часы, время",
+      "description": "Единицы времени и прибор",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Час'", "correctAnswer": "Hora", "wrongAnswers": ["Minuto", "Segundo", "Día"]},
+        {"id": 2, "question": "Переведи слово 'Минута'", "correctAnswer": "Minuto", "wrongAnswers": ["Segundo", "Hora", "Semana"]},
+        {"id": 3, "question": "Переведи слово 'Секунда'", "correctAnswer": "Segundo", "wrongAnswers": ["Minuto", "Hora", "Instante"]},
+        {"id": 4, "question": "Переведи слово 'Часы (прибор)'", "correctAnswer": "Reloj", "wrongAnswers": ["Hora", "Minuto", "Tiempo"]},
+        {"id": 5, "question": "Переведи слово 'Время'", "correctAnswer": "Tiempo", "wrongAnswers": ["Reloj", "Momento", "Período"]}
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Время суток: утро, день, вечер, ночь, полночь",
+      "description": "Части суток",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Утро'", "correctAnswer": "Mañana", "wrongAnswers": ["Tarde", "Noche", "Medianoche"]},
+        {"id": 2, "question": "Переведи слово 'День'", "correctAnswer": "Tarde", "wrongAnswers": ["Mañana", "Noche", "Amanecer"]},
+        {"id": 3, "question": "Переведи слово 'Вечер'", "correctAnswer": "Noche", "wrongAnswers": ["Tarde", "Atardecer", "Madrugada"]},
+        {"id": 4, "question": "Переведи слово 'Ночь'", "correctAnswer": "Noche", "wrongAnswers": ["Día", "Tarde", "Mañana"]},
+        {"id": 5, "question": "Переведи слово 'Полночь'", "correctAnswer": "Medianoche", "wrongAnswers": ["Mediodía", "Noche", "Mañana"]}
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Профессии: доктор, учитель, инженер, юрист, пилот",
+      "description": "Распространенные профессии",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Доктор'", "correctAnswer": "Médico", "wrongAnswers": ["Profesor", "Ingeniero", "Policía"]},
+        {"id": 2, "question": "Переведи слово 'Учитель'", "correctAnswer": "Profesor", "wrongAnswers": ["Estudiante", "Director", "Médico"]},
+        {"id": 3, "question": "Переведи слово 'Инженер'", "correctAnswer": "Ingeniero", "wrongAnswers": ["Arquitecto", "Obrero", "Mecánico"]},
+        {"id": 4, "question": "Переведи слово 'Юрист'", "correctAnswer": "Abogado", "wrongAnswers": ["Juez", "Fiscal", "Jurista"]},
+        {"id": 5, "question": "Переведи слово 'Пилот'", "correctAnswer": "Piloto", "wrongAnswers": ["Navegante", "Comandante", "Aviador"]}
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Профессии: медсестра, повар, водитель, полицейский, художник",
+      "description": "Ещё профессии",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Медсестра'", "correctAnswer": "Enfermera", "wrongAnswers": ["Celador", "Médico", "Paramédico"]},
+        {"id": 2, "question": "Переведи слово 'Шеф-повар'", "correctAnswer": "Cocinero", "wrongAnswers": ["Panadero", "Camarero", "Peluquero"]},
+        {"id": 3, "question": "Переведи слово 'Водитель'", "correctAnswer": "Conductor", "wrongAnswers": ["Mecánico", "Piloto", "Reverendo"]},
+        {"id": 4, "question": "Переведи слово 'Полицейский'", "correctAnswer": "Policía", "wrongAnswers": ["Detective", "Oficial", "Agente"]},
+        {"id": 5, "question": "Переведи слово 'Художник'", "correctAnswer": "Artista", "wrongAnswers": ["Escultor", "Arquitecto", "Diseñador"]}
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Профессии: музыкант, писатель, актер, режиссер, фотограф",
+      "description": "Творческие профессии",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Музыкант'", "correctAnswer": "Músico", "wrongAnswers": ["Compositor", "Director de orquesta", "Cantante"]},
+        {"id": 2, "question": "Переведи слово 'Писатель'", "correctAnswer": "Escritor", "wrongAnswers": ["Poeta", "Periodista", "Editor"]},
+        {"id": 3, "question": "Переведи слово 'Актер'", "correctAnswer": "Actor", "wrongAnswers": ["Director", "Guionista", "Productor"]},
+        {"id": 4, "question": "Переведи слово 'Режиссер'", "correctAnswer": "Director de cine", "wrongAnswers": ["Productor", "Guionista", "Camarógrafo"]},
+        {"id": 5, "question": "Переведи слово 'Фотограф'", "correctAnswer": "Fotógrafo", "wrongAnswers": ["Artista", "Diseñador", "Videógrafo"]}
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Школа: школа, учитель, ученик, класс, книга",
+      "description": "Школьные термины",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Школа'", "correctAnswer": "Escuela", "wrongAnswers": ["Universidad", "Colegio", "Clase"]},
+        {"id": 2, "question": "Переведи слово 'Учитель'", "correctAnswer": "Profesor", "wrongAnswers": ["Alumno", "Director", "Profesor universitario"]},
+        {"id": 3, "question": "Переведи слово 'Ученик'", "correctAnswer": "Alumno", "wrongAnswers": ["Estudiante", "Niño de escuela", "Catedrático"]},
+        {"id": 4, "question": "Переведи слово 'Класс (комната)'", "correctAnswer": "Aula", "wrongAnswers": ["Pasillo", "Salón de actos", "Biblioteca"]},
+        {"id": 5, "question": "Переведи слово 'Книга'", "correctAnswer": "Libro", "wrongAnswers": ["Cuaderno", "Bolígrafo", "Lápiz"]}
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Школа: ручка, карандаш, бумага, парта, урок",
+      "description": "Школьные принадлежности",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Ручка'", "correctAnswer": "Bolígrafo", "wrongAnswers": ["Lápiz", "Rotulador", "Marcador"]},
+        {"id": 2, "question": "Переведи слово 'Карандаш'", "correctAnswer": "Lápiz", "wrongAnswers": ["Bolígrafo", "Goma", "Sacapuntas"]},
+        {"id": 3, "question": "Переведи слово 'Бумага'", "correctAnswer": "Papel", "wrongAnswers": ["Cuaderno", "Cartón", "Periódico"]},
+        {"id": 4, "question": "Переведи слово 'Парта'", "correctAnswer": "Pupitre", "wrongAnswers": ["Mesa", "Silla", "Pizarra"]},
+        {"id": 5, "question": "Переведи слово 'Урок'", "correctAnswer": "Lección", "wrongAnswers": ["Clase", "Escuela", "Universidad"]}
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Город: улица, парк, магазин, площадь, мост",
+      "description": "Городские места",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Улица'", "correctAnswer": "Calle", "wrongAnswers": ["Camino", "Sendero", "Plaza"]},
+        {"id": 2, "question": "Переведи слово 'Парк'", "correctAnswer": "Parque", "wrongAnswers": ["Jardín", "Bosque", "Zona verde"]},
+        {"id": 3, "question": "Переведи слово 'Магазин'", "correctAnswer": "Tienda", "wrongAnswers": ["Mercado", "Supermercado", "Quiosco"]},
+        {"id": 4, "question": "Переведи слово 'Площадь'", "correctAnswer": "Plaza", "wrongAnswers": ["Calle", "Parque", "Edificio"]},
+        {"id": 5, "question": "Переведи слово 'Мост'", "correctAnswer": "Puente", "wrongAnswers": ["Túnel", "Calle", "Río"]}
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Город: станция, музей, театр, кинотеатр, банк",
+      "description": "Общественные места",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Станция'", "correctAnswer": "Estación", "wrongAnswers": ["Aeropuerto", "Puerto", "Parada"]},
+        {"id": 2, "question": "Переведи слово 'Музей'", "correctAnswer": "Museo", "wrongAnswers": ["Galería", "Exposición", "Biblioteca"]},
+        {"id": 3, "question": "Переведи слово 'Театр'", "correctAnswer": "Teatro", "wrongAnswers": ["Cine", "Circo", "Sala de conciertos"]},
+        {"id": 4, "question": "Переведи слово 'Кинотеатр'", "correctAnswer": "Cine", "wrongAnswers": ["Teatro", "Concierto", "Club"]},
+        {"id": 5, "question": "Переведи слово 'Банк'", "correctAnswer": "Banco", "wrongAnswers": ["Oficina", "Tienda", "Restaurante"]}
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Природа: дерево, цветок, река, гора, озеро",
+      "description": "Природные объекты",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Дерево'", "correctAnswer": "Árbol", "wrongAnswers": ["Flor", "Hierba", "Arbusto"]},
+        {"id": 2, "question": "Переведи слово 'Цветок'", "correctAnswer": "Flor", "wrongAnswers": ["Árbol", "Hierba", "Hoja"]},
+        {"id": 3, "question": "Переведи слово 'Река'", "correctAnswer": "Río", "wrongAnswers": ["Lago", "Mar", "Océano"]},
+        {"id": 4, "question": "Переведи слово 'Гора'", "correctAnswer": "Montaña", "wrongAnswers": ["Colina", "Roca", "Volcán"]},
+        {"id": 5, "question": "Переведи слово 'Озеро'", "correctAnswer": "Lago", "wrongAnswers": ["Río", "Estanque", "Mar"]}
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Природа: лес, океан, остров, водопад, пустыня",
+      "description": "Ландшафты",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Лес'", "correctAnswer": "Bosque", "wrongAnswers": ["Parque", "Jardín", "Arboleda"]},
+        {"id": 2, "question": "Переведи слово 'Океан'", "correctAnswer": "Océano", "wrongAnswers": ["Mar", "Río", "Lago"]},
+        {"id": 3, "question": "Переведи слово 'Остров'", "correctAnswer": "Isla", "wrongAnswers": ["Península", "Archipiélago", "Playa"]},
+        {"id": 4, "question": "Переведи слово 'Водопад'", "correctAnswer": "Cascada", "wrongAnswers": ["Lago", "Río", "Arroyo"]},
+        {"id": 5, "question": "Переведи слово 'Пустыня'", "correctAnswer": "Desierto", "wrongAnswers": ["Estepa", "Tundra", "Sabana"]}
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Хобби: чтение, рисование, музыка, пение, танцы",
+      "description": "Занятия в свободное время",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Чтение'", "correctAnswer": "Leer", "wrongAnswers": ["Escribir", "Dibujar", "Cantar"]},
+        {"id": 2, "question": "Переведи слово 'Рисование'", "correctAnswer": "Dibujar", "wrongAnswers": ["Esculpir", "Bordar", "Tejer"]},
+        {"id": 3, "question": "Переведи слово 'Музыка'", "correctAnswer": "Música", "wrongAnswers": ["Baile", "Canto", "Actuación"]},
+        {"id": 4, "question": "Переведи слово 'Пение'", "correctAnswer": "Cantar", "wrongAnswers": ["Bailar", "Jugar", "Dibujar"]},
+        {"id": 5, "question": "Переведи слово 'Танцы'", "correctAnswer": "Bailar", "wrongAnswers": ["Ballet", "Deporte", "Gimnasia"]}
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Хобби: готовка, садоводство, путешествие, спорт, игра",
+      "description": "Другие хобби",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Готовка'", "correctAnswer": "Cocinar", "wrongAnswers": ["Hornear", "Gourmet", "Cocina"]},
+        {"id": 2, "question": "Переведи слово 'Садоводство'", "correctAnswer": "Jardinería", "wrongAnswers": ["Floristería", "Agricultura", "Agro"]},
+        {"id": 3, "question": "Переведи слово 'Путешествие'", "correctAnswer": "Viajar", "wrongAnswers": ["Excursión", "Turismo", "Paseo"]},
+        {"id": 4, "question": "Переведи слово 'Спорт'", "correctAnswer": "Deporte", "wrongAnswers": ["Juego", "Entretenimiento", "Entrenamiento"]},
+        {"id": 5, "question": "Переведи слово 'Игра'", "correctAnswer": "Juego", "wrongAnswers": ["Deporte", "Entretenimiento", "Competición"]}
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Спорт: футбол, баскетбол, теннис, плавание, бег",
+      "description": "Популярные виды спорта",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Футбол'", "correctAnswer": "Fútbol", "wrongAnswers": ["Baloncesto", "Tenis", "Voleibol"]},
+        {"id": 2, "question": "Переведи слово 'Баскетбол'", "correctAnswer": "Baloncesto", "wrongAnswers": ["Fútbol", "Tenis", "Voleibol"]},
+        {"id": 3, "question": "Переведи слово 'Теннис'", "correctAnswer": "Tenis", "wrongAnswers": ["Tenis de mesa", "Squash", "Bádminton"]},
+        {"id": 4, "question": "Переведи слово 'Плавание'", "correctAnswer": "Natación", "wrongAnswers": ["Correr", "Saltar", "Ciclismo"]},
+        {"id": 5, "question": "Переведи слово 'Бег'", "correctAnswer": "Correr", "wrongAnswers": ["Caminar", "Esprintar", "Maratón"]}
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Спорт: поход, шахматы, рыбалка, лыжи, волейбол",
+      "description": "Другие виды активности",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Поход'", "correctAnswer": "Senderismo", "wrongAnswers": ["Pasear", "Picnic", "Viajar"]},
+        {"id": 2, "question": "Переведи слово 'Шахматы'", "correctAnswer": "Ajedrez", "wrongAnswers": ["Damas", "Dominó", "Cartas"]},
+        {"id": 3, "question": "Переведи слово 'Рыбалка'", "correctAnswer": "Pesca", "wrongAnswers": ["Caza", "Natación", "Navegar"]},
+        {"id": 4, "question": "Переведи слово 'Лыжи'", "correctAnswer": "Esquí", "wrongAnswers": ["Snowboard", "Patinaje", "Trineo"]},
+        {"id": 5, "question": "Переведи слово 'Волейбол'", "correctAnswer": "Voleibol", "wrongAnswers": ["Baloncesto", "Tenis", "Fútbol"]}
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Прилагательные: большой, маленький, счастливый, грустный, злой",
+      "description": "Основные прилагательные",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Большой'", "correctAnswer": "Grande", "wrongAnswers": ["Pequeño", "Alto", "Bajo"]},
+        {"id": 2, "question": "Переведи слово 'Маленький'", "correctAnswer": "Pequeño", "wrongAnswers": ["Grande", "Delgado", "Gordo"]},
+        {"id": 3, "question": "Переведи слово 'Счастливый'", "correctAnswer": "Feliz", "wrongAnswers": ["Triste", "Enojado", "Cansado"]},
+        {"id": 4, "question": "Переведи слово 'Грустный'", "correctAnswer": "Triste", "wrongAnswers": ["Feliz", "Enojado", "Sorprendido"]},
+        {"id": 5, "question": "Переведи слово 'Злой'", "correctAnswer": "Enojado", "wrongAnswers": ["Amable", "Triste", "Asustado"]}
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Прилагательные: красивый, уродливый, старый, молодой, высокий",
+      "description": "Описание внешности и возраста",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Красивый'", "correctAnswer": "Bonito", "wrongAnswers": ["Feo", "Joven", "Viejo"]},
+        {"id": 2, "question": "Переведи слово 'Уродливый'", "correctAnswer": "Feo", "wrongAnswers": ["Bonito", "Lindisimo", "Horrible"]},
+        {"id": 3, "question": "Переведи слово 'Старый'", "correctAnswer": "Viejo", "wrongAnswers": ["Joven", "Nuevo", "Antiguo"]},
+        {"id": 4, "question": "Переведи слово 'Молодой'", "correctAnswer": "Joven", "wrongAnswers": ["Viejo", "Grande", "Pequeño"]},
+        {"id": 5, "question": "Переведи слово 'Высокий (о росте)'", "correctAnswer": "Alto", "wrongAnswers": ["Pequeño", "Largo", "Corto"]}
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Прилагательные: низкий, длинный, короткий, широкий, узкий",
+      "description": "Размер и форма",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Низкий/короткий'", "correctAnswer": "Corto", "wrongAnswers": ["Largo", "Ancho", "Estrecho"]},
+        {"id": 2, "question": "Переведи слово 'Длинный'", "correctAnswer": "Largo", "wrongAnswers": ["Corto", "Ancho", "Angosto"]},
+        {"id": 3, "question": "Переведи слово 'Широкий'", "correctAnswer": "Ancho", "wrongAnswers": ["Estrecho", "Largo", "Corto"]},
+        {"id": 4, "question": "Переведи слово 'Узкий'", "correctAnswer": "Estrecho", "wrongAnswers": ["Ancho", "Largo", "Corto"]},
+        {"id": 5, "question": "Переведи слово 'Глубокий'", "correctAnswer": "Profundo", "wrongAnswers": ["Poco profundo", "Alto", "Bajo"]}
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Глаголы: быть, иметь, делать, идти, приходить",
+      "description": "Основные глаголы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Быть'", "correctAnswer": "Ser / Estar", "wrongAnswers": ["Tener", "Hacer", "Decir"]},
+        {"id": 2, "question": "Переведи слово 'Иметь'", "correctAnswer": "Tener", "wrongAnswers": ["Ser", "Hacer", "Tomar"]},
+        {"id": 3, "question": "Переведи слово 'Делать'", "correctAnswer": "Hacer", "wrongAnswers": ["Tomar", "Dar", "Ir"]},
+        {"id": 4, "question": "Переведи слово 'Идти'", "correctAnswer": "Ir", "wrongAnswers": ["Venir", "Ver", "Mirar"]},
+        {"id": 5, "question": "Переведи слово 'Приходить'", "correctAnswer": "Venir", "wrongAnswers": ["Ir", "Volver", "Marcharse"]}
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Глаголы: видеть, слышать, говорить, читать, писать",
+      "description": "Восприятие и коммуникация",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Видеть'", "correctAnswer": "Ver", "wrongAnswers": ["Mirar", "Observar", "Contemplar"]},
+        {"id": 2, "question": "Переведи слово 'Слышать'", "correctAnswer": "Oír", "wrongAnswers": ["Escuchar", "Entender", "Sentir"]},
+        {"id": 3, "question": "Переведи слово 'Говорить'", "correctAnswer": "Hablar", "wrongAnswers": ["Decir", "Contar", "Explicar"]},
+        {"id": 4, "question": "Переведи слово 'Читать'", "correctAnswer": "Leer", "wrongAnswers": ["Escribir", "Estudiar", "Repetir"]},
+        {"id": 5, "question": "Переведи слово 'Писать'", "correctAnswer": "Escribir", "wrongAnswers": ["Dibujar", "Leer", "Imprimir"]}
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Глаголы: есть, пить, спать, просыпаться, бежать",
+      "description": "Действия и состояния",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Есть'", "correctAnswer": "Comer", "wrongAnswers": ["Beber", "Dormir", "Correr"]},
+        {"id": 2, "question": "Переведи слово 'Пить'", "correctAnswer": "Beber", "wrongAnswers": ["Comer", "Respirar", "Hablar"]},
+        {"id": 3, "question": "Переведи слово 'Спать'", "correctAnswer": "Dormir", "wrongAnswers": ["Despertar", "Descansar", "Trabajar"]},
+        {"id": 4, "question": "Переведи слово 'Просыпаться'", "correctAnswer": "Despertar", "wrongAnswers": ["Dormirse", "Levantarse", "Acostarse"]},
+        {"id": 5, "question": "Переведи слово 'Бежать'", "correctAnswer": "Correr", "wrongAnswers": ["Andar", "Saltar", "Nadar"]}
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Глаголы: давать, брать, покупать, продавать, платить",
+      "description": "Действия с предметами и деньгами",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Давать'", "correctAnswer": "Dar", "wrongAnswers": ["Tomar", "Recibir", "Ofrecer"]},
+        {"id": 2, "question": "Переведи слово 'Брать'", "correctAnswer": "Tomar", "wrongAnswers": ["Dar", "Poner", "Sostener"]},
+        {"id": 3, "question": "Переведи слово 'Покупать'", "correctAnswer": "Comprar", "wrongAnswers": ["Vender", "Pagar", "Pedir"]},
+        {"id": 4, "question": "Переведи слово 'Продавать'", "correctAnswer": "Vender", "wrongAnswers": ["Comprar", "Cambiar", "Dar"]},
+        {"id": 5, "question": "Переведи слово 'Платить'", "correctAnswer": "Pagar", "wrongAnswers": ["Recibir", "Gastar", "Ganar"]}
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Предлоги места: в, на, под, за, перед",
+      "description": "Основные предлоги",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'В'", "correctAnswer": "En", "wrongAnswers": ["Sobre", "Debajo", "Detrás"]},
+        {"id": 2, "question": "Переведи слово 'На'", "correctAnswer": "Sobre", "wrongAnswers": ["En", "Debajo", "Detrás"]},
+        {"id": 3, "question": "Переведи слово 'Под'", "correctAnswer": "Debajo de", "wrongAnswers": ["Encima de", "Entre", "Al lado de"]},
+        {"id": 4, "question": "Переведи слово 'За'", "correctAnswer": "Detrás de", "wrongAnswers": ["Delante de", "Entre", "Debajo de"]},
+        {"id": 5, "question": "Переведи слово 'Перед'", "correctAnswer": "Delante de", "wrongAnswers": ["Detrás de", "Al lado de", "Junto a"]}
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Предлоги места: между, рядом, над, ниже, у",
+      "description": "Дополнительные предлоги",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Между'", "correctAnswer": "Entre", "wrongAnswers": ["Debajo de", "Al lado de", "En"]},
+        {"id": 2, "question": "Переведи слово 'Рядом с'", "correctAnswer": "Al lado de", "wrongAnswers": ["Junto a", "Cerca de", "A la par de"]},
+        {"id": 3, "question": "Переведи слово 'Над'", "correctAnswer": "Encima de", "wrongAnswers": ["Debajo de", "Abajo", "Arriba"]},
+        {"id": 4, "question": "Переведи слово 'Ниже'", "correctAnswer": "Debajo de", "wrongAnswers": ["Encima de", "Al lado de", "Abajo"]},
+        {"id": 5, "question": "Переведи слово 'У (возле)'", "correctAnswer": "Junto a", "wrongAnswers": ["En", "Sobre", "Cerca"]}
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Предлоги: о, для, с, без, через",
+      "description": "Другие предлоги",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'О (о чём)'", "correctAnswer": "Sobre", "wrongAnswers": ["Para", "Con", "A través de"]},
+        {"id": 2, "question": "Переведи слово 'Для'", "correctAnswer": "Para", "wrongAnswers": ["Por", "Durante", "A favor de"]},
+        {"id": 3, "question": "Переведи слово 'С'", "correctAnswer": "Con", "wrongAnswers": ["Sin", "Para", "Sobre"]},
+        {"id": 4, "question": "Переведи слово 'Без'", "correctAnswer": "Sin", "wrongAnswers": ["Con", "Para", "Sobre"]},
+        {"id": 5, "question": "Переведи слово 'Через'", "correctAnswer": "A través de", "wrongAnswers": ["Por", "Detrás de", "En"]}
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Личные местоимения: я, ты, он, она, оно",
+      "description": "Основные местоимения",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Я'", "correctAnswer": "Yo", "wrongAnswers": ["Tú", "Él", "Nosotros"]},
+        {"id": 2, "question": "Переведи слово 'Ты (вы)'", "correctAnswer": "Tú (Usted)", "wrongAnswers": ["Yo", "Él", "Ella"]},
+        {"id": 3, "question": "Переведи слово 'Он'", "correctAnswer": "Él", "wrongAnswers": ["Ella", "Ello", "Nosotros"]},
+        {"id": 4, "question": "Переведи слово 'Она'", "correctAnswer": "Ella", "wrongAnswers": ["Él", "Ello", "Nosotros"]},
+        {"id": 5, "question": "Переведи слово 'Оно'", "correctAnswer": "Ello", "wrongAnswers": ["Él", "Ella", "Eso"]}
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Местоимения: мы, они, мой, твой, его",
+      "description": "Множественное число и притяжательные",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Мы'", "correctAnswer": "Nosotros", "wrongAnswers": ["Vosotros", "Ellos", "Yo"]},
+        {"id": 2, "question": "Переведи слово 'Они'", "correctAnswer": "Ellos", "wrongAnswers": ["Nosotros", "Vosotros", "Aquellos"]},
+        {"id": 3, "question": "Переведи слово 'Мой'", "correctAnswer": "Mi", "wrongAnswers": ["Tu", "Su", "Nuestro"]},
+        {"id": 4, "question": "Переведи слово 'Твой (ваш)'", "correctAnswer": "Tu (Su)", "wrongAnswers": ["Mi", "Su", "Nuestro"]},
+        {"id": 5, "question": "Переведи слово 'Его'", "correctAnswer": "Su", "wrongAnswers": ["Mi", "Nuestro", "Tu"]}
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Местоимения: ее, наш, ваш, их, меня",
+      "description": "Притяжательные и объектные",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Ее'", "correctAnswer": "Su", "wrongAnswers": ["Sus", "Nuestro", "Vuestro"]},
+        {"id": 2, "question": "Переведи слово 'Наш'", "correctAnswer": "Nuestro", "wrongAnswers": ["Vuestro", "Su", "Mi"]},
+        {"id": 3, "question": "Переведи слово 'Ваш (ваши)'", "correctAnswer": "Vuestro", "wrongAnswers": ["Nuestro", "Su", "Mi"]},
+        {"id": 4, "question": "Переведи слово 'Их'", "correctAnswer": "Su", "wrongAnswers": ["Nuestro", "Vuestro", "Mi"]},
+        {"id": 5, "question": "Переведи слово 'Меня (мне)'", "correctAnswer": "Me", "wrongAnswers": ["Te", "Lo", "Nos"]}
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Местоимения: тебя, его, ее, нас, вас",
+      "description": "Объектные местоимения",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Тебя (вас)'", "correctAnswer": "Te (Le)", "wrongAnswers": ["Me", "Lo", "Nos"]},
+        {"id": 2, "question": "Переведи слово 'Его (ему)'", "correctAnswer": "Lo", "wrongAnswers": ["La", "Nos", "Os"]},
+        {"id": 3, "question": "Переведи слово 'Ее (ей)'", "correctAnswer": "La", "wrongAnswers": ["Lo", "Nos", "Os"]},
+        {"id": 4, "question": "Переведи слово 'Нас (нам)'", "correctAnswer": "Nos", "wrongAnswers": ["Os", "Lo", "Me"]},
+        {"id": 5, "question": "Переведи слово 'Их (им)'", "correctAnswer": "Los", "wrongAnswers": ["Nos", "Os", "Me"]}
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Вопросительные слова: что, кто, где, когда, почему",
+      "description": "Основные вопросы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Что'", "correctAnswer": "Qué", "wrongAnswers": ["Quién", "Dónde", "Cuándo"]},
+        {"id": 2, "question": "Переведи слово 'Кто'", "correctAnswer": "Quién", "wrongAnswers": ["Qué", "Dónde", "Por qué"]},
+        {"id": 3, "question": "Переведи слово 'Где'", "correctAnswer": "Dónde", "wrongAnswers": ["Cuándo", "Por qué", "Cómo"]},
+        {"id": 4, "question": "Переведи слово 'Когда'", "correctAnswer": "Cuándo", "wrongAnswers": ["Dónde", "Por qué", "Cómo"]},
+        {"id": 5, "question": "Переведи слово 'Почему'", "correctAnswer": "Por qué", "wrongAnswers": ["Qué", "Cuándo", "Cómo"]}
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Вопросительные слова: как, который, чей, сколько (цена), сколько (количество)",
+      "description": "Дополнительные вопросы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Как'", "correctAnswer": "Cómo", "wrongAnswers": ["Cuánto", "De dónde", "A dónde"]},
+        {"id": 2, "question": "Переведи слово 'Который'", "correctAnswer": "Cuál", "wrongAnswers": ["Qué", "Quién", "De quién"]},
+        {"id": 3, "question": "Переведи слово 'Чей'", "correctAnswer": "De quién", "wrongAnswers": ["A quién", "Qué", "Cuál"]},
+        {"id": 4, "question": "Переведи слово 'Сколько (стоит)'", "correctAnswer": "Cuánto", "wrongAnswers": ["Cuántos", "Por qué", "Dónde"]},
+        {"id": 5, "question": "Переведи слово 'Сколько (количество)'", "correctAnswer": "Cuántos", "wrongAnswers": ["Cuánto", "Por qué", "Dónde"]}
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Здоровье: здоровье, боль, лекарство, доктор, больница",
+      "description": "Термины о здоровье",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Здоровье'", "correctAnswer": "Salud", "wrongAnswers": ["Enfermedad", "Tratamiento", "Deporte"]},
+        {"id": 2, "question": "Переведи слово 'Боль'", "correctAnswer": "Dolor", "wrongAnswers": ["Tratamiento", "Enfermedad", "Síntoma"]},
+        {"id": 3, "question": "Переведи слово 'Лекарство'", "correctAnswer": "Medicamento", "wrongAnswers": ["Enfermedad", "Salud", "Médico"]},
+        {"id": 4, "question": "Переведи слово 'Доктор'", "correctAnswer": "Médico", "wrongAnswers": ["Enfermera", "Cirujano", "Farmacéutico"]},
+        {"id": 5, "question": "Переведи слово 'Больница'", "correctAnswer": "Hospital", "wrongAnswers": ["Clínica", "Farmacia", "Policlínico"]}
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Здоровье: аптека, кашель, жар, головная боль, грипп",
+      "description": "Симптомы и места",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Аптека'", "correctAnswer": "Farmacia", "wrongAnswers": ["Hospital", "Clínica", "Consultorio"]},
+        {"id": 2, "question": "Переведи слово 'Кашель'", "correctAnswer": "Tos", "wrongAnswers": ["Resfriado", "Estornudo", "Dolor de cabeza"]},
+        {"id": 3, "question": "Переведи слово 'Жар'", "correctAnswer": "Fiebre", "wrongAnswers": ["Temperatura", "Escalofríos", "Gripe"]},
+        {"id": 4, "question": "Переведи слово 'Головная боль'", "correctAnswer": "Dolor de cabeza", "wrongAnswers": ["Dolor de espalda", "Dolor de garganta", "Dolor de muelas"]},
+        {"id": 5, "question": "Переведи слово 'Грипп'", "correctAnswer": "Gripe", "wrongAnswers": ["Resfriado", "Virus", "Infección"]}
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Технологии: компьютер, телефон, интернет, почта, сайт",
+      "description": "Основные термины IT",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Компьютер'", "correctAnswer": "Ordenador", "wrongAnswers": ["Portátil", "Teléfono", "Tableta"]},
+        {"id": 2, "question": "Переведи слово 'Телефон'", "correctAnswer": "Teléfono", "wrongAnswers": ["Ordenador", "Tableta", "Televisor"]},
+        {"id": 3, "question": "Переведи слово 'Интернет'", "correctAnswer": "Internet", "wrongAnswers": ["Sitio web", "Correo electrónico", "Red social"]},
+        {"id": 4, "question": "Переведи слово 'Электронная почта'", "correctAnswer": "Correo electrónico", "wrongAnswers": ["Mensaje", "Chat", "Carta"]},
+        {"id": 5, "question": "Переведи слово 'Веб-сайт'", "correctAnswer": "Sitio web", "wrongAnswers": ["Página", "Navegador", "Buscador"]}
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Технологии: пароль, загрузка, приложение, устройство, обновление",
+      "description": "Действия и объекты в сети",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Пароль'", "correctAnswer": "Contraseña", "wrongAnswers": ["Usuario", "PIN", "Clave"]},
+        {"id": 2, "question": "Переведи слово 'Скачать'", "correctAnswer": "Descargar", "wrongAnswers": ["Subir", "Abrir", "Guardar"]},
+        {"id": 3, "question": "Переведи слово 'Приложение'", "correctAnswer": "Aplicación", "wrongAnswers": ["Programa", "Juego", "Sitio web"]},
+        {"id": 4, "question": "Переведи слово 'Устройство'", "correctAnswer": "Dispositivo", "wrongAnswers": ["Aparato", "Electrónica", "Tecnología"]},
+        {"id": 5, "question": "Переведи слово 'Обновление'", "correctAnswer": "Actualización", "wrongAnswers": ["Descarga", "Instalación", "Sincronización"]}
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Путешествия: путешествие, отель, билет, паспорт, рейс",
+      "description": "Слова для поездок",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Путешествие'", "correctAnswer": "Viaje", "wrongAnswers": ["Excursión", "Turismo", "Paseo"]},
+        {"id": 2, "question": "Переведи слово 'Отель'", "correctAnswer": "Hotel", "wrongAnswers": ["Albergue", "Apartamento vacacional", "Motel"]},
+        {"id": 3, "question": "Переведи слово 'Билет'", "correctAnswer": "Billete", "wrongAnswers": ["Pasaporte", "Visado", "Tarjeta"]},
+        {"id": 4, "question": "Переведи слово 'Паспорт'", "correctAnswer": "Pasaporte", "wrongAnswers": ["Visado", "DNI", "Documento"]},
+        {"id": 5, "question": "Переведи слово 'Рейс'", "correctAnswer": "Vuelo", "wrongAnswers": ["Ruta", "Viaje", "Vuelo"]}
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Путешествия: багаж, турист, карта, бронирование, сувенир",
+      "description": "Снаряжение и действия",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Багаж'", "correctAnswer": "Equipaje", "wrongAnswers": ["Mochila", "Maleta", "Bolsa"]},
+        {"id": 2, "question": "Переведи слово 'Турист'", "correctAnswer": "Turista", "wrongAnswers": ["Viajero", "Visitante", "Huésped"]},
+        {"id": 3, "question": "Переведи слово 'Карта'", "correctAnswer": "Mapa", "wrongAnswers": ["Plano", "Diagrama", "Guía"]},
+        {"id": 4, "question": "Переведи слово 'Бронирование'", "correctAnswer": "Reserva", "wrongAnswers": ["Pedido", "Compra", "Registro"]},
+        {"id": 5, "question": "Переведи слово 'Сувенир'", "correctAnswer": "Recuerdo", "wrongAnswers": ["Regalo", "Memoria", "Foto"]}
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Искусство: живопись, скульптура, галерея, художник, музей",
+      "description": "Термины искусства",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Живопись'", "correctAnswer": "Pintura", "wrongAnswers": ["Escultura", "Dibujo", "Fotografía"]},
+        {"id": 2, "question": "Переведи слово 'Скульптура'", "correctAnswer": "Escultura", "wrongAnswers": ["Estatua", "Monumento", "Relieve"]},
+        {"id": 3, "question": "Переведи слово 'Галерея'", "correctAnswer": "Galería", "wrongAnswers": ["Museo", "Exposición", "Salón"]},
+        {"id": 4, "question": "Переведи слово 'Художник'", "correctAnswer": "Artista", "wrongAnswers": ["Escultor", "Arquitecto", "Diseñador"]},
+        {"id": 5, "question": "Переведи слово 'Музей'", "correctAnswer": "Museo", "wrongAnswers": ["Galería", "Exposición", "Biblioteca"]}
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Праздники: день рождения, Рождество, Пасха, Новый год, свадьба",
+      "description": "Популярные праздники",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'День рождения'", "correctAnswer": "Cumpleaños", "wrongAnswers": ["Año Nuevo", "Boda", "Aniversario"]},
+        {"id": 2, "question": "Переведи слово 'Рождество'", "correctAnswer": "Navidad", "wrongAnswers": ["Pascua", "Halloween", "Día de Acción de Gracias"]},
+        {"id": 3, "question": "Переведи слово 'Пасха'", "correctAnswer": "Pascua", "wrongAnswers": ["Navidad", "San Valentín", "Carnaval"]},
+        {"id": 4, "question": "Переведи слово 'Новый год'", "correctAnswer": "Año Nuevo", "wrongAnswers": ["Navidad", "Cumpleaños", "Aniversario"]},
+        {"id": 5, "question": "Переведи слово 'Свадьба'", "correctAnswer": "Boda", "wrongAnswers": ["Aniversario", "Compromiso", "Celebración"]}
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Праздники: Хэллоуин, День благодарения, День Валентина, фестиваль, церемония",
+      "description": "Другие праздники",
+      "difficulty": 3,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Хэллоуин'", "correctAnswer": "Halloween", "wrongAnswers": ["Día de Todos los Santos", "Carnaval", "Festival"]},
+        {"id": 2, "question": "Переведи слово 'День благодарения'", "correctAnswer": "Día de Acción de Gracias", "wrongAnswers": ["Pascua", "Navidad", "Año Nuevo"]},
+        {"id": 3, "question": "Переведи слово 'День святого Валентина'", "correctAnswer": "Día de San Valentín", "wrongAnswers": ["Día de los Enamorados", "Día de los Amigos", "Día de la Familia"]},
+        {"id": 4, "question": "Переведи слово 'Фестиваль'", "correctAnswer": "Festival", "wrongAnswers": ["Carnaval", "Celebración", "Ceremonia"]},
+        {"id": 5, "question": "Переведи слово 'Церемония'", "correctAnswer": "Ceremonia", "wrongAnswers": ["Rito", "Solemnidad", "Función"]}
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Эмоции: счастливый, грустный, злой, удивленный, испуганный",
+      "description": "Основные эмоции",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Счастливый'", "correctAnswer": "Feliz", "wrongAnswers": ["Triste", "Enojado", "Sorprendido"]},
+        {"id": 2, "question": "Переведи слово 'Грустный'", "correctAnswer": "Triste", "wrongAnswers": ["Feliz", "Enojado", "Asustado"]},
+        {"id": 3, "question": "Переведи слово 'Злой'", "correctAnswer": "Enojado", "wrongAnswers": ["Amable", "Triste", "Asustado"]},
+        {"id": 4, "question": "Переведи слово 'Удивленный'", "correctAnswer": "Sorprendido", "wrongAnswers": ["Decepcionado", "Emocionado", "Asustado"]},
+        {"id": 5, "question": "Переведи слово 'Испуганный'", "correctAnswer": "Asustado", "wrongAnswers": ["Valiente", "Triste", "Enojado"]}
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Эмоции: уставший, голодный, жаждущий, скучающий, взволнованный",
+      "description": "Состояния и чувства",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Уставший'", "correctAnswer": "Cansado", "wrongAnswers": ["Energético", "Despierto", "Somnoliento"]},
+        {"id": 2, "question": "Переведи слово 'Голодный'", "correctAnswer": "Hambriento", "wrongAnswers": ["Lleno", "Sediento", "Cansado"]},
+        {"id": 3, "question": "Переведи слово 'Жаждущий'", "correctAnswer": "Sediento", "wrongAnswers": ["Hambriento", "Lleno", "Cansado"]},
+        {"id": 4, "question": "Переведи слово 'Скучающий'", "correctAnswer": "Aburrido", "wrongAnswers": ["Interesado", "Cansado", "Enojado"]},
+        {"id": 5, "question": "Переведи слово 'Взволнованный'", "correctAnswer": "Emocionado", "wrongAnswers": ["Tranquilo", "Triste", "Cansado"]}
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Природа: небо, солнце, луна, звезда, облако",
+      "description": "Небесные тела",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Небо'", "correctAnswer": "Cielo", "wrongAnswers": ["Tierra", "Océano", "Montaña"]},
+        {"id": 2, "question": "Переведи слово 'Солнце'", "correctAnswer": "Sol", "wrongAnswers": ["Luna", "Estrella", "Nube"]},
+        {"id": 3, "question": "Переведи слово 'Луна'", "correctAnswer": "Luna", "wrongAnswers": ["Sol", "Planeta", "Cometa"]},
+        {"id": 4, "question": "Переведи слово 'Звезда'", "correctAnswer": "Estrella", "wrongAnswers": ["Planeta", "Sol", "Luna"]},
+        {"id": 5, "question": "Переведи слово 'Облако'", "correctAnswer": "Nube", "wrongAnswers": ["Niebla", "Lluvia", "Nieve"]}
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Время суток: рассвет, восход, закат, сумерки, ночь",
+      "description": "Переходные моменты дня",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи слово 'Рассвет'", "correctAnswer": "Amanecer", "wrongAnswers": ["Atardecer", "Anochecer", "Crepúsculo"]},
+        {"id": 2, "question": "Переведи слово 'Восход'", "correctAnswer": "Salida del sol", "wrongAnswers": ["Puesta de sol", "Amanecer", "Crepúsculo"]},
+        {"id": 3, "question": "Переведи слово 'Закат'", "correctAnswer": "Puesta de sol", "wrongAnswers": ["Salida del sol", "Amanecer", "Noche"]},
+        {"id": 4, "question": "Переведи слово 'Сумерки'", "correctAnswer": "Crepúsculo", "wrongAnswers": ["Amanecer", "Puesta de sol", "Noche"]},
+        {"id": 5, "question": "Переведи слово 'Ночь'", "correctAnswer": "Noche", "wrongAnswers": ["Día", "Tarde", "Mañana"]}
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Базовые фразы: Как дела? У меня хорошо, Как тебя зовут? Меня зовут..., Приятно познакомиться",
+      "description": "Разговорные фразы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи фразу 'Как дела?'", "correctAnswer": "¿Qué tal?", "wrongAnswers": ["¿Cómo te llamas?", "¿De dónde eres?", "¿Cuántos años tienes?"]},
+        {"id": 2, "question": "Переведи фразу 'У меня хорошо, спасибо'", "correctAnswer": "Bien, gracias", "wrongAnswers": ["Mal", "Estoy enfermo", "Genial"]},
+        {"id": 3, "question": "Переведи фразу 'Как тебя зовут?'", "correctAnswer": "¿Cómo te llamas?", "wrongAnswers": ["¿Cuántos años tienes?", "¿De dónde eres?", "¿Qué haces?"]},
+        {"id": 4, "question": "Переведи фразу 'Меня зовут...'", "correctAnswer": "Me llamo...", "wrongAnswers": ["Mi nombre es...", "Yo soy...", "Soy..."]},
+        {"id": 5, "question": "Переведи фразу 'Приятно познакомиться'", "correctAnswer": "Mucho gusto", "wrongAnswers": ["Adiós", "¿Qué tal?", "Perdón"]}
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Базовые фразы: Откуда ты? Я из..., Сколько тебе лет? Мне... лет, Кем ты работаешь?",
+      "description": "Личные вопросы",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Spanish",
+      "tasks": [
+        {"id": 1, "question": "Переведи фразу 'Откуда ты?'", "correctAnswer": "¿De dónde eres?", "wrongAnswers": ["¿Dónde estás?", "¿A dónde vas?", "¿Cuándo llegaste?"]},
+        {"id": 2, "question": "Переведи фразу 'Я из...'", "correctAnswer": "Soy de...", "wrongAnswers": ["Vivo en...", "Nací en...", "Vengo de..."]},
+        {"id": 3, "question": "Переведи фразу 'Сколько тебе лет?'", "correctAnswer": "¿Cuántos años tienes?", "wrongAnswers": ["¿Cómo te llamas?", "¿De dónde eres?", "¿Qué haces?"]},
+        {"id": 4, "question": "Переведи фразу 'Мне ... лет'", "correctAnswer": "Tengo ... años", "wrongAnswers": ["Mi edad es ...", "Soy ...", "He cumplido ... años"]},
+        {"id": 5, "question": "Переведи фразу 'Кем ты работаешь?'", "correctAnswer": "¿A qué te dedicas?", "wrongAnswers": ["¿Qué haces?", "¿Dónde estudias?", "¿Cuál es tu profesión?"]}
       ]
     }
   ]
