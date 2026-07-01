@@ -1,1 +1,404 @@
-
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Приветствия",
+      "description": "Основные слова для приветствия и прощания",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Hello'?",
+          "correctAnswer": "こんにちは",
+          "wrongAnswers": ["さようなら", "はい", "ありがとう"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Goodbye'?",
+          "correctAnswer": "さようなら",
+          "wrongAnswers": ["こんにちは", "おはよう", "おやすみ"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Please'?",
+          "correctAnswer": "お願いします",
+          "wrongAnswers": ["ありがとう", "すみません", "はい"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Thank you'?",
+          "correctAnswer": "ありがとう",
+          "wrongAnswers": ["お願いします", "すみません", "こんにちは"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Sorry'?",
+          "correctAnswer": "すみません",
+          "wrongAnswers": ["ありがとう", "お願いします", "こんにちは"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Вежливые фразы",
+      "description": "Выражения вежливости и извинения",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Excuse me'?",
+          "correctAnswer": "失礼します",
+          "wrongAnswers": ["お願いします", "ありがとう", "ごめんなさい"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'You're welcome'?",
+          "correctAnswer": "どういたしまして",
+          "wrongAnswers": ["ありがとう", "失礼します", "お願いします"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'No problem'?",
+          "correctAnswer": "問題ない",
+          "wrongAnswers": ["問題", "ない", "ありがとう"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Have a nice day'?",
+          "correctAnswer": "良い一日を",
+          "wrongAnswers": ["おはよう", "おやすみ", "さようなら"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'I'm sorry'?",
+          "correctAnswer": "ごめんなさい",
+          "wrongAnswers": ["すみません", "ありがとう", "失礼"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Да / Нет и согласие",
+      "description": "Слова для выражения согласия и отрицания",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Yes'?",
+          "correctAnswer": "はい",
+          "wrongAnswers": ["いいえ", "かもしれない", "もちろん"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'No'?",
+          "correctAnswer": "いいえ",
+          "wrongAnswers": ["はい", "かもしれない", "決して"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Maybe'?",
+          "correctAnswer": "かもしれない",
+          "wrongAnswers": ["はい", "いいえ", "もちろん"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Of course'?",
+          "correctAnswer": "もちろん",
+          "wrongAnswers": ["かもしれない", "はい", "いいえ"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Not really'?",
+          "correctAnswer": "あまり",
+          "wrongAnswers": ["いいえ", "はい", "もちろん"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Числа 1-5",
+      "description": "Учим числа от одного до пяти",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'One'?",
+          "correctAnswer": "一",
+          "wrongAnswers": ["二", "三", "四"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Two'?",
+          "correctAnswer": "二",
+          "wrongAnswers": ["一", "三", "五"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Three'?",
+          "correctAnswer": "三",
+          "wrongAnswers": ["一", "二", "四"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Four'?",
+          "correctAnswer": "四",
+          "wrongAnswers": ["五", "六", "三"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Five'?",
+          "correctAnswer": "五",
+          "wrongAnswers": ["四", "六", "七"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Числа 6-10",
+      "description": "Числа от шести до десяти",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Six'?",
+          "correctAnswer": "六",
+          "wrongAnswers": ["七", "八", "五"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Seven'?",
+          "correctAnswer": "七",
+          "wrongAnswers": ["六", "八", "九"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Eight'?",
+          "correctAnswer": "八",
+          "wrongAnswers": ["七", "九", "十"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Nine'?",
+          "correctAnswer": "九",
+          "wrongAnswers": ["七", "八", "十"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Ten'?",
+          "correctAnswer": "十",
+          "wrongAnswers": ["十一", "十二", "九"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Числа 11-15",
+      "description": "Числа от одиннадцати до пятнадцати",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Eleven'?",
+          "correctAnswer": "十一",
+          "wrongAnswers": ["十二", "十三", "十"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Twelve'?",
+          "correctAnswer": "十二",
+          "wrongAnswers": ["十一", "十三", "十四"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Thirteen'?",
+          "correctAnswer": "十三",
+          "wrongAnswers": ["十二", "十四", "十五"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Fourteen'?",
+          "correctAnswer": "十四",
+          "wrongAnswers": ["十三", "十五", "十六"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Fifteen'?",
+          "correctAnswer": "十五",
+          "wrongAnswers": ["十三", "十四", "十六"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Числа 16-20",
+      "description": "Числа от шестнадцати до двадцати",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Sixteen'?",
+          "correctAnswer": "十六",
+          "wrongAnswers": ["十七", "十八", "十五"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Seventeen'?",
+          "correctAnswer": "十七",
+          "wrongAnswers": ["十六", "十八", "十九"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Eighteen'?",
+          "correctAnswer": "十八",
+          "wrongAnswers": ["十六", "十七", "十九"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Nineteen'?",
+          "correctAnswer": "十九",
+          "wrongAnswers": ["十八", "二十", "十七"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Twenty'?",
+          "correctAnswer": "二十",
+          "wrongAnswers": ["三十", "十九", "十二"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Десятки",
+      "description": "Круглые числа от тридцати до семидесяти",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Thirty'?",
+          "correctAnswer": "三十",
+          "wrongAnswers": ["二十", "四十", "五十"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Forty'?",
+          "correctAnswer": "四十",
+          "wrongAnswers": ["三十", "五十", "六十"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Fifty'?",
+          "correctAnswer": "五十",
+          "wrongAnswers": ["四十", "六十", "七十"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Sixty'?",
+          "correctAnswer": "六十",
+          "wrongAnswers": ["五十", "七十", "八十"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Seventy'?",
+          "correctAnswer": "七十",
+          "wrongAnswers": ["六十", "八十", "九十"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Сотни и тысячи",
+      "description": "Большие числа",
+      "difficulty": 2,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Hundred'?",
+          "correctAnswer": "百",
+          "wrongAnswers": ["千", "百万", "十"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Thousand'?",
+          "correctAnswer": "千",
+          "wrongAnswers": ["百", "百万", "十"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Million'?",
+          "correctAnswer": "百万",
+          "wrongAnswers": ["千", "百", "十億"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Billion'?",
+          "correctAnswer": "十億",
+          "wrongAnswers": ["百万", "千", "百"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Zero'?",
+          "correctAnswer": "零",
+          "wrongAnswers": ["一", "十", "百"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Основные цвета",
+      "description": "Красный, синий, зелёный, жёлтый, чёрный",
+      "difficulty": 1,
+      "type": "WordTranslation",
+      "language": "Japanese",
+      "tasks": [
+        {
+          "id": 1,
+          "question": "Как переводится 'Red'?",
+          "correctAnswer": "赤",
+          "wrongAnswers": ["青", "緑", "黄"]
+        },
+        {
+          "id": 2,
+          "question": "Как переводится 'Blue'?",
+          "correctAnswer": "青",
+          "wrongAnswers": ["赤", "緑", "紫"]
+        },
+        {
+          "id": 3,
+          "question": "Как переводится 'Green'?",
+          "correctAnswer": "緑",
+          "wrongAnswers": ["赤", "青", "黄"]
+        },
+        {
+          "id": 4,
+          "question": "Как переводится 'Yellow'?",
+          "correctAnswer": "黄",
+          "wrongAnswers": ["赤", "緑", "黒"]
+        },
+        {
+          "id": 5,
+          "question": "Как переводится 'Black'?",
+          "correctAnswer": "黒",
+          "wrongAnswers": ["白", "茶", "灰"]
+        }
+      ]
+    }
+  ]
+}
